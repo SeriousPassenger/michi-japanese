@@ -1,0 +1,1004 @@
+#separator:Tab
+#html:false
+#columns:Japanese	Kana	Romaji	English	Alternatives	Grammar	Note	Tags
+#tags column:8
+私は学生です。	わたしはがくせいです。	watashi wa gakusei desu.	I am a student.	I'm a student.	Polite noun sentences: A wa B desu		michi unit_01 sentence_1
+私は大学生です。	わたしはだいがくせいです。	watashi wa daigakusei desu.	I am a university student.	I'm a college student.	Polite noun sentences: A wa B desu		michi unit_01 sentence_2
+私は一年生です。	わたしはいちねんせいです。	watashi wa ichinensei desu.	I am a first-year student.		Polite noun sentences: A wa B desu	The school level depends on context.	michi unit_01 sentence_3
+私は会社員です。	わたしはかいしゃいんです。	watashi wa kaishain desu.	I am an office worker.	I am a company employee.	Polite noun sentences: A wa B desu		michi unit_01 sentence_4
+私は先生です。	わたしはせんせいです。	watashi wa sensei desu.	I am a teacher.	I'm a teacher.	Polite noun sentences: A wa B desu		michi unit_01 sentence_5
+私は日本人です。	わたしはにほんじんです。	watashi wa nihonjin desu.	I am Japanese.	I'm Japanese.	Polite noun sentences: A wa B desu		michi unit_01 sentence_6
+父は医者です。	ちちはいしゃです。	chichi wa isha desu.	My father is a doctor.		Polite noun sentences: A wa B desu	Chichi refers to your own father when speaking to others.	michi unit_01 sentence_7
+母は先生です。	はははせんせいです。	haha wa sensei desu.	My mother is a teacher.		Polite noun sentences: A wa B desu	Haha refers to your own mother when speaking to others.	michi unit_01 sentence_8
+兄は大学生です。	あにはだいがくせいです。	ani wa daigakusei desu.	My older brother is a university student.	My older brother is a college student.	Polite noun sentences: A wa B desu	Ani means your own older brother.	michi unit_01 sentence_9
+姉は会社員です。	あねはかいしゃいんです。	ane wa kaishain desu.	My older sister is an office worker.	My older sister is a company employee.	Polite noun sentences: A wa B desu	Ane means your own older sister.	michi unit_01 sentence_10
+弟は高校生です。	おとうとはこうこうせいです。	otouto wa koukousei desu.	My younger brother is a high school student.		Polite noun sentences: A wa B desu	Otouto means younger brother.	michi unit_01 sentence_11
+妹は中学生です。	いもうとはちゅうがくせいです。	imouto wa chuugakusei desu.	My younger sister is a junior high school student.	My younger sister is a middle school student.	Polite noun sentences: A wa B desu	Imouto means younger sister.	michi unit_01 sentence_12
+祖父は日本人です。	そふはにほんじんです。	sofu wa nihonjin desu.	My grandfather is Japanese.		Polite noun sentences: A wa B desu		michi unit_01 sentence_13
+祖母はアメリカ人です。	そぼはアメリカじんです。	sobo wa amerikajin desu.	My grandmother is American.		Polite noun sentences: A wa B desu		michi unit_01 sentence_14
+友達は中国人です。	ともだちはちゅうごくじんです。	tomodachi wa chuugokujin desu.	My friend is Chinese.		Polite noun sentences: A wa B desu		michi unit_01 sentence_15
+夫は会社員です。	おっとはかいしゃいんです。	otto wa kaishain desu.	My husband is an office worker.	My husband is a company employee.	Polite noun sentences: A wa B desu		michi unit_01 sentence_16
+妻は医者です。	つまはいしゃです。	tsuma wa isha desu.	My wife is a doctor.		Polite noun sentences: A wa B desu		michi unit_01 sentence_17
+今日は休みです。	きょうはやすみです。	kyou wa yasumi desu.	Today is a day off.	I have the day off today.	Polite noun sentences: A wa B desu	The person or institution taking the day off depends on context.	michi unit_01 sentence_18
+今日は日曜日です。	きょうはにちようびです。	kyou wa nichiyoubi desu.	Today is Sunday.		Polite noun sentences: A wa B desu		michi unit_01 sentence_19
+明日は月曜日です。	あしたはげつようびです。	ashita wa getsuyoubi desu.	Tomorrow is Monday.		Polite noun sentences: A wa B desu		michi unit_01 sentence_20
+今は朝です。	いまはあさです。	ima wa asa desu.	It is morning now.	It's morning now.	Polite noun sentences: A wa B desu		michi unit_01 sentence_21
+朝ご飯はパンです。	あさごはんはパンです。	asagohan wa pan desu.	Breakfast is bread.	We are having bread for breakfast.	Polite noun sentences: A wa B desu	The person eating is understood from context.	michi unit_01 sentence_22
+飲み物は水です。	のみものはみずです。	nomimono wa mizu desu.	The drink is water.		Polite noun sentences: A wa B desu		michi unit_01 sentence_23
+母語は英語です。	ぼごはえいごです。	bogo wa eigo desu.	My native language is English.	My first language is English.	Polite noun sentences: A wa B desu	The owner of the native language is understood from context.	michi unit_01 sentence_24
+趣味は読書です。	しゅみはどくしょです。	shumi wa dokusho desu.	My hobby is reading.		Polite noun sentences: A wa B desu	The person's hobby is understood from context.	michi unit_01 sentence_25
+これは本です。	これはほんです。	kore wa hon desu.	This is a book.		Demonstratives and possession with no		michi unit_02 sentence_26
+それはノートです。	それはノートです。	sore wa nooto desu.	That is a notebook.		Demonstratives and possession with no	Sore points to something near the listener.	michi unit_02 sentence_27
+あれは時計です。	あれはとけいです。	are wa tokei desu.	That over there is a clock.		Demonstratives and possession with no	Are points to something away from both speaker and listener.	michi unit_02 sentence_28
+この本は私のです。	このほんはわたしのです。	kono hon wa watashi no desu.	This book is mine.		Demonstratives and possession with no		michi unit_02 sentence_29
+このかばんは母のです。	このかばんはははのです。	kono kaban wa haha no desu.	This bag is my mother's.		Demonstratives and possession with no		michi unit_02 sentence_30
+その傘は父のです。	そのかさはちちのです。	sono kasa wa chichi no desu.	That umbrella is my father's.		Demonstratives and possession with no		michi unit_02 sentence_31
+あの自転車は兄のです。	あのじてんしゃはあにのです。	ano jitensha wa ani no desu.	That bicycle over there is my older brother's.	That bike over there is my older brother's.	Demonstratives and possession with no		michi unit_02 sentence_32
+これは日本語の本です。	これはにほんごのほんです。	kore wa nihongo no hon desu.	This is a book in Japanese.	This is a Japanese-language book.	Demonstratives and possession with no	Here nihongo no describes the language of the book.	michi unit_02 sentence_33
+それは英語の新聞です。	それはえいごのしんぶんです。	sore wa eigo no shinbun desu.	That is a newspaper in English.	That is an English-language newspaper.	Demonstratives and possession with no		michi unit_02 sentence_34
+あれは学校のバスです。	あれはがっこうのバスです。	are wa gakkou no basu desu.	That over there is the school's bus.	That over there is a school bus.	Demonstratives and possession with no		michi unit_02 sentence_35
+私のかばんはこれです。	わたしのかばんはこれです。	watashi no kaban wa kore desu.	This is my bag.	My bag is this one.	Demonstratives and possession with no		michi unit_02 sentence_36
+あなたの靴はそれです。	あなたのくつはそれです。	anata no kutsu wa sore desu.	Those are your shoes.	Your shoes are those ones.	Demonstratives and possession with no	Japanese nouns do not mark singular or plural.	michi unit_02 sentence_37
+妹の机はあれです。	いもうとのつくえはあれです。	imouto no tsukue wa are desu.	That desk over there is my younger sister's.	My younger sister's desk is that one over there.	Demonstratives and possession with no		michi unit_02 sentence_38
+この人は先生です。	このひとはせんせいです。	kono hito wa sensei desu.	This person is a teacher.		Demonstratives and possession with no		michi unit_02 sentence_39
+その人は友達です。	そのひとはともだちです。	sono hito wa tomodachi desu.	That person is my friend.		Demonstratives and possession with no		michi unit_02 sentence_40
+あの人は医者です。	あのひとはいしゃです。	ano hito wa isha desu.	That person over there is a doctor.		Demonstratives and possession with no		michi unit_02 sentence_41
+このペンは姉のです。	このペンはあねのです。	kono pen wa ane no desu.	This pen is my older sister's.		Demonstratives and possession with no		michi unit_02 sentence_42
+その写真は家族の写真です。	そのしゃしんはかぞくのしゃしんです。	sono shashin wa kazoku no shashin desu.	That photo is a family photo.	That photograph is a family photograph.	Demonstratives and possession with no		michi unit_02 sentence_43
+あの建物は大学です。	あのたてものはだいがくです。	ano tatemono wa daigaku desu.	That building over there is a university.		Demonstratives and possession with no		michi unit_02 sentence_44
+これは私の部屋です。	これはわたしのへやです。	kore wa watashi no heya desu.	This is my room.		Demonstratives and possession with no		michi unit_02 sentence_45
+それは弟のおもちゃです。	それはおとうとのおもちゃです。	sore wa otouto no omocha desu.	That is my younger brother's toy.		Demonstratives and possession with no		michi unit_02 sentence_46
+あれは祖母の家です。	あれはそぼのいえです。	are wa sobo no ie desu.	That over there is my grandmother's house.	That house over there is my grandmother's.	Demonstratives and possession with no		michi unit_02 sentence_47
+この車は父の車です。	このくるまはちちのくるまです。	kono kuruma wa chichi no kuruma desu.	This car is my father's car.	This car belongs to my father.	Demonstratives and possession with no		michi unit_02 sentence_48
+その鍵は家の鍵です。	そのかぎはいえのかぎです。	sono kagi wa ie no kagi desu.	That key is the house key.		Demonstratives and possession with no		michi unit_02 sentence_49
+あの店は友達の店です。	あのみせはともだちのみせです。	ano mise wa tomodachi no mise desu.	That shop over there is my friend's shop.	That store over there belongs to my friend.	Demonstratives and possession with no		michi unit_02 sentence_50
+これは何ですか。	これはなんですか。	kore wa nan desu ka.	What is this?		Questions with ka and question words		michi unit_03 sentence_51
+それは誰のかばんですか。	それはだれのかばんですか。	sore wa dare no kaban desu ka.	Whose bag is that?		Questions with ka and question words		michi unit_03 sentence_52
+あの人は誰ですか。	あのひとはだれですか。	ano hito wa dare desu ka.	Who is that person over there?		Questions with ka and question words		michi unit_03 sentence_53
+あなたは学生ですか。	あなたはがくせいですか。	anata wa gakusei desu ka.	Are you a student?		Questions with ka and question words	Names or titles often replace anata in conversation.	michi unit_03 sentence_54
+お仕事は何ですか。	おしごとはなんですか。	oshigoto wa nan desu ka.	What do you do for work?	What is your job?	Questions with ka and question words		michi unit_03 sentence_55
+お名前は何ですか。	おなまえはなんですか。	onamae wa nan desu ka.	What is your name?	What's your name?	Questions with ka and question words		michi unit_03 sentence_56
+どこの国の人ですか。	どこのくにのひとですか。	doko no kuni no hito desu ka.	What country are you from?	Which country are you from?	Questions with ka and question words	The person being asked about is understood from context.	michi unit_03 sentence_57
+母語は何ですか。	ぼごはなんですか。	bogo wa nan desu ka.	What is your native language?	What is your first language?	Questions with ka and question words		michi unit_03 sentence_58
+日本人ですか。	にほんじんですか。	nihonjin desu ka.	Are you Japanese?		Questions with ka and question words	The subject is understood from context.	michi unit_03 sentence_59
+先生は日本人ですか。	せんせいはにほんじんですか。	sensei wa nihonjin desu ka.	Is the teacher Japanese?		Questions with ka and question words		michi unit_03 sentence_60
+これはあなたの本ですか。	これはあなたのほんですか。	kore wa anata no hon desu ka.	Is this your book?		Questions with ka and question words		michi unit_03 sentence_61
+この傘は誰のですか。	このかさはだれのですか。	kono kasa wa dare no desu ka.	Whose umbrella is this?		Questions with ka and question words		michi unit_03 sentence_62
+どのかばんがあなたのですか。	どのかばんがあなたのですか。	dono kaban ga anata no desu ka.	Which bag is yours?		Questions with ka and question words	Ga marks the item to identify in this question.	michi unit_03 sentence_63
+どれが私の席ですか。	どれがわたしのせきですか。	dore ga watashi no seki desu ka.	Which one is my seat?		Questions with ka and question words		michi unit_03 sentence_64
+家族は何人ですか。	かぞくはなんにんですか。	kazoku wa nannin desu ka.	How many people are in your family?		Questions with ka and question words		michi unit_03 sentence_65
+弟は学生ですか。	おとうとはがくせいですか。	otouto wa gakusei desu ka.	Is your younger brother a student?		Questions with ka and question words	The family being discussed supplies the implied possessor.	michi unit_03 sentence_66
+お母さんは先生ですか。	おかあさんはせんせいですか。	okaasan wa sensei desu ka.	Is your mother a teacher?		Questions with ka and question words		michi unit_03 sentence_67
+お父さんは会社員ですか。	おとうさんはかいしゃいんですか。	otousan wa kaishain desu ka.	Is your father an office worker?	Is your father a company employee?	Questions with ka and question words		michi unit_03 sentence_68
+誰が先生ですか。	だれがせんせいですか。	dare ga sensei desu ka.	Who is the teacher?		Questions with ka and question words		michi unit_03 sentence_69
+この人はお兄さんですか。	このひとはおにいさんですか。	kono hito wa oniisan desu ka.	Is this person your older brother?		Questions with ka and question words		michi unit_03 sentence_70
+その人はお姉さんですか。	そのひとはおねえさんですか。	sono hito wa oneesan desu ka.	Is that person your older sister?		Questions with ka and question words		michi unit_03 sentence_71
+あの人はお母さんですか。	あのひとはおかあさんですか。	ano hito wa okaasan desu ka.	Is that person over there your mother?		Questions with ka and question words		michi unit_03 sentence_72
+好きな食べ物は何ですか。	すきなたべものはなんですか。	suki na tabemono wa nan desu ka.	What is your favorite food?	What food do you like?	Questions with ka and question words	Suki na describes something you like.	michi unit_03 sentence_73
+この本は日本語の本ですか。	このほんはにほんごのほんですか。	kono hon wa nihongo no hon desu ka.	Is this book in Japanese?	Is this a Japanese-language book?	Questions with ka and question words		michi unit_03 sentence_74
+今日は何曜日ですか。	きょうはなんようびですか。	kyou wa nanyoubi desu ka.	What day of the week is it today?	What day is it today?	Questions with ka and question words		michi unit_03 sentence_75
+ここは駅です。	ここはえきです。	koko wa eki desu.	This is the station.	Here is the station.	Location and existence: arimasu and imasu		michi unit_04 sentence_76
+そこは図書館です。	そこはとしょかんです。	soko wa toshokan desu.	That place is the library.		Location and existence: arimasu and imasu	Soko refers to a place near the listener or already mentioned.	michi unit_04 sentence_77
+あそこは病院です。	あそこはびょういんです。	asoko wa byouin desu.	That place over there is the hospital.		Location and existence: arimasu and imasu		michi unit_04 sentence_78
+教室は二階です。	きょうしつはにかいです。	kyoushitsu wa nikai desu.	The classroom is on the second floor.		Location and existence: arimasu and imasu	Japanese floor numbering starts with the ground floor as the first floor.	michi unit_04 sentence_79
+トイレはどこですか。	トイレはどこですか。	toire wa doko desu ka.	Where is the bathroom?	Where is the toilet?	Location and existence: arimasu and imasu		michi unit_04 sentence_80
+駅はどこですか。	えきはどこですか。	eki wa doko desu ka.	Where is the station?		Location and existence: arimasu and imasu		michi unit_04 sentence_81
+学校は家の近くです。	がっこうはいえのちかくです。	gakkou wa ie no chikaku desu.	The school is near my house.	The school is near the house.	Location and existence: arimasu and imasu		michi unit_04 sentence_82
+銀行は駅の前です。	ぎんこうはえきのまえです。	ginkou wa eki no mae desu.	The bank is in front of the station.		Location and existence: arimasu and imasu		michi unit_04 sentence_83
+店は学校の隣です。	みせはがっこうのとなりです。	mise wa gakkou no tonari desu.	The shop is next to the school.	The store is next to the school.	Location and existence: arimasu and imasu		michi unit_04 sentence_84
+郵便局は銀行の後ろです。	ゆうびんきょくはぎんこうのうしろです。	yuubinkyoku wa ginkou no ushiro desu.	The post office is behind the bank.		Location and existence: arimasu and imasu		michi unit_04 sentence_85
+かばんは机の下です。	かばんはつくえのしたです。	kaban wa tsukue no shita desu.	The bag is under the desk.		Location and existence: arimasu and imasu		michi unit_04 sentence_86
+時計は壁にあります。	とけいはかべにあります。	tokei wa kabe ni arimasu.	The clock is on the wall.		Location and existence: arimasu and imasu	Arimasu is used for inanimate things.	michi unit_04 sentence_87
+本は机の上にあります。	ほんはつくえのうえにあります。	hon wa tsukue no ue ni arimasu.	The book is on the desk.	The book is on top of the desk.	Location and existence: arimasu and imasu		michi unit_04 sentence_88
+椅子は教室にあります。	いすはきょうしつにあります。	isu wa kyoushitsu ni arimasu.	The chair is in the classroom.		Location and existence: arimasu and imasu		michi unit_04 sentence_89
+台所に冷蔵庫があります。	だいどころにれいぞうこがあります。	daidokoro ni reizouko ga arimasu.	There is a refrigerator in the kitchen.	There is a fridge in the kitchen.	Location and existence: arimasu and imasu		michi unit_04 sentence_90
+部屋にベッドがあります。	へやにベッドがあります。	heya ni beddo ga arimasu.	There is a bed in the room.		Location and existence: arimasu and imasu		michi unit_04 sentence_91
+公園に木があります。	こうえんにきがあります。	kouen ni ki ga arimasu.	There is a tree in the park.		Location and existence: arimasu and imasu	Plants use arimasu.	michi unit_04 sentence_92
+庭に花があります。	にわにはながあります。	niwa ni hana ga arimasu.	There are flowers in the garden.	There is a flower in the garden.	Location and existence: arimasu and imasu	Japanese does not require a singular/plural distinction here.	michi unit_04 sentence_93
+母は台所にいます。	はははだいどころにいます。	haha wa daidokoro ni imasu.	My mother is in the kitchen.		Location and existence: arimasu and imasu	Imasu is used for people and animals.	michi unit_04 sentence_94
+父は会社にいます。	ちちはかいしゃにいます。	chichi wa kaisha ni imasu.	My father is at work.	My father is at the office.	Location and existence: arimasu and imasu		michi unit_04 sentence_95
+妹は部屋にいます。	いもうとはへやにいます。	imouto wa heya ni imasu.	My younger sister is in the room.		Location and existence: arimasu and imasu		michi unit_04 sentence_96
+先生は教室にいます。	せんせいはきょうしつにいます。	sensei wa kyoushitsu ni imasu.	The teacher is in the classroom.		Location and existence: arimasu and imasu		michi unit_04 sentence_97
+駅に人がいます。	えきにひとがいます。	eki ni hito ga imasu.	There are people at the station.	There is someone at the station.	Location and existence: arimasu and imasu	The number of people is left unspecified.	michi unit_04 sentence_98
+公園に子供がいます。	こうえんにこどもがいます。	kouen ni kodomo ga imasu.	There is a child in the park.	There are children in the park.	Location and existence: arimasu and imasu		michi unit_04 sentence_99
+犬は椅子の下にいます。	いぬはいすのしたにいます。	inu wa isu no shita ni imasu.	The dog is under the chair.		Location and existence: arimasu and imasu		michi unit_04 sentence_100
+今は一時です。	いまはいちじです。	ima wa ichiji desu.	It is one o'clock now.	It's one o'clock now.	Numbers, dates, time, and counters		michi unit_05 sentence_101
+今は二時半です。	いまはにじはんです。	ima wa nijihan desu.	It is half past two now.	It's two thirty now.	Numbers, dates, time, and counters		michi unit_05 sentence_102
+今は七時です。	いまはしちじです。	ima wa shichiji desu.	It is seven o'clock now.	It's seven o'clock now.	Numbers, dates, time, and counters	Seven o'clock is commonly read shichiji.	michi unit_05 sentence_103
+今は九時です。	いまはくじです。	ima wa kuji desu.	It is nine o'clock now.	It's nine o'clock now.	Numbers, dates, time, and counters	Nine o'clock is kuji.	michi unit_05 sentence_104
+今は四時です。	いまはよじです。	ima wa yoji desu.	It is four o'clock now.	It's four o'clock now.	Numbers, dates, time, and counters	Four o'clock is yoji.	michi unit_05 sentence_105
+朝ご飯は七時です。	あさごはんはしちじです。	asagohan wa shichiji desu.	Breakfast is at seven o'clock.		Numbers, dates, time, and counters		michi unit_05 sentence_106
+昼ご飯は十二時です。	ひるごはんはじゅうにじです。	hirugohan wa juuniji desu.	Lunch is at twelve o'clock.		Numbers, dates, time, and counters		michi unit_05 sentence_107
+晩ご飯は六時半です。	ばんごはんはろくじはんです。	bangohan wa rokujihan desu.	Dinner is at half past six.	Dinner is at six thirty.	Numbers, dates, time, and counters		michi unit_05 sentence_108
+学校は九時からです。	がっこうはくじからです。	gakkou wa kuji kara desu.	School starts at nine o'clock.	School is from nine o'clock.	Numbers, dates, time, and counters	Kara marks the starting time.	michi unit_05 sentence_109
+店は十時からです。	みせはじゅうじからです。	mise wa juuji kara desu.	The shop opens at ten o'clock.	The store opens at ten o'clock.	Numbers, dates, time, and counters		michi unit_05 sentence_110
+仕事は五時までです。	しごとはごじまでです。	shigoto wa goji made desu.	Work finishes at five o'clock.	Work is until five o'clock.	Numbers, dates, time, and counters	Made marks the endpoint.	michi unit_05 sentence_111
+今日は一月一日です。	きょうはいちがつついたちです。	kyou wa ichigatsu tsuitachi desu.	Today is January first.	Today is the first of January.	Numbers, dates, time, and counters	The first day of a month is tsuitachi.	michi unit_05 sentence_112
+明日は五日です。	あしたはいつかです。	ashita wa itsuka desu.	Tomorrow is the fifth.	Tomorrow is the fifth of the month.	Numbers, dates, time, and counters	Itsuka means the fifth day here; it can also mean five days.	michi unit_05 sentence_113
+誕生日は三月です。	たんじょうびはさんがつです。	tanjoubi wa sangatsu desu.	My birthday is in March.		Numbers, dates, time, and counters	The person whose birthday it is is understood from context.	michi unit_05 sentence_114
+日曜日は休みです。	にちようびはやすみです。	nichiyoubi wa yasumi desu.	Sunday is a day off.	I have Sundays off.	Numbers, dates, time, and counters		michi unit_05 sentence_115
+私は十八歳です。	わたしはじゅうはっさいです。	watashi wa juuhassai desu.	I am eighteen years old.	I am eighteen.	Numbers, dates, time, and counters		michi unit_05 sentence_116
+弟は十歳です。	おとうとはじゅっさいです。	otouto wa jussai desu.	My younger brother is ten years old.	My younger brother is ten.	Numbers, dates, time, and counters	Jissai is another accepted reading of ten years old.	michi unit_05 sentence_117
+妹は八歳です。	いもうとははっさいです。	imouto wa hassai desu.	My younger sister is eight years old.	My younger sister is eight.	Numbers, dates, time, and counters		michi unit_05 sentence_118
+祖母は六十歳です。	そぼはろくじゅっさいです。	sobo wa rokujussai desu.	My grandmother is sixty years old.	My grandmother is sixty.	Numbers, dates, time, and counters		michi unit_05 sentence_119
+家族は四人です。	かぞくはよにんです。	kazoku wa yonin desu.	There are four people in my family.	My family has four people.	Numbers, dates, time, and counters	Four people is yonin.	michi unit_05 sentence_120
+兄弟は三人です。	きょうだいはさんにんです。	kyoudai wa sannin desu.	There are three of us siblings.		Numbers, dates, time, and counters	Kyoudai can include sisters; counting siblings often includes the speaker.	michi unit_05 sentence_121
+この本は五百円です。	このほんはごひゃくえんです。	kono hon wa gohyakuen desu.	This book costs five hundred yen.	This book is five hundred yen.	Numbers, dates, time, and counters		michi unit_05 sentence_122
+このりんごは百円です。	このりんごはひゃくえんです。	kono ringo wa hyakuen desu.	This apple costs one hundred yen.	This apple is one hundred yen.	Numbers, dates, time, and counters		michi unit_05 sentence_123
+切手は百十円です。	きってはひゃくじゅうえんです。	kitte wa hyakujuuen desu.	The stamp costs one hundred and ten yen.	The stamp is one hundred ten yen.	Numbers, dates, time, and counters	This is an example price, not a statement of current postage rates.	michi unit_05 sentence_124
+教室に学生が十人います。	きょうしつにがくせいがじゅうにんいます。	kyoushitsu ni gakusei ga juunin imasu.	There are ten students in the classroom.		Numbers, dates, time, and counters		michi unit_05 sentence_125
+この本は新しいです。	このほんはあたらしいです。	kono hon wa atarashii desu.	This book is new.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_126
+その車は古いです。	そのくるまはふるいです。	sono kuruma wa furui desu.	That car is old.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_127
+あの家は大きいです。	あのいえはおおきいです。	ano ie wa ookii desu.	That house over there is big.	That house over there is large.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_128
+この部屋は小さいです。	このへやはちいさいです。	kono heya wa chiisai desu.	This room is small.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_129
+このかばんは重いです。	このかばんはおもいです。	kono kaban wa omoi desu.	This bag is heavy.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_130
+その箱は軽いです。	そのはこはかるいです。	sono hako wa karui desu.	That box is light.	That box is lightweight.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_131
+この鉛筆は長いです。	このえんぴつはながいです。	kono enpitsu wa nagai desu.	This pencil is long.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_132
+その鉛筆は短いです。	そのえんぴつはみじかいです。	sono enpitsu wa mijikai desu.	That pencil is short.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_133
+この靴は高いです。	このくつはたかいです。	kono kutsu wa takai desu.	These shoes are expensive.	This shoe is expensive.	Basic i-adjectives and na-adjectives	Takai means expensive here; it can also mean tall or high.	michi unit_06 sentence_134
+そのシャツは安いです。	そのシャツはやすいです。	sono shatsu wa yasui desu.	That shirt is cheap.	That shirt is inexpensive.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_135
+このお茶は熱いです。	このおちゃはあついです。	kono ocha wa atsui desu.	This tea is hot.		Basic i-adjectives and na-adjectives	Atsui with this kanji describes something hot to the touch.	michi unit_06 sentence_136
+水は冷たいです。	みずはつめたいです。	mizu wa tsumetai desu.	The water is cold.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_137
+このりんごは甘いです。	このりんごはあまいです。	kono ringo wa amai desu.	This apple is sweet.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_138
+レモンは酸っぱいです。	レモンはすっぱいです。	remon wa suppai desu.	Lemons are sour.	The lemon is sour.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_139
+この料理はおいしいです。	このりょうりはおいしいです。	kono ryouri wa oishii desu.	This dish is delicious.	This food is delicious.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_140
+今日は暑いです。	きょうはあついです。	kyou wa atsui desu.	It is hot today.	It's hot today.	Basic i-adjectives and na-adjectives	Atsui with this kanji describes hot weather.	michi unit_06 sentence_141
+今日は寒いです。	きょうはさむいです。	kyou wa samui desu.	It is cold today.	It's cold today.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_142
+空は青いです。	そらはあおいです。	sora wa aoi desu.	The sky is blue.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_143
+雪は白いです。	ゆきはしろいです。	yuki wa shiroi desu.	Snow is white.	The snow is white.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_144
+このペンは黒いです。	このペンはくろいです。	kono pen wa kuroi desu.	This pen is black.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_145
+教室は静かです。	きょうしつはしずかです。	kyoushitsu wa shizuka desu.	The classroom is quiet.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_146
+駅はにぎやかです。	えきはにぎやかです。	eki wa nigiyaka desu.	The station is lively.	The station is bustling.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_147
+この公園はきれいです。	このこうえんはきれいです。	kono kouen wa kirei desu.	This park is beautiful.	This park is clean.	Basic i-adjectives and na-adjectives	Kirei can mean beautiful or clean, depending on context.	michi unit_06 sentence_148
+先生は親切です。	せんせいはしんせつです。	sensei wa shinsetsu desu.	The teacher is kind.		Basic i-adjectives and na-adjectives		michi unit_06 sentence_149
+日本語は難しいです。	にほんごはむずかしいです。	nihongo wa muzukashii desu.	Japanese is difficult.	Japanese is hard.	Basic i-adjectives and na-adjectives		michi unit_06 sentence_150
+私はご飯を食べます。	わたしはごはんをたべます。	watashi wa gohan o tabemasu.	I eat rice.	I eat a meal.	Present polite verbs with masu	Gohan can mean cooked rice or a meal; masu can describe a habit or a future action.	michi unit_07 sentence_151
+私は水を飲みます。	わたしはみずをのみます。	watashi wa mizu o nomimasu.	I drink water.		Present polite verbs with masu		michi unit_07 sentence_152
+私は本を読みます。	わたしはほんをよみます。	watashi wa hon o yomimasu.	I read books.	I read a book.	Present polite verbs with masu	Japanese does not require a singular/plural distinction here.	michi unit_07 sentence_153
+私は日本語を勉強します。	わたしはにほんごをべんきょうします。	watashi wa nihongo o benkyou shimasu.	I study Japanese.		Present polite verbs with masu		michi unit_07 sentence_154
+母は料理をします。	はははりょうりをします。	haha wa ryouri o shimasu.	My mother cooks.	My mother does the cooking.	Present polite verbs with masu		michi unit_07 sentence_155
+父は新聞を読みます。	ちちはしんぶんをよみます。	chichi wa shinbun o yomimasu.	My father reads the newspaper.		Present polite verbs with masu		michi unit_07 sentence_156
+兄は音楽を聞きます。	あにはおんがくをききます。	ani wa ongaku o kikimasu.	My older brother listens to music.		Present polite verbs with masu		michi unit_07 sentence_157
+姉は手紙を書きます。	あねはてがみをかきます。	ane wa tegami o kakimasu.	My older sister writes letters.	My older sister writes a letter.	Present polite verbs with masu		michi unit_07 sentence_158
+弟はテレビを見ます。	おとうとはテレビをみます。	otouto wa terebi o mimasu.	My younger brother watches television.	My younger brother watches TV.	Present polite verbs with masu		michi unit_07 sentence_159
+妹は絵を描きます。	いもうとはえをかきます。	imouto wa e o kakimasu.	My younger sister draws pictures.	My younger sister draws a picture.	Present polite verbs with masu		michi unit_07 sentence_160
+私は学校に行きます。	わたしはがっこうにいきます。	watashi wa gakkou ni ikimasu.	I go to school.		Present polite verbs with masu		michi unit_07 sentence_161
+父は会社に行きます。	ちちはかいしゃにいきます。	chichi wa kaisha ni ikimasu.	My father goes to work.	My father goes to the office.	Present polite verbs with masu		michi unit_07 sentence_162
+母は家に帰ります。	はははいえにかえります。	haha wa ie ni kaerimasu.	My mother goes home.	My mother returns home.	Present polite verbs with masu		michi unit_07 sentence_163
+友達は駅に来ます。	ともだちはえきにきます。	tomodachi wa eki ni kimasu.	My friend comes to the station.	My friend will come to the station.	Present polite verbs with masu		michi unit_07 sentence_164
+私は七時に起きます。	わたしはしちじにおきます。	watashi wa shichiji ni okimasu.	I get up at seven o'clock.	I wake up at seven o'clock.	Present polite verbs with masu		michi unit_07 sentence_165
+私は十時に寝ます。	わたしはじゅうじにねます。	watashi wa juuji ni nemasu.	I go to bed at ten o'clock.		Present polite verbs with masu		michi unit_07 sentence_166
+私は公園を歩きます。	わたしはこうえんをあるきます。	watashi wa kouen o arukimasu.	I walk through the park.	I walk in the park.	Present polite verbs with masu	O can mark a place you move through.	michi unit_07 sentence_167
+私は駅で待ちます。	わたしはえきでまちます。	watashi wa eki de machimasu.	I wait at the station.	I will wait at the station.	Present polite verbs with masu		michi unit_07 sentence_168
+先生は教室で話します。	せんせいはきょうしつではなします。	sensei wa kyoushitsu de hanashimasu.	The teacher speaks in the classroom.	The teacher talks in the classroom.	Present polite verbs with masu		michi unit_07 sentence_169
+私は店で働きます。	わたしはみせではたらきます。	watashi wa mise de hatarakimasu.	I work in a shop.	I work in a store.	Present polite verbs with masu		michi unit_07 sentence_170
+私はパンを買います。	わたしはパンをかいます。	watashi wa pan o kaimasu.	I buy bread.	I will buy bread.	Present polite verbs with masu		michi unit_07 sentence_171
+私は靴を洗います。	わたしはくつをあらいます。	watashi wa kutsu o araimasu.	I wash my shoes.	I wash shoes.	Present polite verbs with masu		michi unit_07 sentence_172
+私は窓を開けます。	わたしはまどをあけます。	watashi wa mado o akemasu.	I open the window.	I will open the window.	Present polite verbs with masu		michi unit_07 sentence_173
+私はドアを閉めます。	わたしはドアをしめます。	watashi wa doa o shimemasu.	I close the door.	I will close the door.	Present polite verbs with masu		michi unit_07 sentence_174
+私は毎日走ります。	わたしはまいにちはしります。	watashi wa mainichi hashirimasu.	I run every day.		Present polite verbs with masu		michi unit_07 sentence_175
+私は図書館で本を読みます。	わたしはとしょかんでほんをよみます。	watashi wa toshokan de hon o yomimasu.	I read books at the library.	I read a book at the library.	Particles for objects, places, means, and companions		michi unit_08 sentence_176
+私は台所でお茶を飲みます。	わたしはだいどころでおちゃをのみます。	watashi wa daidokoro de ocha o nomimasu.	I drink tea in the kitchen.		Particles for objects, places, means, and companions		michi unit_08 sentence_177
+母は台所で料理をします。	はははだいどころでりょうりをします。	haha wa daidokoro de ryouri o shimasu.	My mother cooks in the kitchen.		Particles for objects, places, means, and companions		michi unit_08 sentence_178
+父は会社で働きます。	ちちはかいしゃではたらきます。	chichi wa kaisha de hatarakimasu.	My father works at a company.	My father works at the office.	Particles for objects, places, means, and companions		michi unit_08 sentence_179
+兄は大学で勉強します。	あにはだいがくでべんきょうします。	ani wa daigaku de benkyou shimasu.	My older brother studies at university.	My older brother studies at college.	Particles for objects, places, means, and companions		michi unit_08 sentence_180
+妹は公園で遊びます。	いもうとはこうえんであそびます。	imouto wa kouen de asobimasu.	My younger sister plays in the park.		Particles for objects, places, means, and companions		michi unit_08 sentence_181
+私はバスで学校に行きます。	わたしはバスでがっこうにいきます。	watashi wa basu de gakkou ni ikimasu.	I go to school by bus.		Particles for objects, places, means, and companions	De marks a means of transportation here.	michi unit_08 sentence_182
+私は電車で会社に行きます。	わたしはでんしゃでかいしゃにいきます。	watashi wa densha de kaisha ni ikimasu.	I go to work by train.	I go to the office by train.	Particles for objects, places, means, and companions		michi unit_08 sentence_183
+私は自転車で駅に行きます。	わたしはじてんしゃでえきにいきます。	watashi wa jitensha de eki ni ikimasu.	I go to the station by bicycle.	I ride my bike to the station.	Particles for objects, places, means, and companions		michi unit_08 sentence_184
+私は友達と映画を見ます。	わたしはともだちとえいがをみます。	watashi wa tomodachi to eiga o mimasu.	I watch a movie with my friend.	I watch movies with my friend.	Particles for objects, places, means, and companions	To marks a companion here.	michi unit_08 sentence_185
+私は母と買い物をします。	わたしはははとかいものをします。	watashi wa haha to kaimono o shimasu.	I go shopping with my mother.	I shop with my mother.	Particles for objects, places, means, and companions		michi unit_08 sentence_186
+私は家族と晩ご飯を食べます。	わたしはかぞくとばんごはんをたべます。	watashi wa kazoku to bangohan o tabemasu.	I eat dinner with my family.	I have dinner with my family.	Particles for objects, places, means, and companions		michi unit_08 sentence_187
+私は兄に手紙を書きます。	わたしはあににてがみをかきます。	watashi wa ani ni tegami o kakimasu.	I write a letter to my older brother.	I write letters to my older brother.	Particles for objects, places, means, and companions		michi unit_08 sentence_188
+私は先生に質問をします。	わたしはせんせいにしつもんをします。	watashi wa sensei ni shitsumon o shimasu.	I ask the teacher a question.	I ask the teacher questions.	Particles for objects, places, means, and companions		michi unit_08 sentence_189
+私は友達に電話をします。	わたしはともだちにでんわをします。	watashi wa tomodachi ni denwa o shimasu.	I call my friend.	I telephone my friend.	Particles for objects, places, means, and companions		michi unit_08 sentence_190
+私は机の上に本を置きます。	わたしはつくえのうえにほんをおきます。	watashi wa tsukue no ue ni hon o okimasu.	I put a book on the desk.	I place a book on the desk.	Particles for objects, places, means, and companions		michi unit_08 sentence_191
+私はかばんに財布を入れます。	わたしはかばんにさいふをいれます。	watashi wa kaban ni saifu o iremasu.	I put my wallet in my bag.	I put a wallet in the bag.	Particles for objects, places, means, and companions		michi unit_08 sentence_192
+私は店で牛乳とパンを買います。	わたしはみせでぎゅうにゅうとパンをかいます。	watashi wa mise de gyuunyuu to pan o kaimasu.	I buy milk and bread at the shop.	I buy milk and bread at the store.	Particles for objects, places, means, and companions	To connects nouns meaning and.	michi unit_08 sentence_193
+私は朝ご飯に卵を食べます。	わたしはあさごはんにたまごをたべます。	watashi wa asagohan ni tamago o tabemasu.	I eat eggs for breakfast.	I eat an egg for breakfast.	Particles for objects, places, means, and companions		michi unit_08 sentence_194
+私は家から駅まで歩きます。	わたしはいえからえきまであるきます。	watashi wa ie kara eki made arukimasu.	I walk from my house to the station.	I walk from home to the station.	Particles for objects, places, means, and companions		michi unit_08 sentence_195
+バスは駅から学校まで行きます。	バスはえきからがっこうまでいきます。	basu wa eki kara gakkou made ikimasu.	The bus goes from the station to the school.		Particles for objects, places, means, and companions		michi unit_08 sentence_196
+私は日曜日に友達に会います。	わたしはにちようびにともだちにあいます。	watashi wa nichiyoubi ni tomodachi ni aimasu.	I meet my friend on Sunday.	I see my friend on Sundays.	Particles for objects, places, means, and companions	The first ni marks time; the second marks the person you meet.	michi unit_08 sentence_197
+私は六時に家に帰ります。	わたしはろくじにいえにかえります。	watashi wa rokuji ni ie ni kaerimasu.	I go home at six o'clock.	I return home at six o'clock.	Particles for objects, places, means, and companions		michi unit_08 sentence_198
+私は妹と日本語で話します。	わたしはいもうととにほんごではなします。	watashi wa imouto to nihongo de hanashimasu.	I speak Japanese with my younger sister.	I talk with my younger sister in Japanese.	Particles for objects, places, means, and companions	De marks the language used.	michi unit_08 sentence_199
+私は箸でご飯を食べます。	わたしははしでごはんをたべます。	watashi wa hashi de gohan o tabemasu.	I eat rice with chopsticks.	I eat my meal with chopsticks.	Particles for objects, places, means, and companions	De marks the tool used.	michi unit_08 sentence_200
+私は毎朝コーヒーを飲みます。	わたしはまいあさコーヒーをのみます。	watashi wa maiasa koohii o nomimasu.	I drink coffee every morning.		Frequency expressions and daily routines		michi unit_09 sentence_201
+私は毎晩本を読みます。	わたしはまいばんほんをよみます。	watashi wa maiban hon o yomimasu.	I read books every night.	I read a book every evening.	Frequency expressions and daily routines		michi unit_09 sentence_202
+私は毎日日本語を勉強します。	わたしはまいにちにほんごをべんきょうします。	watashi wa mainichi nihongo o benkyou shimasu.	I study Japanese every day.		Frequency expressions and daily routines		michi unit_09 sentence_203
+私はよく図書館に行きます。	わたしはよくとしょかんにいきます。	watashi wa yoku toshokan ni ikimasu.	I often go to the library.	I frequently go to the library.	Frequency expressions and daily routines		michi unit_09 sentence_204
+私は時々映画を見ます。	わたしはときどきえいがをみます。	watashi wa tokidoki eiga o mimasu.	I sometimes watch movies.	I sometimes watch a movie.	Frequency expressions and daily routines		michi unit_09 sentence_205
+私はいつも七時に起きます。	わたしはいつもしちじにおきます。	watashi wa itsumo shichiji ni okimasu.	I always get up at seven o'clock.	I always wake up at seven o'clock.	Frequency expressions and daily routines		michi unit_09 sentence_206
+私はたいてい十時に寝ます。	わたしはたいていじゅうじにねます。	watashi wa taitei juuji ni nemasu.	I usually go to bed at ten o'clock.		Frequency expressions and daily routines		michi unit_09 sentence_207
+私は毎週日曜日に部屋を掃除します。	わたしはまいしゅうにちようびにへやをそうじします。	watashi wa maishuu nichiyoubi ni heya o souji shimasu.	I clean my room every Sunday.	I clean my room on Sunday every week.	Frequency expressions and daily routines		michi unit_09 sentence_208
+私は毎月一冊本を買います。	わたしはまいつきいっさつほんをかいます。	watashi wa maitsuki issatsu hon o kaimasu.	I buy one book every month.	I buy a book each month.	Frequency expressions and daily routines	Satsu is the counter for bound books.	michi unit_09 sentence_209
+私は毎年海に行きます。	わたしはまいとしうみにいきます。	watashi wa maitoshi umi ni ikimasu.	I go to the sea every year.	I go to the beach every year.	Frequency expressions and daily routines	Maitoshi and mainen are both common readings of every year.	michi unit_09 sentence_210
+父は毎朝新聞を読みます。	ちちはまいあさしんぶんをよみます。	chichi wa maiasa shinbun o yomimasu.	My father reads the newspaper every morning.		Frequency expressions and daily routines		michi unit_09 sentence_211
+母はよくパンを作ります。	はははよくパンをつくります。	haha wa yoku pan o tsukurimasu.	My mother often makes bread.	My mother often bakes bread.	Frequency expressions and daily routines		michi unit_09 sentence_212
+兄は時々料理をします。	あにはときどきりょうりをします。	ani wa tokidoki ryouri o shimasu.	My older brother sometimes cooks.		Frequency expressions and daily routines		michi unit_09 sentence_213
+姉は毎日電車で会社に行きます。	あねはまいにちでんしゃでかいしゃにいきます。	ane wa mainichi densha de kaisha ni ikimasu.	My older sister goes to work by train every day.	My older sister takes the train to work every day.	Frequency expressions and daily routines		michi unit_09 sentence_214
+弟はよく公園で遊びます。	おとうとはよくこうえんであそびます。	otouto wa yoku kouen de asobimasu.	My younger brother often plays in the park.		Frequency expressions and daily routines		michi unit_09 sentence_215
+妹はいつも牛乳を飲みます。	いもうとはいつもぎゅうにゅうをのみます。	imouto wa itsumo gyuunyuu o nomimasu.	My younger sister always drinks milk.		Frequency expressions and daily routines		michi unit_09 sentence_216
+私は月曜日から金曜日まで働きます。	わたしはげつようびからきんようびまではたらきます。	watashi wa getsuyoubi kara kinyoubi made hatarakimasu.	I work from Monday to Friday.	I work Monday through Friday.	Frequency expressions and daily routines		michi unit_09 sentence_217
+私は朝ご飯の前に顔を洗います。	わたしはあさごはんのまえにかおをあらいます。	watashi wa asagohan no mae ni kao o araimasu.	I wash my face before breakfast.		Frequency expressions and daily routines		michi unit_09 sentence_218
+私は晩ご飯の後にお風呂に入ります。	わたしはばんごはんのあとにおふろにはいります。	watashi wa bangohan no ato ni ofuro ni hairimasu.	I take a bath after dinner.	I have a bath after dinner.	Frequency expressions and daily routines		michi unit_09 sentence_219
+私は寝る前に歯を磨きます。	わたしはねるまえにはをみがきます。	watashi wa neru mae ni ha o migakimasu.	I brush my teeth before going to bed.	I brush my teeth before I sleep.	Frequency expressions and daily routines	Use the dictionary form of a verb before mae ni.	michi unit_09 sentence_220
+私は休みの日に音楽を聞きます。	わたしはやすみのひにおんがくをききます。	watashi wa yasumi no hi ni ongaku o kikimasu.	I listen to music on my days off.	I listen to music on a day off.	Frequency expressions and daily routines		michi unit_09 sentence_221
+私は週に二回走ります。	わたしはしゅうににかいはしります。	watashi wa shuu ni nikai hashirimasu.	I run twice a week.	I go running twice a week.	Frequency expressions and daily routines		michi unit_09 sentence_222
+私は一日に三回ご飯を食べます。	わたしはいちにちにさんかいごはんをたべます。	watashi wa ichinichi ni sankai gohan o tabemasu.	I eat three meals a day.	I eat three times a day.	Frequency expressions and daily routines	Gohan means a meal here.	michi unit_09 sentence_223
+私は週末に友達に会います。	わたしはしゅうまつにともだちにあいます。	watashi wa shuumatsu ni tomodachi ni aimasu.	I meet my friend on the weekend.	I see my friend at the weekend.	Frequency expressions and daily routines		michi unit_09 sentence_224
+私は夜に家族と話します。	わたしはよるにかぞくとはなします。	watashi wa yoru ni kazoku to hanashimasu.	I talk with my family at night.	I talk to my family in the evening.	Frequency expressions and daily routines		michi unit_09 sentence_225
+私は学生ではありません。	わたしはがくせいではありません。	watashi wa gakusei de wa arimasen.	I am not a student.	I'm not a student.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_226
+私は医者ではありません。	わたしはいしゃではありません。	watashi wa isha de wa arimasen.	I am not a doctor.	I'm not a doctor.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_227
+今日は休みではありません。	きょうはやすみではありません。	kyou wa yasumi de wa arimasen.	Today is not a day off.	I do not have the day off today.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_228
+これは私の本ではありません。	これはわたしのほんではありません。	kore wa watashi no hon de wa arimasen.	This is not my book.	This isn't my book.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_229
+その人は先生ではありません。	そのひとはせんせいではありません。	sono hito wa sensei de wa arimasen.	That person is not a teacher.	That person isn't a teacher.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_230
+父は家にいません。	ちちはいえにいません。	chichi wa ie ni imasen.	My father is not at home.	My father isn't home.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_231
+母は台所にいません。	はははだいどころにいません。	haha wa daidokoro ni imasen.	My mother is not in the kitchen.	My mother isn't in the kitchen.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_232
+机の上に本がありません。	つくえのうえにほんがありません。	tsukue no ue ni hon ga arimasen.	There is no book on the desk.	There are no books on the desk.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_233
+かばんに財布がありません。	かばんにさいふがありません。	kaban ni saifu ga arimasen.	There is no wallet in the bag.	The wallet is not in the bag.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_234
+今日は時間がありません。	きょうはじかんがありません。	kyou wa jikan ga arimasen.	I do not have time today.	I don't have time today.	Polite negatives for nouns, adjectives, and verbs	The person who has no time is understood from context.	michi unit_10 sentence_235
+この本は高くないです。	このほんはたかくないです。	kono hon wa takakunai desu.	This book is not expensive.	This book isn't expensive.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_236
+この部屋は寒くないです。	このへやはさむくないです。	kono heya wa samukunai desu.	This room is not cold.	This room isn't cold.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_237
+このかばんは重くないです。	このかばんはおもくないです。	kono kaban wa omokunai desu.	This bag is not heavy.	This bag isn't heavy.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_238
+このお茶は熱くないです。	このおちゃはあつくないです。	kono ocha wa atsukunai desu.	This tea is not hot.	This tea isn't hot.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_239
+この料理は辛くないです。	このりょうりはからくないです。	kono ryouri wa karakunai desu.	This dish is not spicy.	This food isn't spicy.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_240
+この店は静かではありません。	このみせはしずかではありません。	kono mise wa shizuka de wa arimasen.	This shop is not quiet.	This store isn't quiet.	Polite negatives for nouns, adjectives, and verbs	Na-adjectives use de wa arimasen for this polite negative form.	michi unit_10 sentence_241
+今日は暇ではありません。	きょうはひまではありません。	kyou wa hima de wa arimasen.	I am not free today.	I'm busy today.	Polite negatives for nouns, adjectives, and verbs	Hima means having free time; the person is understood from context.	michi unit_10 sentence_242
+私はコーヒーを飲みません。	わたしはコーヒーをのみません。	watashi wa koohii o nomimasen.	I do not drink coffee.	I don't drink coffee.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_243
+私は肉を食べません。	わたしはにくをたべません。	watashi wa niku o tabemasen.	I do not eat meat.	I don't eat meat.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_244
+私はたばこを吸いません。	わたしはたばこをすいません。	watashi wa tabako o suimasen.	I do not smoke.	I don't smoke.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_245
+私は日曜日に働きません。	わたしはにちようびにはたらきません。	watashi wa nichiyoubi ni hatarakimasen.	I do not work on Sundays.	I don't work on Sunday.	Polite negatives for nouns, adjectives, and verbs		michi unit_10 sentence_246
+私はあまりテレビを見ません。	わたしはあまりテレビをみません。	watashi wa amari terebi o mimasen.	I do not watch much television.	I don't watch TV very often.	Polite negatives for nouns, adjectives, and verbs	Amari with a negative means not much or not very often.	michi unit_10 sentence_247
+私はあまりお酒を飲みません。	わたしはあまりおさけをのみません。	watashi wa amari osake o nomimasen.	I do not drink much alcohol.	I don't drink alcohol very often.	Polite negatives for nouns, adjectives, and verbs	Osake can refer to alcoholic drinks in general.	michi unit_10 sentence_248
+私は朝はパンを食べません。	わたしはあさはパンをたべません。	watashi wa asa wa pan o tabemasen.	I do not eat bread in the morning.	I don't eat bread in the morning.	Polite negatives for nouns, adjectives, and verbs	The second wa highlights the morning as a time being discussed.	michi unit_10 sentence_249
+私は夜はコーヒーを飲みません。	わたしはよるはコーヒーをのみません。	watashi wa yoru wa koohii o nomimasen.	I do not drink coffee at night.	I don't drink coffee at night.	Polite negatives for nouns, adjectives, and verbs	The second wa highlights the nighttime as a time being discussed.	michi unit_10 sentence_250
+辞書は机の右にあります。	じしょはつくえのみぎにあります。	Jisho wa tsukue no migi ni arimasu.	The dictionary is to the right of the desk.		Location: ni / de; arimasu / imasu	に marks the location with あります; の右 means to the right of.	michi unit_11 sentence_251
+かばんは椅子の下にあります。	かばんはいすのしたにあります。	Kaban wa isu no shita ni arimasu.	The bag is under the chair.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_252
+猫はベッドの上にいます。	ねこはベッドのうえにいます。	Neko wa beddo no ue ni imasu.	The cat is on the bed.		Location: ni / de; arimasu / imasu	Use います for living things such as people and animals.	michi unit_11 sentence_253
+犬は庭にいます。	いぬはにわにいます。	Inu wa niwa ni imasu.	The dog is in the garden.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_254
+銀行は駅の前にあります。	ぎんこうはえきのまえにあります。	Ginkou wa eki no mae ni arimasu.	The bank is in front of the station.	The bank is in front of the train station.	Location: ni / de; arimasu / imasu		michi unit_11 sentence_255
+学校は公園の隣にあります。	がっこうはこうえんのとなりにあります。	Gakkou wa kouen no tonari ni arimasu.	The school is next to the park.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_256
+郵便局は銀行の右にあります。	ゆうびんきょくはぎんこうのみぎにあります。	Yuubinkyoku wa ginkou no migi ni arimasu.	The post office is to the right of the bank.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_257
+トイレは階段の左にあります。	トイレはかいだんのひだりにあります。	Toire wa kaidan no hidari ni arimasu.	The restroom is to the left of the stairs.	The toilet is to the left of the stairs.	Location: ni / de; arimasu / imasu		michi unit_11 sentence_258
+薬局はスーパーの近くにあります。	やっきょくはスーパーのちかくにあります。	Yakkyoku wa suupaa no chikaku ni arimasu.	The pharmacy is near the supermarket.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_259
+私の部屋は二階にあります。	わたしのへやはにかいにあります。	Watashi no heya wa nikai ni arimasu.	My room is on the second floor.	My room is on floor two.	Location: ni / de; arimasu / imasu		michi unit_11 sentence_260
+鍵は箱の中にあります。	かぎははこのなかにあります。	Kagi wa hako no naka ni arimasu.	The key is inside the box.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_261
+冷蔵庫は台所にあります。	れいぞうこはだいどころにあります。	Reizouko wa daidokoro ni arimasu.	The refrigerator is in the kitchen.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_262
+学生は食堂にいます。	がくせいはしょくどうにいます。	Gakusei wa shokudou ni imasu.	The student is in the cafeteria.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_263
+兄は家にいます。	あにはいえにいます。	Ani wa ie ni imasu.	My older brother is at home.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_264
+子どもたちは公園にいます。	こどもたちはこうえんにいます。	Kodomotachi wa kouen ni imasu.	The children are in the park.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_265
+私は喫茶店で新聞を読みます。	わたしはきっさてんでしんぶんをよみます。	Watashi wa kissaten de shinbun o yomimasu.	I read a newspaper at a cafe.		Location: ni / de; arimasu / imasu	で marks the place where the action happens.	michi unit_11 sentence_266
+母は庭でお茶を飲みます。	はははにわでおちゃをのみます。	Haha wa niwa de ocha o nomimasu.	My mother drinks tea in the garden.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_267
+父は駅で切符を買います。	ちちはえきできっぷをかいます。	Chichi wa eki de kippu o kaimasu.	My father buys a ticket at the station.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_268
+友達と喫茶店で話します。	ともだちときっさてんではなします。	Tomodachi to kissaten de hanashimasu.	I talk with a friend at a cafe.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_269
+弟は部屋で宿題をします。	おとうとはへやでしゅくだいをします。	Otouto wa heya de shukudai o shimasu.	My younger brother does his homework in his room.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_270
+私は駅で新聞を買います。	わたしはえきでしんぶんをかいます。	Watashi wa eki de shinbun o kaimasu.	I buy a newspaper at the station.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_271
+姉は学校で英語を教えます。	あねはがっこうでえいごをおしえます。	Ane wa gakkou de eigo o oshiemasu.	My older sister teaches English at a school.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_272
+姉はこの店でパンを売ります。	あねはこのみせでパンをうります。	Ane wa kono mise de pan o urimasu.	My older sister sells bread at this shop.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_273
+私たちは食堂で昼ご飯を食べます。	わたしたちはしょくどうでひるごはんをたべます。	Watashitachi wa shokudou de hirugohan o tabemasu.	We eat lunch in the cafeteria.		Location: ni / de; arimasu / imasu		michi unit_11 sentence_274
+バス停はどこにありますか。	バスていはどこにありますか。	Basu tei wa doko ni arimasu ka.	Where is the bus stop?		Location: ni / de; arimasu / imasu		michi unit_11 sentence_275
+私は毎朝学校へ行きます。	わたしはまいあさがっこうへいきます。	Watashi wa maiasa gakkou e ikimasu.	I go to school every morning.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_276
+父は七時に会社へ行きます。	ちちはしちじにかいしゃへいきます。	Chichi wa shichiji ni kaisha e ikimasu.	My father goes to work at seven o'clock.		Movement: destination ni / e; time ni; transport de	に marks a specific time. The destination particle へ is pronounced e.	michi unit_12 sentence_277
+母は午後スーパーへ行きます。	はははごごスーパーへいきます。	Haha wa gogo suupaa e ikimasu.	My mother goes to the supermarket in the afternoon.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_278
+妹は四時に学校から帰ります。	いもうとはよじにがっこうからかえります。	Imouto wa yoji ni gakkou kara kaerimasu.	My younger sister returns from school at four o’clock.		Movement: destination ni / e; time ni; transport de	から marks the starting place; 四時 is よじ.	michi unit_12 sentence_279
+友達は明日うちに来ます。	ともだちはあしたうちにきます。	Tomodachi wa ashita uchi ni kimasu.	My friend is coming to my home tomorrow.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_280
+姉は来週東京へ行きます。	あねはらいしゅうとうきょうへいきます。	Ane wa raishuu Toukyou e ikimasu.	My older sister is going to Tokyo next week.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_281
+弟は日曜日に動物園へ行きます。	おとうとはにちようびにどうぶつえんへいきます。	Otouto wa nichiyoubi ni doubutsuen e ikimasu.	My younger brother goes to the zoo on Sundays.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_282
+私はバスで駅へ行きます。	わたしはバスでえきへいきます。	Watashi wa basu de eki e ikimasu.	I go to the station by bus.	I take the bus to the station.	Movement: destination ni / e; time ni; transport de	で marks the means of transport here.	michi unit_12 sentence_283
+祖母は電車で京都へ行きます。	そぼはでんしゃできょうとへいきます。	Sobo wa densha de Kyouto e ikimasu.	My grandmother goes to Kyoto by train.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_284
+兄は自転車で大学へ行きます。	あにはじてんしゃでだいがくへいきます。	Ani wa jitensha de daigaku e ikimasu.	My older brother goes to university by bicycle.	My older brother rides a bicycle to university.	Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_285
+私は歩いて学校へ行きます。	わたしはあるいてがっこうへいきます。	Watashi wa aruite gakkou e ikimasu.	I walk to school.	I go to school on foot.	Movement: destination ni / e; time ni; transport de	歩いて is the te-form of 歩く, to walk; 歩いて行きます means go on foot.	michi unit_12 sentence_286
+私たちは車で海へ行きます。	わたしたちはくるまでうみへいきます。	Watashitachi wa kuruma de umi e ikimasu.	We go to the sea by car.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_287
+田中さんは九時にここへ来ます。	たなかさんはくじにここへきます。	Tanaka san wa kuji ni koko e kimasu.	Tanaka is coming here at nine o'clock.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_288
+私は毎晩八時に帰ります。	わたしはまいばんはちじにかえります。	Watashi wa maiban hachiji ni kaerimasu.	I return home at eight o'clock every evening.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_289
+今日は病院へ行きます。	きょうはびょういんへいきます。	Kyou wa byouin e ikimasu.	I am going to the hospital today.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_290
+明日はどこへ行きますか。	あしたはどこへいきますか。	Ashita wa doko e ikimasu ka.	Where are you going tomorrow?		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_291
+何時に学校へ行きますか。	なんじにがっこうへいきますか。	Nanji ni gakkou e ikimasu ka.	What time do you go to school?		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_292
+誰と映画館へ行きますか。	だれとえいがかんへいきますか。	Dare to eigakan e ikimasu ka.	Who are you going to the movie theater with?		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_293
+私は友達と美術館へ行きます。	わたしはともだちとびじゅつかんへいきます。	Watashi wa tomodachi to bijutsukan e ikimasu.	I go to the art museum with a friend.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_294
+両親は来月日本へ来ます。	りょうしんはらいげつにほんへきます。	Ryoushin wa raigetsu Nihon e kimasu.	My parents are coming to Japan next month.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_295
+私は土曜日に実家へ帰ります。	わたしはどようびにじっかへかえります。	Watashi wa doyoubi ni jikka e kaerimasu.	I am returning to my family home on Saturday.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_296
+先生はいつ日本へ帰りますか。	せんせいはいつにほんへかえりますか。	Sensei wa itsu Nihon e kaerimasu ka.	When is the teacher returning to Japan?		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_297
+このバスは空港へ行きます。	このバスはくうこうへいきます。	Kono basu wa kuukou e ikimasu.	This bus goes to the airport.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_298
+私たちは夏に山へ行きます。	わたしたちはなつにやまへいきます。	Watashitachi wa natsu ni yama e ikimasu.	We go to the mountains in summer.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_299
+私は毎週金曜日に図書館へ行きます。	わたしはまいしゅうきんようびにとしょかんへいきます。	Watashi wa maishuu kinyoubi ni toshokan e ikimasu.	I go to the library every Friday.		Movement: destination ni / e; time ni; transport de		michi unit_12 sentence_300
+この消しゴムは五十円です。	このけしゴムはごじゅうえんです。	Kono keshigomu wa gojuu en desu.	This eraser costs fifty yen.		Prices, counters, and polite requests		michi unit_13 sentence_301
+そのパンは二百円です。	そのパンはにひゃくえんです。	Sono pan wa nihyaku en desu.	That bread costs two hundred yen.		Prices, counters, and polite requests		michi unit_13 sentence_302
+このかばんは三千円です。	このかばんはさんぜんえんです。	Kono kaban wa sanzen en desu.	This bag costs three thousand yen.		Prices, counters, and polite requests	三千 is さんぜん, with a voiced z sound.	michi unit_13 sentence_303
+あの靴は五千円です。	あのくつはごせんえんです。	Ano kutsu wa gosen en desu.	Those shoes over there cost five thousand yen.		Prices, counters, and polite requests		michi unit_13 sentence_304
+この時計はいくらですか。	このとけいはいくらですか。	Kono tokei wa ikura desu ka.	How much is this watch?		Prices, counters, and polite requests		michi unit_13 sentence_305
+切手を二枚ください。	きってをにまいください。	Kitte o nimai kudasai.	Two stamps, please.		Prices, counters, and polite requests	枚 counts flat objects such as stamps and sheets.	michi unit_13 sentence_306
+はがきを五枚買います。	はがきをごまいかいます。	Hagaki o gomai kaimasu.	I will buy five postcards.		Prices, counters, and polite requests		michi unit_13 sentence_307
+ノートを三冊買います。	ノートをさんさつかいます。	Nooto o sansatsu kaimasu.	I will buy three notebooks.		Prices, counters, and polite requests		michi unit_13 sentence_308
+本を一冊ください。	ほんをいっさつください。	Hon o issatsu kudasai.	One book, please.		Prices, counters, and polite requests	冊 counts books; 一冊 is いっさつ.	michi unit_13 sentence_309
+鉛筆を六本買います。	えんぴつをろっぽんかいます。	Enpitsu o roppon kaimasu.	I will buy six pencils.		Prices, counters, and polite requests	本 counts long objects; 六本 is ろっぽん.	michi unit_13 sentence_310
+ペンを二本ください。	ペンをにほんください。	Pen o nihon kudasai.	Two pens, please.		Prices, counters, and polite requests		michi unit_13 sentence_311
+牛乳を一本買います。	ぎゅうにゅうをいっぽんかいます。	Gyuunyuu o ippon kaimasu.	I will buy one bottle of milk.		Prices, counters, and polite requests		michi unit_13 sentence_312
+卵を六つください。	たまごをむっつください。	Tamago o muttsu kudasai.	Six eggs, please.		Prices, counters, and polite requests		michi unit_13 sentence_313
+みかんを四つ買います。	みかんをよっつかいます。	Mikan o yottsu kaimasu.	I will buy four mandarin oranges.		Prices, counters, and polite requests		michi unit_13 sentence_314
+りんごを三つください。	りんごをみっつください。	Ringo o mittsu kudasai.	Three apples, please.		Prices, counters, and polite requests		michi unit_13 sentence_315
+ケーキを二つ買います。	ケーキをふたつかいます。	Keeki o futatsu kaimasu.	I will buy two cakes.		Prices, counters, and polite requests		michi unit_13 sentence_316
+水を一杯ください。	みずをいっぱいください。	Mizu o ippai kudasai.	One glass of water, please.		Prices, counters, and polite requests	杯 counts cups or glasses; 一杯 is いっぱい.	michi unit_13 sentence_317
+コーヒーを二杯ください。	コーヒーをにはいください。	Koohii o nihai kudasai.	Two cups of coffee, please.		Prices, counters, and polite requests		michi unit_13 sentence_318
+紅茶を三杯お願いします。	こうちゃをさんばいおねがいします。	Koucha o sanbai onegaishimasu.	Three cups of black tea, please.		Prices, counters, and polite requests	三杯 is さんばい, with a voiced b sound.	michi unit_13 sentence_319
+この店のパンは安いです。	このみせのパンはやすいです。	Kono mise no pan wa yasui desu.	The bread at this shop is inexpensive.		Prices, counters, and polite requests		michi unit_13 sentence_320
+そのコートは高いです。	そのコートはたかいです。	Sono kooto wa takai desu.	That coat is expensive.	That coat costs a lot.	Prices, counters, and polite requests		michi unit_13 sentence_321
+今日は魚と野菜を買います。	きょうはさかなとやさいをかいます。	Kyou wa sakana to yasai o kaimasu.	I will buy fish and vegetables today.		Prices, counters, and polite requests		michi unit_13 sentence_322
+袋を一枚ください。	ふくろをいちまいください。	Fukuro o ichimai kudasai.	One bag, please.		Prices, counters, and polite requests		michi unit_13 sentence_323
+全部で八百円です。	ぜんぶではっぴゃくえんです。	Zenbu de happyaku en desu.	The total is eight hundred yen.		Prices, counters, and polite requests	八百 is はっぴゃく; 全部で means in total.	michi unit_13 sentence_324
+おつりは三百円です。	おつりはさんびゃくえんです。	Otsuri wa sanbyaku en desu.	Your change is three hundred yen.		Prices, counters, and polite requests	三百 is さんびゃく. おつり means change from a payment.	michi unit_13 sentence_325
+私は寿司が好きです。	わたしはすしがすきです。	Watashi wa sushi ga suki desu.	I like sushi.		Food and drink; suki / kirai; everyday actions	The thing liked is marked with が. 好き is a na-adjective.	michi unit_14 sentence_326
+弟は野菜が嫌いです。	おとうとはやさいがきらいです。	Otouto wa yasai ga kirai desu.	My younger brother dislikes vegetables.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_327
+母は魚が大好きです。	はははさかながだいすきです。	Haha wa sakana ga daisuki desu.	My mother loves fish.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_328
+私は肉があまり好きではありません。	わたしはにくがあまりすきではありません。	Watashi wa niku ga amari suki dewa arimasen.	I do not like meat very much.	I do not really like meat.	Food and drink; suki / kirai; everyday actions	あまり plus a negative means not very much.	michi unit_14 sentence_329
+父はお茶が好きです。	ちちはおちゃがすきです。	Chichi wa ocha ga suki desu.	My father likes tea.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_330
+姉はコーヒーが好きです。	あねはコーヒーがすきです。	Ane wa koohii ga suki desu.	My older sister likes coffee.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_331
+私は毎朝牛乳を飲みます。	わたしはまいあさぎゅうにゅうをのみます。	Watashi wa maiasa gyuunyuu o nomimasu.	I drink milk every morning.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_332
+兄は朝パンを食べます。	あにはあさパンをたべます。	Ani wa asa pan o tabemasu.	My older brother eats bread in the morning.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_333
+朝ご飯に何を食べますか。	あさごはんになにをたべますか。	Asagohan ni nani o tabemasu ka.	What do you eat for breakfast?		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_334
+私は昼ご飯にうどんを食べます。	わたしはひるごはんにうどんをたべます。	Watashi wa hirugohan ni udon o tabemasu.	I eat udon for lunch.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_335
+夕飯はカレーです。	ゆうはんはカレーです。	Yuuhan wa karee desu.	Dinner is curry.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_336
+このスープはおいしいです。	このスープはおいしいです。	Kono suupu wa oishii desu.	This soup is delicious.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_337
+この味噌汁は熱いです。	このみそしるはあついです。	Kono misoshiru wa atsui desu.	This miso soup is hot.		Food and drink; suki / kirai; everyday actions	熱い describes a hot object or drink; 暑い describes hot weather.	michi unit_14 sentence_338
+その水は冷たいです。	そのみずはつめたいです。	Sono mizu wa tsumetai desu.	That water is cold.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_339
+このお菓子は甘いです。	このおかしはあまいです。	Kono okashi wa amai desu.	This snack is sweet.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_340
+このカレーは辛いです。	このカレーはからいです。	Kono karee wa karai desu.	This curry is spicy.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_341
+私は毎日果物を食べます。	わたしはまいにちくだものをたべます。	Watashi wa mainichi kudamono o tabemasu.	I eat fruit every day.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_342
+私はお酒を飲みません。	わたしはおさけをのみません。	Watashi wa osake o nomimasen.	I do not drink alcohol.	I do not drink alcoholic drinks.	Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_343
+子どもはジュースを飲みます。	こどもはジュースをのみます。	Kodomo wa juusu o nomimasu.	The child drinks juice.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_344
+この店のラーメンが好きです。	このみせのラーメンがすきです。	Kono mise no raamen ga suki desu.	I like the ramen at this restaurant.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_345
+どんな果物が好きですか。	どんなくだものがすきですか。	Donna kudamono ga suki desu ka.	What kind of fruit do you like?		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_346
+私はいちごが一番好きです。	わたしはいちごがいちばんすきです。	Watashi wa ichigo ga ichiban suki desu.	I like strawberries best.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_347
+晩ご飯に卵を二つ食べます。	ばんごはんにたまごをふたつたべます。	Bangohan ni tamago o futatsu tabemasu.	I eat two eggs for dinner.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_348
+母は毎晩味噌汁を作ります。	はははまいばんみそしるをつくります。	Haha wa maiban misoshiru o tsukurimasu.	My mother makes miso soup every evening.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_349
+食堂で温かいお茶を飲みます。	しょくどうであたたかいおちゃをのみます。	Shokudou de atatakai ocha o nomimasu.	I drink warm tea in the cafeteria.		Food and drink; suki / kirai; everyday actions		michi unit_14 sentence_350
+私の家族は四人です。	わたしのかぞくはよにんです。	Watashi no kazoku wa yonin desu.	There are four people in my family.	My family has four people.	Family, people, and descriptions		michi unit_15 sentence_351
+私には兄が一人います。	わたしにはあにがひとりいます。	Watashi ni wa ani ga hitori imasu.	I have one older brother.		Family, people, and descriptions	一人 is ひとり, an irregular reading for one person.	michi unit_15 sentence_352
+私には妹が二人います。	わたしにはいもうとがふたりいます。	Watashi ni wa imouto ga futari imasu.	I have two younger sisters.		Family, people, and descriptions	二人 is ふたり, an irregular reading for two people.	michi unit_15 sentence_353
+私の父は医者です。	わたしのちちはいしゃです。	Watashi no chichi wa isha desu.	My father is a doctor.		Family, people, and descriptions		michi unit_15 sentence_354
+母は高校の先生です。	はははこうこうのせんせいです。	Haha wa koukou no sensei desu.	My mother is a high school teacher.		Family, people, and descriptions		michi unit_15 sentence_355
+兄は大学で英語を勉強します。	あにはだいがくでえいごをべんきょうします。	Ani wa daigaku de eigo o benkyou shimasu.	My older brother studies English at university.		Family, people, and descriptions		michi unit_15 sentence_356
+妹は十歳です。	いもうとはじゅっさいです。	Imouto wa jussai desu.	My younger sister is ten years old.		Family, people, and descriptions		michi unit_15 sentence_357
+祖父は七十歳です。	そふはななじゅっさいです。	Sofu wa nanajussai desu.	My grandfather is seventy years old.		Family, people, and descriptions		michi unit_15 sentence_358
+祖母は元気です。	そぼはげんきです。	Sobo wa genki desu.	My grandmother is well.	My grandmother is in good health.	Family, people, and descriptions		michi unit_15 sentence_359
+お父さんは何歳ですか。	おとうさんはなんさいですか。	Otousan wa nansai desu ka.	How old is your father?		Family, people, and descriptions	お父さん is used here for the listener’s father; 父 is used for your own father.	michi unit_15 sentence_360
+お母さんはどんな人ですか。	おかあさんはどんなひとですか。	Okaasan wa donna hito desu ka.	What is your mother like?		Family, people, and descriptions		michi unit_15 sentence_361
+姉は親切な人です。	あねはしんせつなひとです。	Ane wa shinsetsu na hito desu.	My older sister is a kind person.		Family, people, and descriptions		michi unit_15 sentence_362
+弟は背が高いです。	おとうとはせがたかいです。	Otouto wa se ga takai desu.	My younger brother is tall.		Family, people, and descriptions	背が高い means tall, literally height is high.	michi unit_15 sentence_363
+私は背が低いです。	わたしはせがひくいです。	Watashi wa se ga hikui desu.	I am short.	I am short in height.	Family, people, and descriptions		michi unit_15 sentence_364
+父の髪は短いです。	ちちのかみはみじかいです。	Chichi no kami wa mijikai desu.	My father's hair is short.		Family, people, and descriptions		michi unit_15 sentence_365
+妹の髪は長いです。	いもうとのかみはながいです。	Imouto no kami wa nagai desu.	My younger sister's hair is long.		Family, people, and descriptions		michi unit_15 sentence_366
+母の目は大きいです。	ははのめはおおきいです。	Haha no me wa ookii desu.	My mother's eyes are big.		Family, people, and descriptions		michi unit_15 sentence_367
+これは私の家族の写真です。	これはわたしのかぞくのしゃしんです。	Kore wa watashi no kazoku no shashin desu.	This is a photo of my family.		Family, people, and descriptions		michi unit_15 sentence_368
+私の叔父は大阪にいます。	わたしのおじはおおさかにいます。	Watashi no oji wa Oosaka ni imasu.	My uncle is in Osaka.		Family, people, and descriptions		michi unit_15 sentence_369
+私の叔母は花が好きです。	わたしのおばははながすきです。	Watashi no oba wa hana ga suki desu.	My aunt likes flowers.		Family, people, and descriptions		michi unit_15 sentence_370
+両親の家は小さい町にあります。	りょうしんのいえはちいさいまちにあります。	Ryoushin no ie wa chiisai machi ni arimasu.	My parents' house is in a small town.		Family, people, and descriptions		michi unit_15 sentence_371
+兄は仕事が忙しいです。	あにはしごとがいそがしいです。	Ani wa shigoto ga isogashii desu.	My older brother is busy with work.		Family, people, and descriptions		michi unit_15 sentence_372
+祖父は毎朝新聞を読みます。	そふはまいあさしんぶんをよみます。	Sofu wa maiasa shinbun o yomimasu.	My grandfather reads the newspaper every morning.		Family, people, and descriptions		michi unit_15 sentence_373
+家族で毎週映画を見ます。	かぞくでまいしゅうえいがをみます。	Kazoku de maishuu eiga o mimasu.	We watch a movie as a family every week.		Family, people, and descriptions		michi unit_15 sentence_374
+お姉さんは学生ですか。	おねえさんはがくせいですか。	Oneesan wa gakusei desu ka.	Is your older sister a student?		Family, people, and descriptions		michi unit_15 sentence_375
+この部屋は暖かいです。	このへやはあたたかいです。	Kono heya wa atatakai desu.	This room is warm.		I-adjectives: present, past, and negative		michi unit_16 sentence_376
+昨日は寒かったです。	きのうはさむかったです。	Kinou wa samukatta desu.	It was cold yesterday.		I-adjectives: present, past, and negative	For the past, change the final い of an i-adjective to かった.	michi unit_16 sentence_377
+今日は寒くないです。	きょうはさむくないです。	Kyou wa samukunai desu.	It is not cold today.		I-adjectives: present, past, and negative	For the negative, change the final い to くない.	michi unit_16 sentence_378
+昨日は暑くなかったです。	きのうはあつくなかったです。	Kinou wa atsukunakatta desu.	It was not hot yesterday.		I-adjectives: present, past, and negative	The past negative ending is くなかった.	michi unit_16 sentence_379
+この部屋は広いです。	このへやはひろいです。	Kono heya wa hiroi desu.	This room is spacious.	This room is roomy.	I-adjectives: present, past, and negative		michi unit_16 sentence_380
+あの部屋は広くないです。	あのへやはひろくないです。	Ano heya wa hirokunai desu.	That room over there is not spacious.		I-adjectives: present, past, and negative		michi unit_16 sentence_381
+前の部屋は狭かったです。	まえのへやはせまかったです。	Mae no heya wa semakatta desu.	The previous room was small.		I-adjectives: present, past, and negative		michi unit_16 sentence_382
+私の荷物は重いです。	わたしのにもつはおもいです。	Watashi no nimotsu wa omoi desu.	My luggage is heavy.		I-adjectives: present, past, and negative		michi unit_16 sentence_383
+その箱は重くないです。	そのはこはおもくないです。	Sono hako wa omokunai desu.	That box is not heavy.		I-adjectives: present, past, and negative		michi unit_16 sentence_384
+この靴は軽いです。	このくつはかるいです。	Kono kutsu wa karui desu.	These shoes are light.		I-adjectives: present, past, and negative		michi unit_16 sentence_385
+昨日の宿題は難しかったです。	きのうのしゅくだいはむずかしかったです。	Kinou no shukudai wa muzukashikatta desu.	Yesterday's homework was difficult.		I-adjectives: present, past, and negative		michi unit_16 sentence_386
+今日の宿題は難しくないです。	きょうのしゅくだいはむずかしくないです。	Kyou no shukudai wa muzukashikunai desu.	Today's homework is not difficult.		I-adjectives: present, past, and negative		michi unit_16 sentence_387
+この映画は面白いです。	このえいがはおもしろいです。	Kono eiga wa omoshiroi desu.	This movie is interesting.	This film is interesting.	I-adjectives: present, past, and negative		michi unit_16 sentence_388
+あの映画は面白くなかったです。	あのえいがはおもしろくなかったです。	Ano eiga wa omoshirokunakatta desu.	That movie was not interesting.		I-adjectives: present, past, and negative		michi unit_16 sentence_389
+旅行は楽しかったです。	りょこうはたのしかったです。	Ryokou wa tanoshikatta desu.	The trip was fun.		I-adjectives: present, past, and negative		michi unit_16 sentence_390
+試験の点はよかったです。	しけんのてんはよかったです。	Shiken no ten wa yokatta desu.	My test score was good.		I-adjectives: present, past, and negative	いい is irregular: its past form is よかった.	michi unit_16 sentence_391
+昨日の天気はよくなかったです。	きのうのてんきはよくなかったです。	Kinou no tenki wa yokunakatta desu.	Yesterday's weather was not good.		I-adjectives: present, past, and negative	いい uses the stem よ in negative and past forms.	michi unit_16 sentence_392
+今日は天気がいいです。	きょうはてんきがいいです。	Kyou wa tenki ga ii desu.	The weather is good today.		I-adjectives: present, past, and negative		michi unit_16 sentence_393
+このりんごは甘くないです。	このりんごはあまくないです。	Kono ringo wa amakunai desu.	This apple is not sweet.		I-adjectives: present, past, and negative		michi unit_16 sentence_394
+昨日のスープは熱くなかったです。	きのうのスープはあつくなかったです。	Kinou no suupu wa atsukunakatta desu.	Yesterday's soup was not hot.		I-adjectives: present, past, and negative		michi unit_16 sentence_395
+この道は長いです。	このみちはながいです。	Kono michi wa nagai desu.	This road is long.		I-adjectives: present, past, and negative		michi unit_16 sentence_396
+あの橋は古いです。	あのはしはふるいです。	Ano hashi wa furui desu.	That bridge over there is old.		I-adjectives: present, past, and negative		michi unit_16 sentence_397
+新しいパソコンは高かったです。	あたらしいパソコンはたかかったです。	Atarashii pasokon wa takakatta desu.	The new computer was expensive.		I-adjectives: present, past, and negative		michi unit_16 sentence_398
+このシャツは安くなかったです。	このシャツはやすくなかったです。	Kono shatsu wa yasukunakatta desu.	This shirt was not inexpensive.		I-adjectives: present, past, and negative		michi unit_16 sentence_399
+昨夜は忙しかったです。	さくやはいそがしかったです。	Sakuya wa isogashikatta desu.	I was busy last night.		I-adjectives: present, past, and negative		michi unit_16 sentence_400
+この町は静かです。	このまちはしずかです。	Kono machi wa shizuka desu.	This town is quiet.		Na-adjectives: present, past, and negative		michi unit_17 sentence_401
+駅の前は静かではありません。	えきのまえはしずかではありません。	Eki no mae wa shizuka dewa arimasen.	The area in front of the station is not quiet.		Na-adjectives: present, past, and negative		michi unit_17 sentence_402
+昨日の公園は静かでした。	きのうのこうえんはしずかでした。	Kinou no kouen wa shizuka deshita.	The park was quiet yesterday.		Na-adjectives: present, past, and negative	The polite past of a na-adjective uses でした.	michi unit_17 sentence_403
+昨夜の店は静かではありませんでした。	さくやのみせはしずかではありませんでした。	Sakuya no mise wa shizuka dewa arimasen deshita.	The restaurant was not quiet last night.		Na-adjectives: present, past, and negative	The polite past negative is ではありませんでした.	michi unit_17 sentence_404
+この部屋はきれいです。	このへやはきれいです。	Kono heya wa kirei desu.	This room is clean.		Na-adjectives: present, past, and negative	きれい is a na-adjective even though it ends in い.	michi unit_17 sentence_405
+弟の部屋はきれいではありません。	おとうとのへやはきれいではありません。	Otouto no heya wa kirei dewa arimasen.	My younger brother's room is not clean.		Na-adjectives: present, past, and negative		michi unit_17 sentence_406
+あのホテルはきれいでした。	あのホテルはきれいでした。	Ano hoteru wa kirei deshita.	That hotel was clean.		Na-adjectives: present, past, and negative		michi unit_17 sentence_407
+古い台所はきれいではありませんでした。	ふるいだいどころはきれいではありませんでした。	Furui daidokoro wa kirei dewa arimasen deshita.	The old kitchen was not clean.		Na-adjectives: present, past, and negative		michi unit_17 sentence_408
+この辞書は便利です。	このじしょはべんりです。	Kono jisho wa benri desu.	This dictionary is useful.		Na-adjectives: present, past, and negative		michi unit_17 sentence_409
+この駅は便利ではありません。	このえきはべんりではありません。	Kono eki wa benri dewa arimasen.	This station is not convenient.		Na-adjectives: present, past, and negative		michi unit_17 sentence_410
+前の家は便利でした。	まえのいえはべんりでした。	Mae no ie wa benri deshita.	My previous home was convenient.		Na-adjectives: present, past, and negative		michi unit_17 sentence_411
+そのバスは便利ではありませんでした。	そのバスはべんりではありませんでした。	Sono basu wa benri dewa arimasen deshita.	That bus was not convenient.		Na-adjectives: present, past, and negative		michi unit_17 sentence_412
+私は今日は暇です。	わたしはきょうはひまです。	Watashi wa kyou wa hima desu.	I am free today.	I have free time today.	Na-adjectives: present, past, and negative		michi unit_17 sentence_413
+明日は暇ではありません。	あしたはひまではありません。	Ashita wa hima dewa arimasen.	I am not free tomorrow.		Na-adjectives: present, past, and negative		michi unit_17 sentence_414
+先週の日曜日は暇でした。	せんしゅうのにちようびはひまでした。	Senshuu no nichiyoubi wa hima deshita.	I was free last Sunday.		Na-adjectives: present, past, and negative		michi unit_17 sentence_415
+昨日は暇ではありませんでした。	きのうはひまではありませんでした。	Kinou wa hima dewa arimasen deshita.	I was not free yesterday.		Na-adjectives: present, past, and negative		michi unit_17 sentence_416
+祖母は昨日も元気でした。	そぼはきのうもげんきでした。	Sobo wa kinou mo genki deshita.	My grandmother was well yesterday too.		Na-adjectives: present, past, and negative		michi unit_17 sentence_417
+弟は今日は元気ではありません。	おとうとはきょうはげんきではありません。	Otouto wa kyou wa genki dewa arimasen.	My younger brother is not well today.	My younger brother is not feeling well today.	Na-adjectives: present, past, and negative		michi unit_17 sentence_418
+先週は元気ではありませんでした。	せんしゅうはげんきではありませんでした。	Senshuu wa genki dewa arimasen deshita.	I was not well last week.		Na-adjectives: present, past, and negative		michi unit_17 sentence_419
+田中さんは親切です。	たなかさんはしんせつです。	Tanaka san wa shinsetsu desu.	Tanaka is kind.		Na-adjectives: present, past, and negative		michi unit_17 sentence_420
+ホテルの人は親切でした。	ホテルのひとはしんせつでした。	Hoteru no hito wa shinsetsu deshita.	The hotel staff were kind.		Na-adjectives: present, past, and negative		michi unit_17 sentence_421
+この問題は簡単です。	このもんだいはかんたんです。	Kono mondai wa kantan desu.	This problem is easy.		Na-adjectives: present, past, and negative		michi unit_17 sentence_422
+昨日の試験は簡単ではありませんでした。	きのうのしけんはかんたんではありませんでした。	Kinou no shiken wa kantan dewa arimasen deshita.	Yesterday's test was not easy.		Na-adjectives: present, past, and negative		michi unit_17 sentence_423
+この花はきれいです。	このはなはきれいです。	Kono hana wa kirei desu.	This flower is beautiful.		Na-adjectives: present, past, and negative		michi unit_17 sentence_424
+ここは有名な公園です。	ここはゆうめいなこうえんです。	Koko wa yuumei na kouen desu.	This is a famous park.		Na-adjectives: present, past, and negative	A na-adjective takes な when it directly describes a noun.	michi unit_17 sentence_425
+昨日は七時に起きました。	きのうはしちじにおきました。	Kinou wa shichiji ni okimashita.	I got up at seven o'clock yesterday.	I woke up at seven o’clock yesterday.	Polite verbs: past and negative		michi unit_18 sentence_426
+昨夜は十一時に寝ました。	さくやはじゅういちじにねました。	Sakuya wa juuichiji ni nemashita.	I went to bed at eleven o'clock last night.	I went to sleep at eleven o’clock last night.	Polite verbs: past and negative		michi unit_18 sentence_427
+今朝はパンを食べました。	けさはパンをたべました。	Kesa wa pan o tabemashita.	I ate bread this morning.		Polite verbs: past and negative		michi unit_18 sentence_428
+昨日は朝ご飯を食べませんでした。	きのうはあさごはんをたべませんでした。	Kinou wa asagohan o tabemasen deshita.	I did not eat breakfast yesterday.		Polite verbs: past and negative		michi unit_18 sentence_429
+昨夜は映画を見ました。	さくやはえいがをみました。	Sakuya wa eiga o mimashita.	I watched a movie last night.		Polite verbs: past and negative		michi unit_18 sentence_430
+昨日はテレビを見ませんでした。	きのうはテレビをみませんでした。	Kinou wa terebi o mimasen deshita.	I did not watch television yesterday.	I did not watch TV yesterday.	Polite verbs: past and negative		michi unit_18 sentence_431
+週末に新しい本を買いました。	しゅうまつにあたらしいほんをかいました。	Shuumatsu ni atarashii hon o kaimashita.	I bought a new book over the weekend.		Polite verbs: past and negative		michi unit_18 sentence_432
+今日は何も買いません。	きょうはなにもかいません。	Kyou wa nani mo kaimasen.	I will not buy anything today.	I will buy nothing today.	Polite verbs: past and negative	何も plus a negative means nothing or not anything.	michi unit_18 sentence_433
+昨日は友達に会いました。	きのうはともだちにあいました。	Kinou wa tomodachi ni aimashita.	I met a friend yesterday.		Polite verbs: past and negative		michi unit_18 sentence_434
+先週は先生に会いませんでした。	せんしゅうはせんせいにあいませんでした。	Senshuu wa sensei ni aimasen deshita.	I did not meet the teacher last week.		Polite verbs: past and negative		michi unit_18 sentence_435
+母は今朝手紙を書きました。	はははけさてがみをかきました。	Haha wa kesa tegami o kakimashita.	My mother wrote a letter this morning.		Polite verbs: past and negative		michi unit_18 sentence_436
+弟は昨日宿題をしませんでした。	おとうとはきのうしゅくだいをしませんでした。	Otouto wa kinou shukudai o shimasen deshita.	My younger brother did not do his homework yesterday.		Polite verbs: past and negative		michi unit_18 sentence_437
+兄は昨日六時間働きました。	あにはきのうろくじかんはたらきました。	Ani wa kinou rokujikan hatarakimashita.	My older brother worked for six hours yesterday.		Polite verbs: past and negative		michi unit_18 sentence_438
+父は日曜日は働きません。	ちちはにちようびははたらきません。	Chichi wa nichiyoubi wa hatarakimasen.	My father does not work on Sundays.		Polite verbs: past and negative		michi unit_18 sentence_439
+先月東京へ行きました。	せんげつとうきょうへいきました。	Sengetsu Toukyou e ikimashita.	I went to Tokyo last month.		Polite verbs: past and negative		michi unit_18 sentence_440
+昨日は学校へ行きませんでした。	きのうはがっこうへいきませんでした。	Kinou wa gakkou e ikimasen deshita.	I did not go to school yesterday.		Polite verbs: past and negative	ませんでした is the polite past negative verb ending.	michi unit_18 sentence_441
+友達は昨日うちに来ました。	ともだちはきのううちにきました。	Tomodachi wa kinou uchi ni kimashita.	My friend came to my home yesterday.		Polite verbs: past and negative	来ました is read きました.	michi unit_18 sentence_442
+田中さんは昨日来ませんでした。	たなかさんはきのうきませんでした。	Tanaka san wa kinou kimasen deshita.	Tanaka did not come yesterday.		Polite verbs: past and negative		michi unit_18 sentence_443
+姉は昨夜十時に帰りました。	あねはさくやじゅうじにかえりました。	Ane wa sakuya juuji ni kaerimashita.	My older sister came home at ten o'clock last night.		Polite verbs: past and negative		michi unit_18 sentence_444
+今朝はコーヒーを飲みませんでした。	けさはコーヒーをのみませんでした。	Kesa wa koohii o nomimasen deshita.	I did not drink coffee this morning.		Polite verbs: past and negative		michi unit_18 sentence_445
+昨夜は日本語を勉強しました。	さくやはにほんごをべんきょうしました。	Sakuya wa Nihongo o benkyou shimashita.	I studied Japanese last night.		Polite verbs: past and negative		michi unit_18 sentence_446
+私は朝は音楽を聞きません。	わたしはあさはおんがくをききません。	Watashi wa asa wa ongaku o kikimasen.	I do not listen to music in the morning.		Polite verbs: past and negative		michi unit_18 sentence_447
+週末に部屋を掃除しました。	しゅうまつにへやをそうじしました。	Shuumatsu ni heya o souji shimashita.	I cleaned my room over the weekend.		Polite verbs: past and negative		michi unit_18 sentence_448
+昨日は電話を使いませんでした。	きのうはでんわをつかいませんでした。	Kinou wa denwa o tsukaimasen deshita.	I did not use the phone yesterday.		Polite verbs: past and negative		michi unit_18 sentence_449
+昨夜はよく眠りました。	さくやはよくねむりました。	Sakuya wa yoku nemurimashita.	I slept well last night.		Polite verbs: past and negative		michi unit_18 sentence_450
+一緒に昼ご飯を食べませんか。	いっしょにひるごはんをたべませんか。	Issho ni hirugohan o tabemasen ka.	Would you like to have lunch together?	Shall we have lunch together?	Invitations: masen ka / mashou	ませんか is a polite invitation here, rather than a literal negative question.	michi unit_19 sentence_451
+日曜日に映画を見ませんか。	にちようびにえいがをみませんか。	Nichiyoubi ni eiga o mimasen ka.	Would you like to watch a movie on Sunday?	Shall we watch a movie on Sunday?	Invitations: masen ka / mashou		michi unit_19 sentence_452
+明日公園へ行きませんか。	あしたこうえんへいきませんか。	Ashita kouen e ikimasen ka.	Would you like to go to the park tomorrow?		Invitations: masen ka / mashou		michi unit_19 sentence_453
+ここで少し休みませんか。	ここですこしやすみませんか。	Koko de sukoshi yasumimasen ka.	Would you like to rest here for a while?	Shall we rest here for a while?	Invitations: masen ka / mashou		michi unit_19 sentence_454
+一緒に日本語を勉強しませんか。	いっしょににほんごをべんきょうしませんか。	Issho ni Nihongo o benkyou shimasen ka.	Would you like to study Japanese together?	Shall we study Japanese together?	Invitations: masen ka / mashou		michi unit_19 sentence_455
+喫茶店でお茶を飲みませんか。	きっさてんでおちゃをのみませんか。	Kissaten de ocha o nomimasen ka.	Would you like to have tea at a cafe?		Invitations: masen ka / mashou		michi unit_19 sentence_456
+土曜日に買い物をしませんか。	どようびにかいものをしませんか。	Doyoubi ni kaimono o shimasen ka.	Would you like to go shopping on Saturday?		Invitations: masen ka / mashou		michi unit_19 sentence_457
+今夜うちへ来ませんか。	こんやうちへきませんか。	Konya uchi e kimasen ka.	Would you like to come to my home tonight?		Invitations: masen ka / mashou		michi unit_19 sentence_458
+週末にテニスをしませんか。	しゅうまつにテニスをしませんか。	Shuumatsu ni tenisu o shimasen ka.	Would you like to play tennis over the weekend?		Invitations: masen ka / mashou		michi unit_19 sentence_459
+一緒に写真を撮りませんか。	いっしょにしゃしんをとりませんか。	Issho ni shashin o torimasen ka.	Would you like to take a photo together?		Invitations: masen ka / mashou		michi unit_19 sentence_460
+明日図書館で会いませんか。	あしたとしょかんであいませんか。	Ashita toshokan de aimasen ka.	Would you like to meet at the library tomorrow?		Invitations: masen ka / mashou		michi unit_19 sentence_461
+晩ご飯にカレーを作りませんか。	ばんごはんにカレーをつくりませんか。	Bangohan ni karee o tsukurimasen ka.	Would you like to make curry for dinner?		Invitations: masen ka / mashou		michi unit_19 sentence_462
+少し歩きませんか。	すこしあるきませんか。	Sukoshi arukimasen ka.	Would you like to walk a little?		Invitations: masen ka / mashou		michi unit_19 sentence_463
+一緒に帰りましょう。	いっしょにかえりましょう。	Issho ni kaerimashou.	Let's go home together.	Let us go home together.	Invitations: masen ka / mashou	ましょう suggests doing something together: let’s.	michi unit_19 sentence_464
+九時に駅で会いましょう。	くじにえきであいましょう。	Kuji ni eki de aimashou.	Let's meet at the station at nine o'clock.	Let us meet at the station at nine o’clock.	Invitations: masen ka / mashou		michi unit_19 sentence_465
+この店で食べましょう。	このみせでたべましょう。	Kono mise de tabemashou.	Let's eat at this restaurant.		Invitations: masen ka / mashou		michi unit_19 sentence_466
+窓を開けましょう。	まどをあけましょう。	Mado o akemashou.	Let's open the window.		Invitations: masen ka / mashou		michi unit_19 sentence_467
+ここに座りましょう。	ここにすわりましょう。	Koko ni suwarimashou.	Let's sit here.		Invitations: masen ka / mashou		michi unit_19 sentence_468
+バスで行きましょう。	バスでいきましょう。	Basu de ikimashou.	Let's go by bus.		Invitations: masen ka / mashou		michi unit_19 sentence_469
+今日は早く寝ましょう。	きょうははやくねましょう。	Kyou wa hayaku nemashou.	Let's go to bed early today.		Invitations: masen ka / mashou		michi unit_19 sentence_470
+次のページを読みましょう。	つぎのページをよみましょう。	Tsugi no peeji o yomimashou.	Let's read the next page.		Invitations: masen ka / mashou		michi unit_19 sentence_471
+もう一度聞きましょう。	もういちどききましょう。	Mou ichido kikimashou.	Let's listen once more.		Invitations: masen ka / mashou		michi unit_19 sentence_472
+先生に聞きましょう。	せんせいにききましょう。	Sensei ni kikimashou.	Let's ask the teacher.		Invitations: masen ka / mashou	聞く can mean ask or listen; に marks the person asked here.	michi unit_19 sentence_473
+部屋を掃除しましょう。	へやをそうじしましょう。	Heya o souji shimashou.	Let's clean the room.		Invitations: masen ka / mashou		michi unit_19 sentence_474
+明日また話しましょう。	あしたまたはなしましょう。	Ashita mata hanashimashou.	Let's talk again tomorrow.		Invitations: masen ka / mashou		michi unit_19 sentence_475
+朝ご飯の前に顔を洗います。	あさごはんのまえにかおをあらいます。	Asagohan no mae ni kao o araimasu.	I wash my face before breakfast.		Before and after: mae ni / noun no ato de	Before a noun, use noun + の前に.	michi unit_20 sentence_476
+朝ご飯の後で歯を磨きます。	あさごはんのあとではをみがきます。	Asagohan no ato de ha o migakimasu.	I brush my teeth after breakfast.		Before and after: mae ni / noun no ato de	After a noun, use noun + の後で.	michi unit_20 sentence_477
+授業の前に教室へ行きます。	じゅぎょうのまえにきょうしつへいきます。	Jugyou no mae ni kyoushitsu e ikimasu.	I go to the classroom before class.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_478
+授業の後で図書館へ行きます。	じゅぎょうのあとでとしょかんへいきます。	Jugyou no ato de toshokan e ikimasu.	I go to the library after class.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_479
+仕事の前にコーヒーを飲みます。	しごとのまえにコーヒーをのみます。	Shigoto no mae ni koohii o nomimasu.	I drink coffee before work.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_480
+仕事の後でスーパーへ行きます。	しごとのあとでスーパーへいきます。	Shigoto no ato de suupaa e ikimasu.	I go to the supermarket after work.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_481
+夕飯の前に宿題をします。	ゆうはんのまえにしゅくだいをします。	Yuuhan no mae ni shukudai o shimasu.	I do my homework before dinner.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_482
+夕飯の後でテレビを見ます。	ゆうはんのあとでテレビをみます。	Yuuhan no ato de terebi o mimasu.	I watch television after dinner.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_483
+寝る前に本を読みます。	ねるまえにほんをよみます。	Neru mae ni hon o yomimasu.	I read a book before going to bed.		Before and after: mae ni / noun no ato de	Before a verb, use its dictionary form + 前に.	michi unit_20 sentence_484
+食べる前に手を洗います。	たべるまえにてをあらいます。	Taberu mae ni te o araimasu.	I wash my hands before eating.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_485
+家を出る前に窓を閉めます。	いえをでるまえにまどをしめます。	Ie o deru mae ni mado o shimemasu.	I close the windows before leaving home.		Before and after: mae ni / noun no ato de	を marks the place being left with 出る.	michi unit_20 sentence_486
+学校へ行く前に朝ご飯を食べます。	がっこうへいくまえにあさごはんをたべます。	Gakkou e iku mae ni asagohan o tabemasu.	I eat breakfast before going to school.	I have breakfast before going to school.	Before and after: mae ni / noun no ato de		michi unit_20 sentence_487
+料理をする前に野菜を洗います。	りょうりをするまえにやさいをあらいます。	Ryouri o suru mae ni yasai o araimasu.	I wash the vegetables before cooking.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_488
+映画を見る前に切符を買います。	えいがをみるまえにきっぷをかいます。	Eiga o miru mae ni kippu o kaimasu.	I buy a ticket before watching a movie.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_489
+旅行の前にかばんを買います。	りょこうのまえにかばんをかいます。	Ryokou no mae ni kaban o kaimasu.	I buy a bag before the trip.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_490
+試験の前に勉強します。	しけんのまえにべんきょうします。	Shiken no mae ni benkyou shimasu.	I study before the test.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_491
+試験の後で友達に会います。	しけんのあとでともだちにあいます。	Shiken no ato de tomodachi ni aimasu.	I meet a friend after the test.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_492
+昼ご飯の後で少し歩きます。	ひるごはんのあとですこしあるきます。	Hirugohan no ato de sukoshi arukimasu.	I walk a little after lunch.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_493
+買い物の後で家に帰ります。	かいもののあとでいえにかえります。	Kaimono no ato de ie ni kaerimasu.	I return home after shopping.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_494
+散歩の前に水を飲みます。	さんぽのまえにみずをのみます。	Sanpo no mae ni mizu o nomimasu.	I drink water before a walk.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_495
+掃除の後でお茶を飲みます。	そうじのあとでおちゃをのみます。	Souji no ato de ocha o nomimasu.	I drink tea after cleaning.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_496
+父は仕事の後で料理をします。	ちちはしごとのあとでりょうりをします。	Chichi wa shigoto no ato de ryouri o shimasu.	My father cooks after work.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_497
+母は寝る前に音楽を聞きます。	はははねるまえにおんがくをききます。	Haha wa neru mae ni ongaku o kikimasu.	My mother listens to music before going to bed.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_498
+弟は学校の後で公園へ行きます。	おとうとはがっこうのあとでこうえんへいきます。	Otouto wa gakkou no ato de kouen e ikimasu.	My younger brother goes to the park after school.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_499
+日本へ行く前に日本語を勉強します。	にほんへいくまえににほんごをべんきょうします。	Nihon e iku mae ni Nihongo o benkyou shimasu.	I study Japanese before going to Japan.		Before and after: mae ni / noun no ato de		michi unit_20 sentence_500
+ドアを開けてください。	ドアをあけてください。	Doa o akete kudasai.	Please open the door.	Please open up the door.	Te-form requests		michi unit_21 sentence_501
+窓を閉めてください。	まどをしめてください。	Mado o shimete kudasai.	Please close the window.	Please shut the window.	Te-form requests		michi unit_21 sentence_502
+ここに名前を書いてください。	ここになまえをかいてください。	Koko ni namae o kaite kudasai.	Please write your name here.		Te-form requests		michi unit_21 sentence_503
+この文を読んでください。	このぶんをよんでください。	Kono bun o yonde kudasai.	Please read this sentence.		Te-form requests		michi unit_21 sentence_504
+もう一度言ってください。	もういちどいってください。	Mou ichido itte kudasai.	Please say it one more time.	Please say it again.	Te-form requests		michi unit_21 sentence_505
+ゆっくり話してください。	ゆっくりはなしてください。	Yukkuri hanashite kudasai.	Please speak slowly.		Te-form requests		michi unit_21 sentence_506
+私の話を聞いてください。	わたしのはなしをきいてください。	Watashi no hanashi o kiite kudasai.	Please listen to what I have to say.	Please listen to me.	Te-form requests		michi unit_21 sentence_507
+この写真を見てください。	このしゃしんをみてください。	Kono shashin o mite kudasai.	Please look at this photo.	Please look at this photograph.	Te-form requests		michi unit_21 sentence_508
+ここで待ってください。	ここでまってください。	Koko de matte kudasai.	Please wait here.		Te-form requests		michi unit_21 sentence_509
+こちらに来てください。	こちらにきてください。	Kochira ni kite kudasai.	Please come this way.	Please come over here.	Te-form requests		michi unit_21 sentence_510
+椅子に座ってください。	いすにすわってください。	Isu ni suwatte kudasai.	Please sit on the chair.	Please take a seat.	Te-form requests		michi unit_21 sentence_511
+靴を脱いでください。	くつをぬいでください。	Kutsu o nuide kudasai.	Please take off your shoes.		Te-form requests		michi unit_21 sentence_512
+傘を持ってきてください。	かさをもってきてください。	Kasa o motte kite kudasai.	Please bring an umbrella.		Te-form requests		michi unit_21 sentence_513
+駅で降りてください。	えきでおりてください。	Eki de orite kudasai.	Please get off at the station.		Te-form requests		michi unit_21 sentence_514
+この紙を先生に渡してください。	このかみをせんせいにわたしてください。	Kono kami o sensei ni watashite kudasai.	Please give this paper to the teacher.	Please hand this paper to the teacher.	Te-form requests		michi unit_21 sentence_515
+水を飲んでください。	みずをのんでください。	Mizu o nonde kudasai.	Please drink some water.		Te-form requests		michi unit_21 sentence_516
+部屋を掃除してください。	へやをそうじしてください。	Heya o souji shite kudasai.	Please clean the room.		Te-form requests		michi unit_21 sentence_517
+少し休んでください。	すこしやすんでください。	Sukoshi yasunde kudasai.	Please rest for a little while.	Please take a short break.	Te-form requests		michi unit_21 sentence_518
+電気をつけてください。	でんきをつけてください。	Denki o tsukete kudasai.	Please turn on the light.		Te-form requests		michi unit_21 sentence_519
+テレビを消してください。	テレビをけしてください。	Terebi o keshite kudasai.	Please turn off the television.	Please turn off the TV.	Te-form requests		michi unit_21 sentence_520
+手を洗ってください。	てをあらってください。	Te o aratte kudasai.	Please wash your hands.		Te-form requests		michi unit_21 sentence_521
+教科書を出してください。	きょうかしょをだしてください。	Kyoukasho o dashite kudasai.	Please take out your textbook.		Te-form requests		michi unit_21 sentence_522
+この箱を運んでください。	このはこをはこんでください。	Kono hako o hakonde kudasai.	Please carry this box.		Te-form requests		michi unit_21 sentence_523
+右に曲がってください。	みぎにまがってください。	Migi ni magatte kudasai.	Please turn right.		Te-form requests		michi unit_21 sentence_524
+電話番号を教えてください。	でんわばんごうをおしえてください。	Denwa bangou o oshiete kudasai.	Please tell me your phone number.		Te-form requests		michi unit_21 sentence_525
+朝ご飯を食べて、学校に行きます。	あさごはんをたべて、がっこうにいきます。	Asagohan o tabete, gakkou ni ikimasu.	I eat breakfast and then go to school.		Te-form sequencing	The te-form links actions in order.	michi unit_22 sentence_526
+手を洗って、ご飯を食べます。	てをあらって、ごはんをたべます。	Te o aratte, gohan o tabemasu.	I wash my hands and then eat.		Te-form sequencing		michi unit_22 sentence_527
+駅まで歩いて、電車に乗ります。	えきまであるいて、でんしゃにのります。	Eki made aruite, densha ni norimasu.	I walk to the station and then take the train.		Te-form sequencing		michi unit_22 sentence_528
+靴を脱いで、家に入ります。	くつをぬいで、いえにはいります。	Kutsu o nuide, ie ni hairimasu.	I take off my shoes and then enter the house.		Te-form sequencing		michi unit_22 sentence_529
+窓を開けて、部屋を掃除します。	まどをあけて、へやをそうじします。	Mado o akete, heya o souji shimasu.	I open the window and then clean the room.		Te-form sequencing		michi unit_22 sentence_530
+お茶を入れて、少し休みます。	おちゃをいれて、すこしやすみます。	Ocha o irete, sukoshi yasumimasu.	I make some tea and then take a short break.		Te-form sequencing	Here お茶を入れる means to make tea.	michi unit_22 sentence_531
+宿題をして、テレビを見ます。	しゅくだいをして、テレビをみます。	Shukudai o shite, terebi o mimasu.	I do my homework and then watch television.		Te-form sequencing		michi unit_22 sentence_532
+図書館で本を借りて、家に帰ります。	としょかんでほんをかりて、いえにかえります。	Toshokan de hon o karite, ie ni kaerimasu.	I borrow a book at the library and then go home.		Te-form sequencing		michi unit_22 sentence_533
+スーパーに行って、牛乳を買います。	スーパーにいって、ぎゅうにゅうをかいます。	Suupaa ni itte, gyuunyuu o kaimasu.	I go to the supermarket and buy milk.		Te-form sequencing		michi unit_22 sentence_534
+顔を洗って、服を着ます。	かおをあらって、ふくをきます。	Kao o aratte, fuku o kimasu.	I wash my face and then get dressed.		Te-form sequencing		michi unit_22 sentence_535
+名前を書いて、紙を渡します。	なまえをかいて、かみをわたします。	Namae o kaite, kami o watashimasu.	I write my name and then hand over the paper.		Te-form sequencing		michi unit_22 sentence_536
+バスを降りて、右に曲がります。	バスをおりて、みぎにまがります。	Basu o orite, migi ni magarimasu.	I get off the bus and then turn right.		Te-form sequencing		michi unit_22 sentence_537
+野菜を洗って、切ります。	やさいをあらって、きります。	Yasai o aratte, kirimasu.	I wash the vegetables and then cut them.		Te-form sequencing		michi unit_22 sentence_538
+先生に聞いて、答えを書きます。	せんせいにきいて、こたえをかきます。	Sensei ni kiite, kotae o kakimasu.	I ask the teacher and then write the answer.		Te-form sequencing	Here 聞く means to ask.	michi unit_22 sentence_539
+友達に電話して、明日の時間を決めます。	ともだちにでんわして、あしたのじかんをきめます。	Tomodachi ni denwa shite, ashita no jikan o kimemasu.	I call my friend and decide on a time for tomorrow.		Te-form sequencing		michi unit_22 sentence_540
+電気を消して、寝ます。	でんきをけして、ねます。	Denki o keshite, nemasu.	I turn off the light and then go to bed.		Te-form sequencing		michi unit_22 sentence_541
+お風呂に入って、髪を乾かします。	おふろにはいって、かみをかわかします。	Ofuro ni haitte, kami o kawakashimasu.	I take a bath and then dry my hair.		Te-form sequencing		michi unit_22 sentence_542
+写真を撮って、母に見せます。	しゃしんをとって、ははにみせます。	Shashin o totte, haha ni misemasu.	I take a photo and then show it to my mother.		Te-form sequencing		michi unit_22 sentence_543
+切符を買って、電車に乗ってください。	きっぷをかって、でんしゃにのってください。	Kippu o katte, densha ni notte kudasai.	Please buy a ticket and then get on the train.		Te-form sequencing		michi unit_22 sentence_544
+この道をまっすぐ行って、左に曲がってください。	このみちをまっすぐいって、ひだりにまがってください。	Kono michi o massugu itte, hidari ni magatte kudasai.	Please go straight along this road and then turn left.		Te-form sequencing		michi unit_22 sentence_545
+机を片付けて、本を置きます。	つくえをかたづけて、ほんをおきます。	Tsukue o katazukete, hon o okimasu.	I tidy the desk and then put a book on it.		Te-form sequencing		michi unit_22 sentence_546
+かばんを開けて、財布を出します。	かばんをあけて、さいふをだします。	Kaban o akete, saifu o dashimasu.	I open my bag and then take out my wallet.		Te-form sequencing		michi unit_22 sentence_547
+椅子に座って、先生の話を聞きます。	いすにすわって、せんせいのはなしをききます。	Isu ni suwatte, sensei no hanashi o kikimasu.	I sit on a chair and then listen to the teacher.		Te-form sequencing		michi unit_22 sentence_548
+駅で友達に会って、一緒に昼ご飯を食べます。	えきでともだちにあって、いっしょにひるごはんをたべます。	Eki de tomodachi ni atte, issho ni hirugohan o tabemasu.	I meet my friend at the station and then have lunch together.		Te-form sequencing		michi unit_22 sentence_549
+パンを買って、公園で食べます。	パンをかって、こうえんでたべます。	Pan o katte, kouen de tabemasu.	I buy some bread and then eat it in the park.		Te-form sequencing		michi unit_22 sentence_550
+今、朝ご飯を食べています。	いま、あさごはんをたべています。	Ima, asagohan o tabete imasu.	I am eating breakfast now.		Actions in progress	The te-form plus います can describe an action in progress.	michi unit_23 sentence_551
+父は新聞を読んでいます。	ちちはしんぶんをよんでいます。	Chichi wa shinbun o yonde imasu.	My father is reading the newspaper.		Actions in progress		michi unit_23 sentence_552
+母は台所で料理しています。	はははだいどころでりょうりしています。	Haha wa daidokoro de ryouri shite imasu.	My mother is cooking in the kitchen.		Actions in progress		michi unit_23 sentence_553
+弟は公園で遊んでいます。	おとうとはこうえんであそんでいます。	Otouto wa kouen de asonde imasu.	My younger brother is playing in the park.		Actions in progress		michi unit_23 sentence_554
+姉は電話で話しています。	あねはでんわではなしています。	Ane wa denwa de hanashite imasu.	My older sister is talking on the phone.		Actions in progress		michi unit_23 sentence_555
+私は日本語を勉強しています。	わたしはにほんごをべんきょうしています。	Watashi wa nihongo o benkyou shite imasu.	I am studying Japanese.		Actions in progress		michi unit_23 sentence_556
+子供たちは歌を歌っています。	こどもたちはうたをうたっています。	Kodomotachi wa uta o utatte imasu.	The children are singing a song.		Actions in progress		michi unit_23 sentence_557
+先生は黒板に字を書いています。	せんせいはこくばんにじをかいています。	Sensei wa kokuban ni ji o kaite imasu.	The teacher is writing on the blackboard.		Actions in progress		michi unit_23 sentence_558
+今、雨が降っています。	いま、あめがふっています。	Ima, ame ga futte imasu.	It is raining now.		Actions in progress		michi unit_23 sentence_559
+犬が庭を走っています。	いぬがにわをはしっています。	Inu ga niwa o hashitte imasu.	A dog is running around the garden.		Actions in progress		michi unit_23 sentence_560
+赤ちゃんが寝ています。	あかちゃんがねています。	Akachan ga nete imasu.	The baby is sleeping.		Actions in progress		michi unit_23 sentence_561
+友達を駅で待っています。	ともだちをえきでまっています。	Tomodachi o eki de matte imasu.	I am waiting for my friend at the station.		Actions in progress		michi unit_23 sentence_562
+兄は車を洗っています。	あにはくるまをあらっています。	Ani wa kuruma o aratte imasu.	My older brother is washing the car.		Actions in progress		michi unit_23 sentence_563
+妹は絵を描いています。	いもうとはえをかいています。	Imouto wa e o kaite imasu.	My younger sister is drawing a picture.		Actions in progress	描く is read かく when drawing pictures.	michi unit_23 sentence_564
+みんなで映画を見ています。	みんなでえいがをみています。	Minna de eiga o mite imasu.	We are all watching a movie together.		Actions in progress		michi unit_23 sentence_565
+私は今、お茶を飲んでいます。	わたしはいま、おちゃをのんでいます。	Watashi wa ima, ocha o nonde imasu.	I am drinking tea now.		Actions in progress		michi unit_23 sentence_566
+二人が外で話しています。	ふたりがそとではなしています。	Futari ga soto de hanashite imasu.	Two people are talking outside.		Actions in progress		michi unit_23 sentence_567
+山田さんはバスに乗っています。	やまださんはバスにのっています。	Yamada-san wa basu ni notte imasu.	Mr. Yamada is riding the bus.	Ms. Yamada is riding the bus.	Actions in progress	さん does not indicate gender.	michi unit_23 sentence_568
+今、何をしていますか。	いま、なにをしていますか。	Ima, nani o shite imasu ka.	What are you doing now?		Actions in progress		michi unit_23 sentence_569
+あの人は何を読んでいますか。	あのひとはなにをよんでいますか。	Ano hito wa nani o yonde imasu ka.	What is that person reading?		Actions in progress		michi unit_23 sentence_570
+猫が魚を食べています。	ねこがさかなをたべています。	Neko ga sakana o tabete imasu.	A cat is eating fish.		Actions in progress		michi unit_23 sentence_571
+私たちは駅まで歩いています。	わたしたちはえきまであるいています。	Watashitachi wa eki made aruite imasu.	We are walking to the station.		Actions in progress		michi unit_23 sentence_572
+今、部屋を掃除しています。	いま、へやをそうじしています。	Ima, heya o souji shite imasu.	I am cleaning the room now.		Actions in progress		michi unit_23 sentence_573
+学生たちは先生の話を聞いています。	がくせいたちはせんせいのはなしをきいています。	Gakuseitachi wa sensei no hanashi o kiite imasu.	The students are listening to the teacher.		Actions in progress		michi unit_23 sentence_574
+友達がピアノを弾いています。	ともだちがピアノをひいています。	Tomodachi ga piano o hiite imasu.	My friend is playing the piano.		Actions in progress		michi unit_23 sentence_575
+私は東京に住んでいます。	わたしはとうきょうにすんでいます。	Watashi wa Toukyou ni sunde imasu.	I live in Tokyo.		States and habits	住んでいます describes where someone lives.	michi unit_24 sentence_576
+姉は大阪に住んでいます。	あねはおおさかにすんでいます。	Ane wa Oosaka ni sunde imasu.	My older sister lives in Osaka.		States and habits		michi unit_24 sentence_577
+父は銀行で働いています。	ちちはぎんこうではたらいています。	Chichi wa ginkou de hataraite imasu.	My father works at a bank.		States and habits		michi unit_24 sentence_578
+母は学校で働いています。	はははがっこうではたらいています。	Haha wa gakkou de hataraite imasu.	My mother works at a school.		States and habits		michi unit_24 sentence_579
+私は毎朝、駅まで歩いています。	わたしはまいあさ、えきまであるいています。	Watashi wa maiasa, eki made aruite imasu.	I walk to the station every morning.		States and habits	With 毎朝, this describes a regular habit.	michi unit_24 sentence_580
+毎晩、寝る前に本を読んでいます。	まいばん、ねるまえにほんをよんでいます。	Maiban, neru mae ni hon o yonde imasu.	I read a book before bed every night.		States and habits		michi unit_24 sentence_581
+週末は公園で走っています。	しゅうまつはこうえんではしっています。	Shuumatsu wa kouen de hashitte imasu.	I run in the park on weekends.		States and habits		michi unit_24 sentence_582
+窓が開いています。	まどがあいています。	Mado ga aite imasu.	The window is open.		States and habits	開いています describes the state of being open.	michi unit_24 sentence_583
+ドアが閉まっています。	ドアがしまっています。	Doa ga shimatte imasu.	The door is closed.		States and habits		michi unit_24 sentence_584
+部屋の電気がついています。	へやのでんきがついています。	Heya no denki ga tsuite imasu.	The light in the room is on.		States and habits		michi unit_24 sentence_585
+テレビがついています。	テレビがついています。	Terebi ga tsuite imasu.	The television is on.	The TV is on.	States and habits		michi unit_24 sentence_586
+時計が止まっています。	とけいがとまっています。	Tokei ga tomatte imasu.	The clock has stopped.		States and habits		michi unit_24 sentence_587
+兄は結婚しています。	あにはけっこんしています。	Ani wa kekkon shite imasu.	My older brother is married.		States and habits	結婚しています describes being married.	michi unit_24 sentence_588
+私は眼鏡をかけています。	わたしはめがねをかけています。	Watashi wa megane o kakete imasu.	I am wearing glasses.		States and habits		michi unit_24 sentence_589
+妹は赤い帽子をかぶっています。	いもうとはあかいぼうしをかぶっています。	Imouto wa akai boushi o kabutte imasu.	My younger sister is wearing a red hat.		States and habits		michi unit_24 sentence_590
+先生は白いシャツを着ています。	せんせいはしろいシャツをきています。	Sensei wa shiroi shatsu o kite imasu.	The teacher is wearing a white shirt.		States and habits		michi unit_24 sentence_591
+あの人は黒い靴を履いています。	あのひとはくろいくつをはいています。	Ano hito wa kuroi kutsu o haite imasu.	That person is wearing black shoes.		States and habits	履く is used for footwear and clothes below the waist.	michi unit_24 sentence_592
+田中さんは青いズボンを履いています。	たなかさんはあおいズボンをはいています。	Tanaka-san wa aoi zubon o haite imasu.	Mr. Tanaka is wearing blue trousers.	Ms. Tanaka is wearing blue trousers.	States and habits	さん does not indicate gender.	michi unit_24 sentence_593
+その店はもう閉まっています。	そのみせはもうしまっています。	Sono mise wa mou shimatte imasu.	That shop is already closed.		States and habits		michi unit_24 sentence_594
+駅の名前を知っています。	えきのなまえをしっています。	Eki no namae o shitte imasu.	I know the name of the station.		States and habits	知っています means to know.	michi unit_24 sentence_595
+その人を知っていますか。	そのひとをしっていますか。	Sono hito o shitte imasu ka.	Do you know that person?		States and habits		michi unit_24 sentence_596
+私は毎日、日本語の本を読んでいます。	わたしはまいにち、にほんごのほんをよんでいます。	Watashi wa mainichi, nihongo no hon o yonde imasu.	I read Japanese books every day.		States and habits		michi unit_24 sentence_597
+弟は毎週、図書館で勉強しています。	おとうとはまいしゅう、としょかんでべんきょうしています。	Otouto wa maishuu, toshokan de benkyou shite imasu.	My younger brother studies at the library every week.		States and habits		michi unit_24 sentence_598
+庭に車が止まっています。	にわにくるまがとまっています。	Niwa ni kuruma ga tomatte imasu.	A car is parked in the yard.		States and habits	止まっています can describe a vehicle that is stationary.	michi unit_24 sentence_599
+私は毎朝、牛乳を飲んでいます。	わたしはまいあさ、ぎゅうにゅうをのんでいます。	Watashi wa maiasa, gyuunyuu o nonde imasu.	I drink milk every morning.		States and habits		michi unit_24 sentence_600
+ここに座ってもいいですか。	ここにすわってもいいですか。	Koko ni suwatte mo ii desu ka.	May I sit here?		Permission	The te-form plus もいいです asks or gives permission.	michi unit_25 sentence_601
+窓を開けてもいいですか。	まどをあけてもいいですか。	Mado o akete mo ii desu ka.	May I open the window?		Permission		michi unit_25 sentence_602
+この本を借りてもいいですか。	このほんをかりてもいいですか。	Kono hon o karite mo ii desu ka.	May I borrow this book?		Permission		michi unit_25 sentence_603
+写真を撮ってもいいですか。	しゃしんをとってもいいですか。	Shashin o totte mo ii desu ka.	May I take a photo?		Permission		michi unit_25 sentence_604
+このペンを使ってもいいですか。	このペンをつかってもいいですか。	Kono pen o tsukatte mo ii desu ka.	May I use this pen?		Permission		michi unit_25 sentence_605
+少し休んでもいいですか。	すこしやすんでもいいですか。	Sukoshi yasunde mo ii desu ka.	May I take a short break?		Permission		michi unit_25 sentence_606
+ここで待ってもいいですか。	ここでまってもいいですか。	Koko de matte mo ii desu ka.	May I wait here?		Permission		michi unit_25 sentence_607
+この部屋に入ってもいいですか。	このへやにはいってもいいですか。	Kono heya ni haitte mo ii desu ka.	May I enter this room?		Permission		michi unit_25 sentence_608
+水を飲んでもいいですか。	みずをのんでもいいですか。	Mizu o nonde mo ii desu ka.	May I drink some water?		Permission		michi unit_25 sentence_609
+英語で話してもいいですか。	えいごではなしてもいいですか。	Eigo de hanashite mo ii desu ka.	May I speak in English?		Permission		michi unit_25 sentence_610
+明日、来てもいいですか。	あした、きてもいいですか。	Ashita, kite mo ii desu ka.	May I come tomorrow?		Permission		michi unit_25 sentence_611
+テレビをつけてもいいですか。	テレビをつけてもいいですか。	Terebi o tsukete mo ii desu ka.	May I turn on the television?		Permission		michi unit_25 sentence_612
+この椅子を動かしてもいいですか。	このいすをうごかしてもいいですか。	Kono isu o ugokashite mo ii desu ka.	May I move this chair?		Permission		michi unit_25 sentence_613
+ここで宿題をしてもいいですか。	ここでしゅくだいをしてもいいですか。	Koko de shukudai o shite mo ii desu ka.	May I do my homework here?		Permission		michi unit_25 sentence_614
+先に帰ってもいいですか。	さきにかえってもいいですか。	Saki ni kaette mo ii desu ka.	May I go home first?		Permission		michi unit_25 sentence_615
+このお菓子を食べてもいいですか。	このおかしをたべてもいいですか。	Kono okashi o tabete mo ii desu ka.	May I eat this snack?		Permission		michi unit_25 sentence_616
+ここで電話してもいいですか。	ここででんわしてもいいですか。	Koko de denwa shite mo ii desu ka.	May I make a phone call here?		Permission		michi unit_25 sentence_617
+靴を脱いでもいいですか。	くつをぬいでもいいですか。	Kutsu o nuide mo ii desu ka.	May I take off my shoes?		Permission		michi unit_25 sentence_618
+辞書を見てもいいですか。	じしょをみてもいいですか。	Jisho o mite mo ii desu ka.	May I look at the dictionary?		Permission		michi unit_25 sentence_619
+ここにかばんを置いてもいいです。	ここにかばんをおいてもいいです。	Koko ni kaban o oite mo ii desu.	You may put your bag here.		Permission		michi unit_25 sentence_620
+このパソコンを使ってもいいです。	このパソコンをつかってもいいです。	Kono pasokon o tsukatte mo ii desu.	You may use this computer.		Permission		michi unit_25 sentence_621
+外で遊んでもいいです。	そとであそんでもいいです。	Soto de asonde mo ii desu.	You may play outside.		Permission		michi unit_25 sentence_622
+今日は早く寝てもいいです。	きょうははやくねてもいいです。	Kyou wa hayaku nete mo ii desu.	You may go to bed early today.		Permission		michi unit_25 sentence_623
+この紙に書いてもいいです。	このかみにかいてもいいです。	Kono kami ni kaite mo ii desu.	You may write on this paper.		Permission		michi unit_25 sentence_624
+ドアを閉めてもいいです。	ドアをしめてもいいです。	Doa o shimete mo ii desu.	You may close the door.		Permission		michi unit_25 sentence_625
+ここで写真を撮ってはいけません。	ここでしゃしんをとってはいけません。	Koko de shashin o totte wa ikemasen.	You must not take photos here.		Prohibition	The te-form plus はいけません expresses prohibition.	michi unit_26 sentence_626
+図書館で大きな声で話してはいけません。	としょかんでおおきなこえではなしてはいけません。	Toshokan de ookina koe de hanashite wa ikemasen.	You must not speak loudly in the library.		Prohibition		michi unit_26 sentence_627
+この部屋に入ってはいけません。	このへやにはいってはいけません。	Kono heya ni haitte wa ikemasen.	You must not enter this room.		Prohibition		michi unit_26 sentence_628
+ここに車を止めてはいけません。	ここにくるまをとめてはいけません。	Koko ni kuruma o tomete wa ikemasen.	You must not park your car here.		Prohibition		michi unit_26 sentence_629
+教室で食べてはいけません。	きょうしつでたべてはいけません。	Kyoushitsu de tabete wa ikemasen.	You must not eat in the classroom.		Prohibition		michi unit_26 sentence_630
+この水を飲んではいけません。	このみずをのんではいけません。	Kono mizu o nonde wa ikemasen.	You must not drink this water.		Prohibition		michi unit_26 sentence_631
+病院でたばこを吸ってはいけません。	びょういんでたばこをすってはいけません。	Byouin de tabako o sutte wa ikemasen.	You must not smoke in the hospital.		Prohibition		michi unit_26 sentence_632
+バスの中で走ってはいけません。	バスのなかではしってはいけません。	Basu no naka de hashitte wa ikemasen.	You must not run inside the bus.		Prohibition		michi unit_26 sentence_633
+この川で泳いではいけません。	このかわでおよいではいけません。	Kono kawa de oyoide wa ikemasen.	You must not swim in this river.		Prohibition		michi unit_26 sentence_634
+人の手紙を読んではいけません。	ひとのてがみをよんではいけません。	Hito no tegami o yonde wa ikemasen.	You must not read other people's letters.		Prohibition		michi unit_26 sentence_635
+この紙を捨ててはいけません。	このかみをすててはいけません。	Kono kami o sutete wa ikemasen.	You must not throw away this paper.		Prohibition		michi unit_26 sentence_636
+ここで火を使ってはいけません。	ここでひをつかってはいけません。	Koko de hi o tsukatte wa ikemasen.	You must not use fire here.		Prohibition		michi unit_26 sentence_637
+その箱を開けてはいけません。	そのはこをあけてはいけません。	Sono hako o akete wa ikemasen.	You must not open that box.		Prohibition		michi unit_26 sentence_638
+試験の時、話してはいけません。	しけんのとき、はなしてはいけません。	Shiken no toki, hanashite wa ikemasen.	You must not talk during the exam.		Prohibition		michi unit_26 sentence_639
+この机に字を書いてはいけません。	このつくえにじをかいてはいけません。	Kono tsukue ni ji o kaite wa ikemasen.	You must not write on this desk.		Prohibition		michi unit_26 sentence_640
+このドアを閉めてはいけません。	このドアをしめてはいけません。	Kono doa o shimete wa ikemasen.	You must not close this door.		Prohibition		michi unit_26 sentence_641
+友達の財布を持っていってはいけません。	ともだちのさいふをもっていってはいけません。	Tomodachi no saifu o motte itte wa ikemasen.	You must not take your friend's wallet away.		Prohibition		michi unit_26 sentence_642
+駅で自転車に乗ってはいけません。	えきでじてんしゃにのってはいけません。	Eki de jitensha ni notte wa ikemasen.	You must not ride a bicycle at the station.		Prohibition		michi unit_26 sentence_643
+教室の電気を消してはいけません。	きょうしつのでんきをけしてはいけません。	Kyoushitsu no denki o keshite wa ikemasen.	You must not turn off the classroom light.		Prohibition		michi unit_26 sentence_644
+授業中に寝てはいけません。	じゅぎょうちゅうにねてはいけません。	Jugyouchuu ni nete wa ikemasen.	You must not sleep during class.		Prohibition		michi unit_26 sentence_645
+この本を家に持って帰ってはいけません。	このほんをいえにもってかえってはいけません。	Kono hon o ie ni motte kaette wa ikemasen.	You must not take this book home.		Prohibition		michi unit_26 sentence_646
+廊下で遊んではいけません。	ろうかであそんではいけません。	Rouka de asonde wa ikemasen.	You must not play in the hallway.		Prohibition		michi unit_26 sentence_647
+ここにごみを置いてはいけません。	ここにごみをおいてはいけません。	Koko ni gomi o oite wa ikemasen.	You must not leave rubbish here.	You must not leave trash here.	Prohibition		michi unit_26 sentence_648
+先生のパソコンを使ってはいけません。	せんせいのパソコンをつかってはいけません。	Sensei no pasokon o tsukatte wa ikemasen.	You must not use the teacher's computer.		Prohibition		michi unit_26 sentence_649
+赤ちゃんを起こしてはいけません。	あかちゃんをおこしてはいけません。	Akachan o okoshite wa ikemasen.	You must not wake the baby.		Prohibition		michi unit_26 sentence_650
+水が飲みたいです。	みずがのみたいです。	Mizu ga nomitai desu.	I want to drink some water.		Wanting actions and things	The verb stem plus たい expresses a desire to do something.	michi unit_27 sentence_651
+今日は早く寝たいです。	きょうははやくねたいです。	Kyou wa hayaku netai desu.	I want to go to bed early today.		Wanting actions and things		michi unit_27 sentence_652
+日本に行きたいです。	にほんにいきたいです。	Nihon ni ikitai desu.	I want to go to Japan.		Wanting actions and things		michi unit_27 sentence_653
+寿司を食べたいです。	すしをたべたいです。	Sushi o tabetai desu.	I want to eat sushi.		Wanting actions and things		michi unit_27 sentence_654
+この映画を見たいです。	このえいがをみたいです。	Kono eiga o mitai desu.	I want to watch this movie.		Wanting actions and things		michi unit_27 sentence_655
+友達に会いたいです。	ともだちにあいたいです。	Tomodachi ni aitai desu.	I want to see my friend.		Wanting actions and things		michi unit_27 sentence_656
+日本語で話したいです。	にほんごではなしたいです。	Nihongo de hanashitai desu.	I want to speak in Japanese.		Wanting actions and things		michi unit_27 sentence_657
+海で泳ぎたいです。	うみでおよぎたいです。	Umi de oyogitai desu.	I want to swim in the sea.		Wanting actions and things		michi unit_27 sentence_658
+新しい本を読みたいです。	あたらしいほんをよみたいです。	Atarashii hon o yomitai desu.	I want to read a new book.		Wanting actions and things		michi unit_27 sentence_659
+公園で写真を撮りたいです。	こうえんでしゃしんをとりたいです。	Kouen de shashin o toritai desu.	I want to take photos in the park.		Wanting actions and things		michi unit_27 sentence_660
+今日は家で休みたいです。	きょうはいえでやすみたいです。	Kyou wa ie de yasumitai desu.	I want to rest at home today.		Wanting actions and things		michi unit_27 sentence_661
+何を食べたいですか。	なにをたべたいですか。	Nani o tabetai desu ka.	What do you want to eat?		Wanting actions and things		michi unit_27 sentence_662
+どこに行きたいですか。	どこにいきたいですか。	Doko ni ikitai desu ka.	Where do you want to go?		Wanting actions and things		michi unit_27 sentence_663
+何を飲みたいですか。	なにをのみたいですか。	Nani o nomitai desu ka.	What do you want to drink?		Wanting actions and things		michi unit_27 sentence_664
+今日はテレビを見たくないです。	きょうはテレビをみたくないです。	Kyou wa terebi o mitakunai desu.	I do not want to watch television today.		Wanting actions and things	たい changes to たくない in the negative.	michi unit_27 sentence_665
+今は何も食べたくないです。	いまはなにもたべたくないです。	Ima wa nani mo tabetakunai desu.	I do not want to eat anything right now.		Wanting actions and things		michi unit_27 sentence_666
+新しいかばんが欲しいです。	あたらしいかばんがほしいです。	Atarashii kaban ga hoshii desu.	I want a new bag.		Wanting actions and things	A noun plus が欲しい expresses wanting something.	michi unit_27 sentence_667
+日本語の辞書が欲しいです。	にほんごのじしょがほしいです。	Nihongo no jisho ga hoshii desu.	I want a Japanese dictionary.		Wanting actions and things		michi unit_27 sentence_668
+大きい机が欲しいです。	おおきいつくえがほしいです。	Ookii tsukue ga hoshii desu.	I want a big desk.		Wanting actions and things		michi unit_27 sentence_669
+青い傘が欲しいです。	あおいかさがほしいです。	Aoi kasa ga hoshii desu.	I want a blue umbrella.		Wanting actions and things		michi unit_27 sentence_670
+自転車が欲しいです。	じてんしゃがほしいです。	Jitensha ga hoshii desu.	I want a bicycle.		Wanting actions and things		michi unit_27 sentence_671
+誕生日に何が欲しいですか。	たんじょうびになにがほしいですか。	Tanjoubi ni nani ga hoshii desu ka.	What do you want for your birthday?		Wanting actions and things		michi unit_27 sentence_672
+今は新しい服が欲しくないです。	いまはあたらしいふくがほしくないです。	Ima wa atarashii fuku ga hoshikunai desu.	I do not want new clothes right now.		Wanting actions and things	欲しい is an i-adjective; the negative is 欲しくない.	michi unit_27 sentence_673
+来年、日本で働きたいです。	らいねん、にほんではたらきたいです。	Rainen, Nihon de hatarakitai desu.	I want to work in Japan next year.		Wanting actions and things		michi unit_27 sentence_674
+週末は友達と遊びたいです。	しゅうまつはともだちとあそびたいです。	Shuumatsu wa tomodachi to asobitai desu.	I want to spend time with my friends this weekend.		Wanting actions and things	Here 遊ぶ means to spend leisure time together.	michi unit_27 sentence_675
+私の趣味は本を読むことです。	わたしのしゅみはほんをよむことです。	Watashi no shumi wa hon o yomu koto desu.	My hobby is reading books.		Dictionary forms and activities	A dictionary-form verb plus こと turns an action into a noun phrase.	michi unit_28 sentence_676
+私の趣味は写真を撮ることです。	わたしのしゅみはしゃしんをとることです。	Watashi no shumi wa shashin o toru koto desu.	My hobby is taking photos.		Dictionary forms and activities		michi unit_28 sentence_677
+父の趣味は料理をすることです。	ちちのしゅみはりょうりをすることです。	Chichi no shumi wa ryouri o suru koto desu.	My father's hobby is cooking.		Dictionary forms and activities		michi unit_28 sentence_678
+姉の趣味はピアノを弾くことです。	あねのしゅみはピアノをひくことです。	Ane no shumi wa piano o hiku koto desu.	My older sister's hobby is playing the piano.		Dictionary forms and activities		michi unit_28 sentence_679
+弟の趣味は絵を描くことです。	おとうとのしゅみはえをかくことです。	Otouto no shumi wa e o kaku koto desu.	My younger brother's hobby is drawing pictures.		Dictionary forms and activities		michi unit_28 sentence_680
+私の趣味は音楽を聞くことです。	わたしのしゅみはおんがくをきくことです。	Watashi no shumi wa ongaku o kiku koto desu.	My hobby is listening to music.		Dictionary forms and activities		michi unit_28 sentence_681
+あなたの趣味は何ですか。	あなたのしゅみはなんですか。	Anata no shumi wa nan desu ka.	What is your hobby?		Dictionary forms and activities		michi unit_28 sentence_682
+日本語の本を読むことができます。	にほんごのほんをよむことができます。	Nihongo no hon o yomu koto ga dekimasu.	I can read Japanese books.		Dictionary forms and activities	Dictionary form plus ことができます expresses ability.	michi unit_28 sentence_683
+妹は泳ぐことができます。	いもうとはおよぐことができます。	Imouto wa oyogu koto ga dekimasu.	My younger sister can swim.		Dictionary forms and activities		michi unit_28 sentence_684
+私は自転車に乗ることができます。	わたしはじてんしゃにのることができます。	Watashi wa jitensha ni noru koto ga dekimasu.	I can ride a bicycle.		Dictionary forms and activities		michi unit_28 sentence_685
+兄は車を運転することができます。	あにはくるまをうんてんすることができます。	Ani wa kuruma o unten suru koto ga dekimasu.	My older brother can drive a car.		Dictionary forms and activities		michi unit_28 sentence_686
+ここで切符を買うことができます。	ここできっぷをかうことができます。	Koko de kippu o kau koto ga dekimasu.	You can buy tickets here.		Dictionary forms and activities		michi unit_28 sentence_687
+この図書館で本を借りることができます。	このとしょかんでほんをかりることができます。	Kono toshokan de hon o kariru koto ga dekimasu.	You can borrow books at this library.		Dictionary forms and activities		michi unit_28 sentence_688
+ここで昼ご飯を食べることができます。	ここでひるごはんをたべることができます。	Koko de hirugohan o taberu koto ga dekimasu.	You can eat lunch here.		Dictionary forms and activities		michi unit_28 sentence_689
+日本語で手紙を書くことができますか。	にほんごでてがみをかくことができますか。	Nihongo de tegami o kaku koto ga dekimasu ka.	Can you write a letter in Japanese?		Dictionary forms and activities		michi unit_28 sentence_690
+私はまだ漢字を書くことができません。	わたしはまだかんじをかくことができません。	Watashi wa mada kanji o kaku koto ga dekimasen.	I cannot write kanji yet.		Dictionary forms and activities		michi unit_28 sentence_691
+弟はまだ一人で料理をすることができません。	おとうとはまだひとりでりょうりをすることができません。	Otouto wa mada hitori de ryouri o suru koto ga dekimasen.	My younger brother cannot cook by himself yet.		Dictionary forms and activities		michi unit_28 sentence_692
+寝る前に歯を磨きます。	ねるまえにはをみがきます。	Neru mae ni ha o migakimasu.	I brush my teeth before going to bed.		Dictionary forms and activities	Dictionary form plus 前に means before doing something.	michi unit_28 sentence_693
+料理をする前に手を洗います。	りょうりをするまえにてをあらいます。	Ryouri o suru mae ni te o araimasu.	I wash my hands before cooking.		Dictionary forms and activities		michi unit_28 sentence_694
+学校に行く前に朝ご飯を食べます。	がっこうにいくまえにあさごはんをたべます。	Gakkou ni iku mae ni asagohan o tabemasu.	I eat breakfast before going to school.		Dictionary forms and activities		michi unit_28 sentence_695
+本を借りる前に名前を書きます。	ほんをかりるまえになまえをかきます。	Hon o kariru mae ni namae o kakimasu.	I write my name before borrowing a book.		Dictionary forms and activities		michi unit_28 sentence_696
+友達が来る前に部屋を掃除します。	ともだちがくるまえにへやをそうじします。	Tomodachi ga kuru mae ni heya o souji shimasu.	I clean the room before my friend comes.		Dictionary forms and activities		michi unit_28 sentence_697
+出かける前に窓を閉めます。	でかけるまえにまどをしめます。	Dekakeru mae ni mado o shimemasu.	I close the window before going out.		Dictionary forms and activities		michi unit_28 sentence_698
+電話する前に番号を調べます。	でんわするまえにばんごうをしらべます。	Denwa suru mae ni bangou o shirabemasu.	I look up the number before making a phone call.		Dictionary forms and activities		michi unit_28 sentence_699
+電車に乗る前に切符を買います。	でんしゃにのるまえにきっぷをかいます。	Densha ni noru mae ni kippu o kaimasu.	I buy a ticket before getting on the train.		Dictionary forms and activities		michi unit_28 sentence_700
+私は肉を食べない。	わたしはにくをたべない。	Watashi wa niku o tabenai.	I do not eat meat.		Plain negative verbs	ない is a plain negative verb ending.	michi unit_29 sentence_701
+今日は学校に行かない。	きょうはがっこうにいかない。	Kyou wa gakkou ni ikanai.	I am not going to school today.		Plain negative verbs		michi unit_29 sentence_702
+弟はコーヒーを飲まない。	おとうとはコーヒーをのまない。	Otouto wa koohii o nomanai.	My younger brother does not drink coffee.		Plain negative verbs		michi unit_29 sentence_703
+私は夜、テレビを見ない。	わたしはよる、テレビをみない。	Watashi wa yoru, terebi o minai.	I do not watch television at night.		Plain negative verbs		michi unit_29 sentence_704
+父は日曜日に働かない。	ちちはにちようびにはたらかない。	Chichi wa nichiyoubi ni hatarakanai.	My father does not work on Sundays.		Plain negative verbs		michi unit_29 sentence_705
+今日は雨が降らない。	きょうはあめがふらない。	Kyou wa ame ga furanai.	It will not rain today.		Plain negative verbs		michi unit_29 sentence_706
+私はたばこを吸わない。	わたしはたばこをすわない。	Watashi wa tabako o suwanai.	I do not smoke.		Plain negative verbs		michi unit_29 sentence_707
+今は何も買わない。	いまはなにもかわない。	Ima wa nani mo kawanai.	I am not buying anything right now.		Plain negative verbs	買う changes to 買わない in the plain negative.	michi unit_29 sentence_708
+明日は早く起きない。	あしたははやくおきない。	Ashita wa hayaku okinai.	I will not get up early tomorrow.		Plain negative verbs		michi unit_29 sentence_709
+姉は車を運転しない。	あねはくるまをうんてんしない。	Ane wa kuruma o unten shinai.	My older sister does not drive a car.		Plain negative verbs	する changes to しない.	michi unit_29 sentence_710
+友達は今日は来ない。	ともだちはきょうはこない。	Tomodachi wa kyou wa konai.	My friend is not coming today.		Plain negative verbs	来ない is read こない.	michi unit_29 sentence_711
+このペンは使わない。	このペンはつかわない。	Kono pen wa tsukawanai.	I will not use this pen.		Plain negative verbs		michi unit_29 sentence_712
+私はその人を知らない。	わたしはそのひとをしらない。	Watashi wa sono hito o shiranai.	I do not know that person.		Plain negative verbs	The negative of 知っています is 知りません or plain 知らない.	michi unit_29 sentence_713
+今日は昼ご飯を作らない。	きょうはひるごはんをつくらない。	Kyou wa hirugohan o tsukuranai.	I will not make lunch today.		Plain negative verbs		michi unit_29 sentence_714
+妹はまだ一人で泳がない。	いもうとはまだひとりでおよがない。	Imouto wa mada hitori de oyoganai.	My younger sister does not swim alone yet.		Plain negative verbs		michi unit_29 sentence_715
+私はこの歌を歌わない。	わたしはこのうたをうたわない。	Watashi wa kono uta o utawanai.	I will not sing this song.		Plain negative verbs		michi unit_29 sentence_716
+兄は漫画を読まない。	あにはまんがをよまない。	Ani wa manga o yomanai.	My older brother does not read manga.		Plain negative verbs		michi unit_29 sentence_717
+今日は図書館で勉強しない。	きょうはとしょかんでべんきょうしない。	Kyou wa toshokan de benkyou shinai.	I will not study at the library today.		Plain negative verbs		michi unit_29 sentence_718
+私は朝、音楽を聞かない。	わたしはあさ、おんがくをきかない。	Watashi wa asa, ongaku o kikanai.	I do not listen to music in the morning.		Plain negative verbs		michi unit_29 sentence_719
+明日はバスに乗らない。	あしたはバスにのらない。	Ashita wa basu ni noranai.	I will not take the bus tomorrow.		Plain negative verbs		michi unit_29 sentence_720
+この窓は開けない。	このまどはあけない。	Kono mado wa akenai.	I will not open this window.		Plain negative verbs		michi unit_29 sentence_721
+私はお酒を飲まない。	わたしはおさけをのまない。	Watashi wa osake o nomanai.	I do not drink alcohol.		Plain negative verbs		michi unit_29 sentence_722
+今日は友達に電話しない。	きょうはともだちにでんわしない。	Kyou wa tomodachi ni denwa shinai.	I will not call my friend today.		Plain negative verbs		michi unit_29 sentence_723
+私は夜、一人で出かけない。	わたしはよる、ひとりででかけない。	Watashi wa yoru, hitori de dekakenai.	I do not go out alone at night.		Plain negative verbs		michi unit_29 sentence_724
+この時計は動かない。	このとけいはうごかない。	Kono tokei wa ugokanai.	This clock does not work.		Plain negative verbs	Here 動かない means that the clock does not run.	michi unit_29 sentence_725
+昨日、友達に会った。	きのう、ともだちにあった。	Kinou, tomodachi ni atta.	I saw my friend yesterday.		Plain past verbs	た is the plain past verb ending.	michi unit_30 sentence_726
+今朝、六時に起きた。	けさ、ろくじにおきた。	Kesa, rokuji ni okita.	I got up at six this morning.		Plain past verbs		michi unit_30 sentence_727
+昨日、カレーを作った。	きのう、カレーをつくった。	Kinou, karee o tsukutta.	I made curry yesterday.		Plain past verbs		michi unit_30 sentence_728
+昨夜、映画を見た。	さくや、えいがをみた。	Sakuya, eiga o mita.	I watched a movie last night.		Plain past verbs		michi unit_30 sentence_729
+駅まで走った。	えきまではしった。	Eki made hashitta.	I ran to the station.		Plain past verbs		michi unit_30 sentence_730
+昼ご飯にパンを食べた。	ひるごはんにパンをたべた。	Hirugohan ni pan o tabeta.	I ate bread for lunch.		Plain past verbs		michi unit_30 sentence_731
+公園で写真を撮った。	こうえんでしゃしんをとった。	Kouen de shashin o totta.	I took photos in the park.		Plain past verbs		michi unit_30 sentence_732
+先生に質問した。	せんせいにしつもんした。	Sensei ni shitsumon shita.	I asked the teacher a question.		Plain past verbs	する changes to した.	michi unit_30 sentence_733
+友達が家に来た。	ともだちがいえにきた。	Tomodachi ga ie ni kita.	My friend came to my house.		Plain past verbs	来た is read きた.	michi unit_30 sentence_734
+昨日、手紙を書いた。	きのう、てがみをかいた。	Kinou, tegami o kaita.	I wrote a letter yesterday.		Plain past verbs		michi unit_30 sentence_735
+図書館で本を借りた。	としょかんでほんをかりた。	Toshokan de hon o karita.	I borrowed a book from the library.		Plain past verbs		michi unit_30 sentence_736
+母に電話した。	ははにでんわした。	Haha ni denwa shita.	I called my mother.		Plain past verbs		michi unit_30 sentence_737
+学校で日本語を勉強した。	がっこうでにほんごをべんきょうした。	Gakkou de nihongo o benkyou shita.	I studied Japanese at school.		Plain past verbs		michi unit_30 sentence_738
+昨日は家から出なかった。	きのうはいえからでなかった。	Kinou wa ie kara denakatta.	I did not leave the house yesterday.		Plain past verbs	なかった is the plain negative past ending.	michi unit_30 sentence_739
+今朝は朝ご飯を食べなかった。	けさはあさごはんをたべなかった。	Kesa wa asagohan o tabenakatta.	I did not eat breakfast this morning.		Plain past verbs		michi unit_30 sentence_740
+昨夜はあまり寝なかった。	さくやはあまりねなかった。	Sakuya wa amari nenakatta.	I did not sleep much last night.		Plain past verbs		michi unit_30 sentence_741
+昨日は雨が降らなかった。	きのうはあめがふらなかった。	Kinou wa ame ga furanakatta.	It did not rain yesterday.		Plain past verbs		michi unit_30 sentence_742
+弟は昨日、学校に行かなかった。	おとうとはきのう、がっこうにいかなかった。	Otouto wa kinou, gakkou ni ikanakatta.	My younger brother did not go to school yesterday.		Plain past verbs		michi unit_30 sentence_743
+友達はパーティーに来なかった。	ともだちはパーティーにこなかった。	Tomodachi wa paatii ni konakatta.	My friend did not come to the party.		Plain past verbs	来なかった is read こなかった.	michi unit_30 sentence_744
+昨日は買い物をしなかった。	きのうはかいものをしなかった。	Kinou wa kaimono o shinakatta.	I did not go shopping yesterday.		Plain past verbs	する changes to しなかった.	michi unit_30 sentence_745
+その本は読まなかった。	そのほんはよまなかった。	Sono hon wa yomanakatta.	I did not read that book.		Plain past verbs		michi unit_30 sentence_746
+昨日はテレビを見なかった。	きのうはテレビをみなかった。	Kinou wa terebi o minakatta.	I did not watch television yesterday.		Plain past verbs		michi unit_30 sentence_747
+今朝はコーヒーを飲まなかった。	けさはコーヒーをのまなかった。	Kesa wa koohii o nomanakatta.	I did not drink coffee this morning.		Plain past verbs		michi unit_30 sentence_748
+週末は車を使わなかった。	しゅうまつはくるまをつかわなかった。	Shuumatsu wa kuruma o tsukawanakatta.	I did not use the car over the weekend.		Plain past verbs		michi unit_30 sentence_749
+父は昨日、仕事を休んだ。	ちちはきのう、しごとをやすんだ。	Chichi wa kinou, shigoto o yasunda.	My father took a day off work yesterday.		Plain past verbs		michi unit_30 sentence_750
+今日は寒いですから、上着を着ます。	きょうはさむいですから、うわぎをきます。	Kyou wa samui desu kara, uwagi o kimasu.	It is cold today, so I will put on a jacket.		Reasons with から		michi unit_31 sentence_751
+部屋が暑いですから、窓を開けます。	へやがあついですから、まどをあけます。	Heya ga atsui desu kara, mado o akemasu.	The room is hot, so I will open the window.		Reasons with から		michi unit_31 sentence_752
+雨が降っていますから、傘を持っていきます。	あめがふっていますから、かさをもっていきます。	Ame ga futte imasu kara, kasa o motte ikimasu.	It is raining, so I will take an umbrella.		Reasons with から		michi unit_31 sentence_753
+明日はテストですから、今晩勉強します。	あしたはテストですから、こんばんべんきょうします。	Ashita wa tesuto desu kara, konban benkyou shimasu.	There is a test tomorrow, so I will study tonight.		Reasons with から		michi unit_31 sentence_754
+のどが痛いですから、冷たい水は飲みません。	のどがいたいですから、つめたいみずはのみません。	Nodo ga itai desu kara, tsumetai mizu wa nomimasen.	My throat hurts, so I will not drink cold water.		Reasons with から		michi unit_31 sentence_755
+この時計は高いですから、買いません。	このとけいはたかいですから、かいません。	Kono tokei wa takai desu kara, kaimasen.	This watch is expensive, so I will not buy it.		Reasons with から		michi unit_31 sentence_756
+駅が近いですから、歩いていきます。	えきがちかいですから、あるいていきます。	Eki ga chikai desu kara, aruite ikimasu.	The station is nearby, so I will walk there.		Reasons with から		michi unit_31 sentence_757
+電車が込んでいますから、バスで行きます。	でんしゃがこんでいますから、バスでいきます。	Densha ga konde imasu kara, basu de ikimasu.	The train is crowded, so I will go by bus.		Reasons with から		michi unit_31 sentence_758
+家は静かですから、家で勉強します。	いえはしずかですから、いえでべんきょうします。	Ie wa shizuka desu kara, ie de benkyou shimasu.	My home is quiet, so I will study at home.		Reasons with から		michi unit_31 sentence_759
+図書館は休みですから、公園へ行きます。	としょかんはやすみですから、こうえんへいきます。	Toshokan wa yasumi desu kara, kouen e ikimasu.	The library is closed, so I will go to the park.		Reasons with から		michi unit_31 sentence_760
+時間がありませんから、急ぎましょう。	じかんがありませんから、いそぎましょう。	Jikan ga arimasen kara, isogimashou.	We do not have time, so let's hurry.		Reasons with から		michi unit_31 sentence_761
+おなかがすきましたから、パンを食べます。	おなかがすきましたから、パンをたべます。	Onaka ga sukimashita kara, pan o tabemasu.	I am hungry, so I will eat some bread.		Reasons with から		michi unit_31 sentence_762
+眠いですから、今日は早く寝ます。	ねむいですから、きょうははやくねます。	Nemui desu kara, kyou wa hayaku nemasu.	I am sleepy, so I will go to bed early today.		Reasons with から		michi unit_31 sentence_763
+この靴は小さいですから、別の靴を見せてください。	このくつはちいさいですから、べつのくつをみせてください。	Kono kutsu wa chiisai desu kara, betsu no kutsu o misete kudasai.	These shoes are too small, so please show me a different pair.		Reasons with から		michi unit_31 sentence_764
+子どもは魚が好きですから、今晩は魚を料理します。	こどもはさかながすきですから、こんばんはさかなをりょうりします。	Kodomo wa sakana ga suki desu kara, konban wa sakana o ryouri shimasu.	My child likes fish, so I will cook fish tonight.		Reasons with から		michi unit_31 sentence_765
+兄は忙しいですから、私も手伝います。	あにはいそがしいですから、わたしもてつだいます。	Ani wa isogashii desu kara, watashi mo tetsudaimasu.	My older brother is busy, so I will help too.		Reasons with から		michi unit_31 sentence_766
+部屋が暗いですから、電気をつけてください。	へやがくらいですから、でんきをつけてください。	Heya ga kurai desu kara, denki o tsukete kudasai.	The room is dark, so please turn on the light.		Reasons with から		michi unit_31 sentence_767
+今日は休みですから、仕事はしません。	きょうはやすみですから、しごとはしません。	Kyou wa yasumi desu kara, shigoto wa shimasen.	Today is my day off, so I will not work.		Reasons with から		michi unit_31 sentence_768
+牛乳がありませんから、店で買います。	ぎゅうにゅうがありませんから、みせでかいます。	Gyuunyuu ga arimasen kara, mise de kaimasu.	There is no milk, so I will buy some at the store.		Reasons with から		michi unit_31 sentence_769
+この箱は重いですから、二人で運びましょう。	このはこはおもいですから、ふたりではこびましょう。	Kono hako wa omoi desu kara, futari de hakobimashou.	This box is heavy, so let's carry it together.		Reasons with から		michi unit_31 sentence_770
+バスはまだ来ていませんから、ここに座りましょう。	バスはまだきていませんから、ここにすわりましょう。	Basu wa mada kite imasen kara, koko ni suwarimashou.	The bus has not arrived yet, so let's sit here.		Reasons with から		michi unit_31 sentence_771
+もう遅いですから、友だちに電話しません。	もうおそいですから、ともだちにでんわしません。	Mou osoi desu kara, tomodachi ni denwa shimasen.	It is already late, so I will not call my friend.		Reasons with から		michi unit_31 sentence_772
+天気がいいですから、洗濯をします。	てんきがいいですから、せんたくをします。	Tenki ga ii desu kara, sentaku o shimasu.	The weather is nice, so I will do the laundry.		Reasons with から		michi unit_31 sentence_773
+泳ぐことができませんから、川には入りません。	およぐことができませんから、かわにははいりません。	Oyogu koto ga dekimasen kara, kawa ni wa hairimasen.	I cannot swim, so I will not go into the river.		Reasons with から		michi unit_31 sentence_774
+車がありませんから、自転車で買い物に行きます。	くるまがありませんから、じてんしゃでかいものにいきます。	Kuruma ga arimasen kara, jitensha de kaimono ni ikimasu.	I do not have a car, so I will go shopping by bicycle.		Reasons with から		michi unit_31 sentence_775
+この部屋は狭いですが、きれいです。	このへやはせまいですが、きれいです。	Kono heya wa semai desu ga, kirei desu.	This room is small, but it is clean.		Contrast with が and でも		michi unit_32 sentence_776
+この靴は高いですが、丈夫です。	このくつはたかいですが、じょうぶです。	Kono kutsu wa takai desu ga, joubu desu.	These shoes are expensive, but they are sturdy.		Contrast with が and でも		michi unit_32 sentence_777
+ホテルは古いですが、静かです。	ホテルはふるいですが、しずかです。	Hoteru wa furui desu ga, shizuka desu.	The hotel is old, but it is quiet.		Contrast with が and でも		michi unit_32 sentence_778
+このコーヒーは苦いですが、おいしいです。	このコーヒーはにがいですが、おいしいです。	Kono koohii wa nigai desu ga, oishii desu.	This coffee is bitter, but it tastes good.		Contrast with が and でも		michi unit_32 sentence_779
+姉は日本語を読みますが、漢字はあまり書きません。	あねはにほんごをよみますが、かんじはあまりかきません。	Ane wa nihongo o yomimasu ga, kanji wa amari kakimasen.	My older sister reads Japanese, but she does not write kanji very often.		Contrast with が and でも		michi unit_32 sentence_780
+朝は雨でしたが、午後は晴れました。	あさはあめでしたが、ごごははれました。	Asa wa ame deshita ga, gogo wa haremashita.	It was rainy in the morning, but it cleared up in the afternoon.		Contrast with が and でも		michi unit_32 sentence_781
+音楽は好きですが、歌は上手ではありません。	おんがくはすきですが、うたはじょうずではありません。	Ongaku wa suki desu ga, uta wa jouzu dewa arimasen.	I like music, but I am not good at singing.		Contrast with が and でも		michi unit_32 sentence_782
+駅は近いですが、バスの停留所は遠いです。	えきはちかいですが、バスのていりゅうじょはとおいです。	Eki wa chikai desu ga, basu no teiryuujo wa tooi desu.	The station is nearby, but the bus stop is far away.		Contrast with が and でも		michi unit_32 sentence_783
+このかばんは安いですが、重いです。	このかばんはやすいですが、おもいです。	Kono kaban wa yasui desu ga, omoi desu.	This bag is cheap, but it is heavy.		Contrast with が and でも		michi unit_32 sentence_784
+スーパーは開いていますが、銀行は閉まっています。	スーパーはあいていますが、ぎんこうはしまっています。	Suupaa wa aite imasu ga, ginkou wa shimatte imasu.	The supermarket is open, but the bank is closed.		Contrast with が and でも		michi unit_32 sentence_785
+この店はいつも込んでいます。でも、料理はおいしいです。	このみせはいつもこんでいます。でも、りょうりはおいしいです。	Kono mise wa itsumo konde imasu. Demo, ryouri wa oishii desu.	This restaurant is always crowded. But the food is delicious.		Contrast with が and でも		michi unit_32 sentence_786
+机は大きいですが、部屋は小さいです。	つくえはおおきいですが、へやはちいさいです。	Tsukue wa ookii desu ga, heya wa chiisai desu.	The desk is large, but the room is small.		Contrast with が and でも		michi unit_32 sentence_787
+時間はありますが、お金がありません。	じかんはありますが、おかねがありません。	Jikan wa arimasu ga, okane ga arimasen.	I have time, but I do not have money.		Contrast with が and でも		michi unit_32 sentence_788
+先生は親切ですが、授業は難しいです。	せんせいはしんせつですが、じゅぎょうはむずかしいです。	Sensei wa shinsetsu desu ga, jugyou wa muzukashii desu.	The teacher is kind, but the class is difficult.		Contrast with が and でも		michi unit_32 sentence_789
+今日は暑いですが、風は冷たいです。	きょうはあついですが、かぜはつめたいです。	Kyou wa atsui desu ga, kaze wa tsumetai desu.	It is hot today, but the wind is cold.		Contrast with が and でも		michi unit_32 sentence_790
+電車は速いですが、とても込んでいます。	でんしゃははやいですが、とてもこんでいます。	Densha wa hayai desu ga, totemo konde imasu.	The train is fast, but it is very crowded.		Contrast with が and でも		michi unit_32 sentence_791
+昨日は寒かったです。でも、今日は暖かいです。	きのうはさむかったです。でも、きょうはあたたかいです。	Kinou wa samukatta desu. Demo, kyou wa atatakai desu.	It was cold yesterday. But it is warm today.		Contrast with が and でも		michi unit_32 sentence_792
+ご飯は食べましたが、パンは食べませんでした。	ごはんはたべましたが、パンはたべませんでした。	Gohan wa tabemashita ga, pan wa tabemasen deshita.	I ate rice, but I did not eat bread.		Contrast with が and でも		michi unit_32 sentence_793
+兄はスポーツが好きですが、妹は本が好きです。	あにはスポーツがすきですが、いもうとはほんがすきです。	Ani wa supootsu ga suki desu ga, imouto wa hon ga suki desu.	My older brother likes sports, but my younger sister likes books.		Contrast with が and でも		michi unit_32 sentence_794
+一緒に行きたいですが、今日は忙しいです。	いっしょにいきたいですが、きょうはいそがしいです。	Issho ni ikitai desu ga, kyou wa isogashii desu.	I want to go with you, but I am busy today.		Contrast with が and でも		michi unit_32 sentence_795
+野菜は好きですが、肉はあまり好きではありません。	やさいはすきですが、にくはあまりすきではありません。	Yasai wa suki desu ga, niku wa amari suki dewa arimasen.	I like vegetables, but I do not like meat very much.		Contrast with が and でも		michi unit_32 sentence_796
+昼ご飯を食べましたが、まだおなかがすいています。	ひるごはんをたべましたが、まだおなかがすいています。	Hirugohan o tabemashita ga, mada onaka ga suite imasu.	I ate lunch, but I am still hungry.		Contrast with が and でも		michi unit_32 sentence_797
+窓を閉めましたが、部屋はまだ寒いです。	まどをしめましたが、へやはまださむいです。	Mado o shimemashita ga, heya wa mada samui desu.	I closed the window, but the room is still cold.		Contrast with が and でも		michi unit_32 sentence_798
+日本語は難しいです。でも、毎日少し勉強します。	にほんごはむずかしいです。でも、まいにちすこしべんきょうします。	Nihongo wa muzukashii desu. Demo, mainichi sukoshi benkyou shimasu.	Japanese is difficult. But I study a little every day.		Contrast with が and でも		michi unit_32 sentence_799
+今日は日曜日ですが、父は仕事です。	きょうはにちようびですが、ちちはしごとです。	Kyou wa nichiyoubi desu ga, chichi wa shigoto desu.	Today is Sunday, but my father is working.		Contrast with が and でも		michi unit_32 sentence_800
+電車はバスより速いです。	でんしゃはバスよりはやいです。	Densha wa basu yori hayai desu.	The train is faster than the bus.		Comparison with より and のほうが		michi unit_33 sentence_801
+この道はあの道より短いです。	このみちはあのみちよりみじかいです。	Kono michi wa ano michi yori mijikai desu.	This road is shorter than that road.		Comparison with より and のほうが		michi unit_33 sentence_802
+今日は昨日より暖かいです。	きょうはきのうよりあたたかいです。	Kyou wa kinou yori atatakai desu.	Today is warmer than yesterday.		Comparison with より and のほうが		michi unit_33 sentence_803
+私のかばんは弟のかばんより重いです。	わたしのかばんはおとうとのかばんよりおもいです。	Watashi no kaban wa otouto no kaban yori omoi desu.	My bag is heavier than my younger brother's bag.		Comparison with より and のほうが		michi unit_33 sentence_804
+母は父より早く起きます。	はははちちよりはやくおきます。	Haha wa chichi yori hayaku okimasu.	My mother gets up earlier than my father.		Comparison with より and のほうが		michi unit_33 sentence_805
+このリンゴはあのリンゴより甘いです。	このリンゴはあのリンゴよりあまいです。	Kono ringo wa ano ringo yori amai desu.	This apple is sweeter than that apple.		Comparison with より and のほうが		michi unit_33 sentence_806
+図書館は教室より静かです。	としょかんはきょうしつよりしずかです。	Toshokan wa kyoushitsu yori shizuka desu.	The library is quieter than the classroom.		Comparison with より and のほうが		michi unit_33 sentence_807
+冬は秋より寒いです。	ふゆはあきよりさむいです。	Fuyu wa aki yori samui desu.	Winter is colder than autumn.		Comparison with より and のほうが		michi unit_33 sentence_808
+このホテルはあのホテルより安いです。	このホテルはあのホテルよりやすいです。	Kono hoteru wa ano hoteru yori yasui desu.	This hotel is cheaper than that hotel.		Comparison with より and のほうが		michi unit_33 sentence_809
+兄は私より背が高いです。	あにはわたしよりせがたかいです。	Ani wa watashi yori se ga takai desu.	My older brother is taller than I am.		Comparison with より and のほうが		michi unit_33 sentence_810
+今日は昨日より忙しいです。	きょうはきのうよりいそがしいです。	Kyou wa kinou yori isogashii desu.	I am busier today than yesterday.		Comparison with より and のほうが		michi unit_33 sentence_811
+この本はあの本より簡単です。	このほんはあのほんよりかんたんです。	Kono hon wa ano hon yori kantan desu.	This book is easier than that book.		Comparison with より and のほうが		michi unit_33 sentence_812
+パンよりご飯のほうが好きです。	パンよりごはんのほうがすきです。	Pan yori gohan no hou ga suki desu.	I like rice more than bread.		Comparison with より and のほうが		michi unit_33 sentence_813
+コーヒーよりお茶のほうがいいです。	コーヒーよりおちゃのほうがいいです。	Koohii yori ocha no hou ga ii desu.	I would prefer tea to coffee.		Comparison with より and のほうが		michi unit_33 sentence_814
+この椅子よりあの椅子のほうが大きいです。	このいすよりあのいすのほうがおおきいです。	Kono isu yori ano isu no hou ga ookii desu.	That chair is larger than this chair.		Comparison with より and のほうが		michi unit_33 sentence_815
+夜より朝のほうが涼しいです。	よるよりあさのほうがすずしいです。	Yoru yori asa no hou ga suzushii desu.	The morning is cooler than the evening.		Comparison with より and のほうが		michi unit_33 sentence_816
+車より自転車のほうが便利です。	くるまよりじてんしゃのほうがべんりです。	Kuruma yori jitensha no hou ga benri desu.	A bicycle is more convenient than a car.		Comparison with より and のほうが		michi unit_33 sentence_817
+肉より魚のほうが好きです。	にくよりさかなのほうがすきです。	Niku yori sakana no hou ga suki desu.	I like fish more than meat.		Comparison with より and のほうが		michi unit_33 sentence_818
+赤いシャツより青いシャツのほうが安いです。	あかいシャツよりあおいシャツのほうがやすいです。	Akai shatsu yori aoi shatsu no hou ga yasui desu.	The blue shirt is cheaper than the red shirt.		Comparison with より and のほうが		michi unit_33 sentence_819
+土曜日より日曜日のほうが暇です。	どようびよりにちようびのほうがひまです。	Doyoubi yori nichiyoubi no hou ga hima desu.	I have more free time on Sunday than on Saturday.		Comparison with より and のほうが		michi unit_33 sentence_820
+猫と犬と、どちらが好きですか。	ねこといぬと、どちらがすきですか。	Neko to inu to, dochira ga suki desu ka.	Which do you like better, cats or dogs?		Comparison with より and のほうが		michi unit_33 sentence_821
+バスと電車と、どちらが安いですか。	バスとでんしゃと、どちらがやすいですか。	Basu to densha to, dochira ga yasui desu ka.	Which is cheaper, the bus or the train?		Comparison with より and のほうが		michi unit_33 sentence_822
+日本の夏は春より暑いです。	にほんのなつははるよりあついです。	Nihon no natsu wa haru yori atsui desu.	Summer in Japan is hotter than spring.		Comparison with より and のほうが		michi unit_33 sentence_823
+この店のパンはスーパーのパンよりおいしいです。	このみせのパンはスーパーのパンよりおいしいです。	Kono mise no pan wa suupaa no pan yori oishii desu.	The bread from this shop tastes better than the bread from the supermarket.		Comparison with より and のほうが		michi unit_33 sentence_824
+駅の前より公園の近くのほうが静かです。	えきのまえよりこうえんのちかくのほうがしずかです。	Eki no mae yori kouen no chikaku no hou ga shizuka desu.	It is quieter near the park than in front of the station.		Comparison with より and のほうが		michi unit_33 sentence_825
+家族の中で、兄がいちばん背が高いです。	かぞくのなかで、あにがいちばんせがたかいです。	Kazoku no naka de, ani ga ichiban se ga takai desu.	My older brother is the tallest person in my family.		Superlatives with いちばん		michi unit_34 sentence_826
+一年で八月がいちばん暑いです。	いちねんではちがつがいちばんあついです。	Ichinen de hachigatsu ga ichiban atsui desu.	August is the hottest month of the year.		Superlatives with いちばん		michi unit_34 sentence_827
+果物の中で、イチゴがいちばん好きです。	くだもののなかで、イチゴがいちばんすきです。	Kudamono no naka de, ichigo ga ichiban suki desu.	Strawberries are my favorite fruit.		Superlatives with いちばん		michi unit_34 sentence_828
+このクラスで、誰がいちばん若いですか。	このクラスで、だれがいちばんわかいですか。	Kono kurasu de, dare ga ichiban wakai desu ka.	Who is the youngest person in this class?		Superlatives with いちばん		michi unit_34 sentence_829
+この三つのかばんの中で、どれがいちばん軽いですか。	このみっつのかばんのなかで、どれがいちばんかるいですか。	Kono mittsu no kaban no naka de, dore ga ichiban karui desu ka.	Which of these three bags is the lightest?		Superlatives with いちばん		michi unit_34 sentence_830
+スポーツの中で、何がいちばん好きですか。	スポーツのなかで、なにがいちばんすきですか。	Supootsu no naka de, nani ga ichiban suki desu ka.	Which sport do you like best?		Superlatives with いちばん		michi unit_34 sentence_831
+私の町では、この道がいちばん広いです。	わたしのまちでは、このみちがいちばんひろいです。	Watashi no machi dewa, kono michi ga ichiban hiroi desu.	This is the widest road in my town.		Superlatives with いちばん		michi unit_34 sentence_832
+駅の近くでは、この店がいちばん安いです。	えきのちかくでは、このみせがいちばんやすいです。	Eki no chikaku dewa, kono mise ga ichiban yasui desu.	This is the cheapest shop near the station.		Superlatives with いちばん		michi unit_34 sentence_833
+この公園は朝がいちばん静かです。	このこうえんはあさがいちばんしずかです。	Kono kouen wa asa ga ichiban shizuka desu.	This park is quietest in the morning.		Superlatives with いちばん		michi unit_34 sentence_834
+一週間で金曜日がいちばん忙しいです。	いっしゅうかんできんようびがいちばんいそがしいです。	Isshuukan de kinyoubi ga ichiban isogashii desu.	Friday is my busiest day of the week.		Superlatives with いちばん		michi unit_34 sentence_835
+姉の料理がいちばんおいしいです。	あねのりょうりがいちばんおいしいです。	Ane no ryouri ga ichiban oishii desu.	My older sister's cooking tastes the best.		Superlatives with いちばん		michi unit_34 sentence_836
+今までの旅行で、京都がいちばん楽しかったです。	いままでのりょこうで、きょうとがいちばんたのしかったです。	Ima made no ryokou de, Kyouto ga ichiban tanoshikatta desu.	Of my trips so far, Kyoto was the most fun.		Superlatives with いちばん		michi unit_34 sentence_837
+この本の中で、この話がいちばん短いです。	このほんのなかで、このはなしがいちばんみじかいです。	Kono hon no naka de, kono hanashi ga ichiban mijikai desu.	This is the shortest story in this book.		Superlatives with いちばん		michi unit_34 sentence_838
+この写真がいちばんきれいです。	このしゃしんがいちばんきれいです。	Kono shashin ga ichiban kirei desu.	This photo is the most beautiful.		Superlatives with いちばん		michi unit_34 sentence_839
+飲み物の中で、水がいちばんいいです。	のみもののなかで、みずがいちばんいいです。	Nomimono no naka de, mizu ga ichiban ii desu.	Of the drinks, water is the best choice.		Superlatives with いちばん		michi unit_34 sentence_840
+弟がいちばん早く家を出ました。	おとうとがいちばんはやくいえをでました。	Otouto ga ichiban hayaku ie o demashita.	My younger brother left home earliest.		Superlatives with いちばん		michi unit_34 sentence_841
+母がいちばん遅く帰りました。	ははがいちばんおそくかえりました。	Haha ga ichiban osoku kaerimashita.	My mother came home latest.		Superlatives with いちばん		michi unit_34 sentence_842
+どの季節がいちばん好きですか。	どのきせつがいちばんすきですか。	Dono kisetsu ga ichiban suki desu ka.	Which season do you like best?		Superlatives with いちばん		michi unit_34 sentence_843
+日本でいちばん高い山は富士山です。	にほんでいちばんたかいやまはふじさんです。	Nihon de ichiban takai yama wa Fujisan desu.	Mount Fuji is the tallest mountain in Japan.		Superlatives with いちばん		michi unit_34 sentence_844
+この部屋が家の中でいちばん明るいです。	このへやがいえのなかでいちばんあかるいです。	Kono heya ga ie no naka de ichiban akarui desu.	This is the brightest room in the house.		Superlatives with いちばん		michi unit_34 sentence_845
+旅行の写真の中で、どれがいちばん好きですか。	りょこうのしゃしんのなかで、どれがいちばんすきですか。	Ryokou no shashin no naka de, dore ga ichiban suki desu ka.	Which of the travel photos do you like best?		Superlatives with いちばん		michi unit_34 sentence_846
+この赤い花がいちばん大きいです。	このあかいはながいちばんおおきいです。	Kono akai hana ga ichiban ookii desu.	This red flower is the largest.		Superlatives with いちばん		michi unit_34 sentence_847
+学校では、昼休みがいちばん楽しいです。	がっこうでは、ひるやすみがいちばんたのしいです。	Gakkou dewa, hiruyasumi ga ichiban tanoshii desu.	At school, the lunch break is the most fun.		Superlatives with いちばん		michi unit_34 sentence_848
+この問題がテストでいちばん難しかったです。	このもんだいがテストでいちばんむずかしかったです。	Kono mondai ga tesuto de ichiban muzukashikatta desu.	This was the hardest question on the test.		Superlatives with いちばん		michi unit_34 sentence_849
+日曜日は家にいるのがいちばん好きです。	にちようびはいえにいるのがいちばんすきです。	Nichiyoubi wa ie ni iru no ga ichiban suki desu.	On Sundays, I like staying home best.		Superlatives with いちばん		michi unit_34 sentence_850
+毎朝、六時に起きます。	まいあさ、ろくじにおきます。	Maiasa, rokuji ni okimasu.	I get up at six every morning.		Frequency, quantities, and だけ		michi unit_35 sentence_851
+一週間に三回、走ります。	いっしゅうかんにさんかい、はしります。	Isshuukan ni sankai, hashirimasu.	I run three times a week.		Frequency, quantities, and だけ		michi unit_35 sentence_852
+月に一回、祖母に会います。	つきにいっかい、そぼにあいます。	Tsuki ni ikkai, sobo ni aimasu.	I see my grandmother once a month.		Frequency, quantities, and だけ		michi unit_35 sentence_853
+年に二回、国へ帰ります。	ねんににかい、くにへかえります。	Nen ni nikai, kuni e kaerimasu.	I return to my home country twice a year.		Frequency, quantities, and だけ		michi unit_35 sentence_854
+日曜日はよく公園を散歩します。	にちようびはよくこうえんをさんぽします。	Nichiyoubi wa yoku kouen o sanpo shimasu.	I often take a walk in the park on Sundays.		Frequency, quantities, and だけ		michi unit_35 sentence_855
+時々、友だちと映画を見ます。	ときどき、ともだちとえいがをみます。	Tokidoki, tomodachi to eiga o mimasu.	I sometimes watch a movie with my friends.		Frequency, quantities, and だけ		michi unit_35 sentence_856
+兄はいつも電車で会社へ行きます。	あにはいつもでんしゃでかいしゃへいきます。	Ani wa itsumo densha de kaisha e ikimasu.	My older brother always takes the train to work.		Frequency, quantities, and だけ		michi unit_35 sentence_857
+夜はあまりテレビを見ません。	よるはあまりテレビをみません。	Yoru wa amari terebi o mimasen.	I do not watch much television at night.		Frequency, quantities, and だけ		michi unit_35 sentence_858
+父はお酒を全然飲みません。	ちちはおさけをぜんぜんのみません。	Chichi wa osake o zenzen nomimasen.	My father does not drink alcohol at all.		Frequency, quantities, and だけ		michi unit_35 sentence_859
+今日は水だけ飲みました。	きょうはみずだけのみました。	Kyou wa mizu dake nomimashita.	I have only drunk water today.		Frequency, quantities, and だけ		michi unit_35 sentence_860
+この店は日曜日だけ休みです。	このみせはにちようびだけやすみです。	Kono mise wa nichiyoubi dake yasumi desu.	This shop is closed only on Sundays.		Frequency, quantities, and だけ		michi unit_35 sentence_861
+財布には千円だけあります。	さいふにはせんえんだけあります。	Saifu ni wa sen'en dake arimasu.	I have only one thousand yen in my wallet.		Frequency, quantities, and だけ		michi unit_35 sentence_862
+教室には学生が五人います。	きょうしつにはがくせいがごにんいます。	Kyoushitsu ni wa gakusei ga gonin imasu.	There are five students in the classroom.		Frequency, quantities, and だけ		michi unit_35 sentence_863
+リンゴを四つ買いました。	リンゴをよっつかいました。	Ringo o yottsu kaimashita.	I bought four apples.		Frequency, quantities, and だけ		michi unit_35 sentence_864
+手紙を三通書きました。	てがみをさんつうかきました。	Tegami o santsuu kakimashita.	I wrote three letters.		Frequency, quantities, and だけ		michi unit_35 sentence_865
+卵を六個使います。	たまごをろっこつかいます。	Tamago o rokko tsukaimasu.	I will use six eggs.		Frequency, quantities, and だけ		michi unit_35 sentence_866
+水を二杯飲みました。	みずをにはいのみました。	Mizu o nihai nomimashita.	I drank two glasses of water.		Frequency, quantities, and だけ		michi unit_35 sentence_867
+駅まで十分ぐらい歩きます。	えきまでじゅっぷんぐらいあるきます。	Eki made juppun gurai arukimasu.	I walk for about ten minutes to the station.		Frequency, quantities, and だけ		michi unit_35 sentence_868
+日本語を一日に三十分勉強します。	にほんごをいちにちにさんじゅっぷんべんきょうします。	Nihongo o ichinichi ni sanjuppun benkyou shimasu.	I study Japanese for thirty minutes a day.		Frequency, quantities, and だけ		michi unit_35 sentence_869
+この箱には本が十冊あります。	このはこにはほんがじゅっさつあります。	Kono hako ni wa hon ga jussatsu arimasu.	There are ten books in this box.		Frequency, quantities, and だけ		michi unit_35 sentence_870
+机の上にペンが三本あります。	つくえのうえにペンがさんぼんあります。	Tsukue no ue ni pen ga sanbon arimasu.	There are three pens on the desk.		Frequency, quantities, and だけ		michi unit_35 sentence_871
+昨日は七時間寝ました。	きのうはしちじかんねました。	Kinou wa shichijikan nemashita.	I slept for seven hours yesterday.		Frequency, quantities, and だけ		michi unit_35 sentence_872
+一人で全部食べました。	ひとりでぜんぶたべました。	Hitori de zenbu tabemashita.	I ate it all by myself.		Frequency, quantities, and だけ		michi unit_35 sentence_873
+砂糖を少し入れてください。	さとうをすこしいれてください。	Satou o sukoshi irete kudasai.	Please add a little sugar.		Frequency, quantities, and だけ		michi unit_35 sentence_874
+週末はたくさん寝たいです。	しゅうまつはたくさんねたいです。	Shuumatsu wa takusan netai desu.	I want to sleep a lot on the weekend.		Frequency, quantities, and だけ		michi unit_35 sentence_875
+昨日買った本は面白いです。	きのうかったほんはおもしろいです。	Kinou katta hon wa omoshiroi desu.	The book I bought yesterday is interesting.		Simple clauses modifying nouns		michi unit_36 sentence_876
+母が作ったスープを飲みました。	ははがつくったスープをのみました。	Haha ga tsukutta suupu o nomimashita.	I had the soup my mother made.		Simple clauses modifying nouns		michi unit_36 sentence_877
+駅へ行くバスはどれですか。	えきへいくバスはどれですか。	Eki e iku basu wa dore desu ka.	Which bus goes to the station?		Simple clauses modifying nouns		michi unit_36 sentence_878
+あそこに立っている人は私の先生です。	あそこにたっているひとはわたしのせんせいです。	Asoko ni tatte iru hito wa watashi no sensei desu.	The person standing over there is my teacher.		Simple clauses modifying nouns		michi unit_36 sentence_879
+私が住んでいる町は小さいです。	わたしがすんでいるまちはちいさいです。	Watashi ga sunde iru machi wa chiisai desu.	The town I live in is small.		Simple clauses modifying nouns		michi unit_36 sentence_880
+机に置いた手紙はどこですか。	つくえにおいたてがみはどこですか。	Tsukue ni oita tegami wa doko desu ka.	Where is the letter I put on the desk?		Simple clauses modifying nouns		michi unit_36 sentence_881
+毎朝飲むお茶はこのお茶です。	まいあさのむおちゃはこのおちゃです。	Maiasa nomu ocha wa kono ocha desu.	This is the tea I drink every morning.		Simple clauses modifying nouns		michi unit_36 sentence_882
+兄が使うパソコンは新しいです。	あにがつかうパソコンはあたらしいです。	Ani ga tsukau pasokon wa atarashii desu.	The computer my older brother uses is new.		Simple clauses modifying nouns		michi unit_36 sentence_883
+窓のそばにいる猫は白いです。	まどのそばにいるねこはしろいです。	Mado no soba ni iru neko wa shiroi desu.	The cat by the window is white.		Simple clauses modifying nouns		michi unit_36 sentence_884
+昨日撮った写真を見てください。	きのうとったしゃしんをみてください。	Kinou totta shashin o mite kudasai.	Please look at the photos I took yesterday.		Simple clauses modifying nouns		michi unit_36 sentence_885
+友だちに借りた辞書を返します。	ともだちにかりたじしょをかえします。	Tomodachi ni karita jisho o kaeshimasu.	I will return the dictionary I borrowed from my friend.		Simple clauses modifying nouns		michi unit_36 sentence_886
+父が読む新聞はテーブルの上にあります。	ちちがよむしんぶんはテーブルのうえにあります。	Chichi ga yomu shinbun wa teeburu no ue ni arimasu.	The newspaper my father reads is on the table.		Simple clauses modifying nouns		michi unit_36 sentence_887
+ここで働く人は何人いますか。	ここではたらくひとはなんにんいますか。	Koko de hataraku hito wa nannin imasu ka.	How many people work here?		Simple clauses modifying nouns		michi unit_36 sentence_888
+今食べているパンは少し甘いです。	いまたべているパンはすこしあまいです。	Ima tabete iru pan wa sukoshi amai desu.	The bread I am eating now is a little sweet.		Simple clauses modifying nouns		michi unit_36 sentence_889
+明日会う先生は英語を教えています。	あしたあうせんせいはえいごをおしえています。	Ashita au sensei wa eigo o oshiete imasu.	The teacher I will meet tomorrow teaches English.		Simple clauses modifying nouns		michi unit_36 sentence_890
+旅行で使うかばんを買いました。	りょこうでつかうかばんをかいました。	Ryokou de tsukau kaban o kaimashita.	I bought a bag to use on my trip.		Simple clauses modifying nouns		michi unit_36 sentence_891
+この店で売っている魚は安いです。	このみせでうっているさかなはやすいです。	Kono mise de utte iru sakana wa yasui desu.	The fish sold at this shop is inexpensive.		Simple clauses modifying nouns		michi unit_36 sentence_892
+学校で習った言葉をノートに書きます。	がっこうでならったことばをノートにかきます。	Gakkou de naratta kotoba o nooto ni kakimasu.	I write the words I learned at school in my notebook.		Simple clauses modifying nouns		michi unit_36 sentence_893
+私が好きな色は青です。	わたしがすきないろはあおです。	Watashi ga suki na iro wa ao desu.	The color I like is blue.		Simple clauses modifying nouns		michi unit_36 sentence_894
+卵を使わない料理を教えてください。	たまごをつかわないりょうりをおしえてください。	Tamago o tsukawanai ryouri o oshiete kudasai.	Please teach me how to make a dish that does not use eggs.		Simple clauses modifying nouns		michi unit_36 sentence_895
+川で泳いでいる子は弟です。	かわでおよいでいるこはおとうとです。	Kawa de oyoide iru ko wa otouto desu.	The child swimming in the river is my younger brother.		Simple clauses modifying nouns		michi unit_36 sentence_896
+先週見た映画は長かったです。	せんしゅうみたえいがはながかったです。	Senshuu mita eiga wa nagakatta desu.	The movie I watched last week was long.		Simple clauses modifying nouns		michi unit_36 sentence_897
+兄が書いた手紙は長いです。	あにがかいたてがみはながいです。	Ani ga kaita tegami wa nagai desu.	The letter my older brother wrote is long.		Simple clauses modifying nouns		michi unit_36 sentence_898
+今聞いている歌は日本の歌です。	いまきいているうたはにほんのうたです。	Ima kiite iru uta wa Nihon no uta desu.	The song I am listening to now is a Japanese song.		Simple clauses modifying nouns		michi unit_36 sentence_899
+妹が欲しい本はこの本です。	いもうとがほしいほんはこのほんです。	Imouto ga hoshii hon wa kono hon desu.	This is the book my younger sister wants.		Simple clauses modifying nouns		michi unit_36 sentence_900
+プールへ泳ぎに行きます。	プールへおよぎにいきます。	Puuru e oyogi ni ikimasu.	I will go to the pool to swim.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_901
+図書館へ本を借りに行きました。	としょかんへほんをかりにいきました。	Toshokan e hon o kari ni ikimashita.	I went to the library to borrow a book.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_902
+喫茶店へコーヒーを飲みに行きませんか。	きっさてんへコーヒーをのみにいきませんか。	Kissaten e koohii o nomi ni ikimasen ka.	Would you like to go to a cafe for coffee?		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_903
+駅へ母を迎えに行きます。	えきへははをむかえにいきます。	Eki e haha o mukae ni ikimasu.	I will go to the station to meet my mother.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_904
+日本へ日本語を勉強しに来ました。	にほんへにほんごをべんきょうしにきました。	Nihon e nihongo o benkyou shi ni kimashita.	I came to Japan to study Japanese.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_905
+店へ靴を買いに行きたいです。	みせへくつをかいにいきたいです。	Mise e kutsu o kai ni ikitai desu.	I want to go to the store to buy shoes.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_906
+レストランへ昼ご飯を食べに行きましょう。	レストランへひるごはんをたべにいきましょう。	Resutoran e hirugohan o tabe ni ikimashou.	Let's go to a restaurant for lunch.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_907
+公園へサッカーをしに行きます。	こうえんへサッカーをしにいきます。	Kouen e sakkaa o shi ni ikimasu.	I will go to the park to play soccer.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_908
+友だちが宿題をしに家へ来ました。	ともだちがしゅくだいをしにいえへきました。	Tomodachi ga shukudai o shi ni ie e kimashita.	My friend came to my house to do homework.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_909
+郵便局へ手紙を出しに行きます。	ゆうびんきょくへてがみをだしにいきます。	Yuubinkyoku e tegami o dashi ni ikimasu.	I will go to the post office to mail a letter.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_910
+山へ写真を撮りに行きました。	やまへしゃしんをとりにいきました。	Yama e shashin o tori ni ikimashita.	I went to the mountains to take photos.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_911
+学校へ先生に会いに行きます。	がっこうへせんせいにあいにいきます。	Gakkou e sensei ni ai ni ikimasu.	I will go to the school to meet my teacher.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_912
+子どもたちは遊びに来ました。	こどもたちはあそびにきました。	Kodomotachi wa asobi ni kimashita.	The children came over to play.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_913
+本屋へ新しい本を探しに行きます。	ほんやへあたらしいほんをさがしにいきます。	Hon'ya e atarashii hon o sagashi ni ikimasu.	I will go to the bookstore to look for a new book.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_914
+母は病院へ薬をもらいに行きました。	はははびょういんへくすりをもらいにいきました。	Haha wa byouin e kusuri o morai ni ikimashita.	My mother went to the hospital to get medicine.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_915
+空港へ兄を迎えに行きました。	くうこうへあにをむかえにいきました。	Kuukou e ani o mukae ni ikimashita.	I went to the airport to meet my older brother.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_916
+週末は海へ泳ぎに行きたいです。	しゅうまつはうみへおよぎにいきたいです。	Shuumatsu wa umi e oyogi ni ikitai desu.	I want to go to the sea to swim on the weekend.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_917
+明日、私の家へ晩ご飯を食べに来ませんか。	あした、わたしのいえへばんごはんをたべにきませんか。	Ashita, watashi no ie e bangohan o tabe ni kimasen ka.	Would you like to come to my house for dinner tomorrow?		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_918
+姉は祖母の家へ掃除をしに行きます。	あねはそぼのいえへそうじをしにいきます。	Ane wa sobo no ie e souji o shi ni ikimasu.	My older sister goes to my grandmother's house to clean.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_919
+デパートへ服を見に行きました。	デパートへふくをみにいきました。	Depaato e fuku o mi ni ikimashita.	I went to the department store to look at clothes.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_920
+弟は公園へ犬と散歩しに行きました。	おとうとはこうえんへいぬとさんぽしにいきました。	Otouto wa kouen e inu to sanpo shi ni ikimashita.	My younger brother went to the park to walk the dog.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_921
+友だちは日本の料理を習いに来ました。	ともだちはにほんのりょうりをならいにきました。	Tomodachi wa Nihon no ryouri o narai ni kimashita.	My friend came to learn Japanese cooking.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_922
+テニスをしに友だちの学校へ行きます。	テニスをしにともだちのがっこうへいきます。	Tenisu o shi ni tomodachi no gakkou e ikimasu.	I will go to my friend's school to play tennis.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_923
+父は店へ新聞を買いに行きました。	ちちはみせへしんぶんをかいにいきました。	Chichi wa mise e shinbun o kai ni ikimashita.	My father went to the shop to buy a newspaper.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_924
+次の日曜日、花を見に公園へ行きましょう。	つぎのにちようび、はなをみにこうえんへいきましょう。	Tsugi no nichiyoubi, hana o mi ni kouen e ikimashou.	Let's go to the park to see the flowers next Sunday.		Purpose with verb stem + に行く / に来る		michi unit_37 sentence_925
+明日は七時に起きないといけません。	あしたはしちじにおきないといけません。	Ashita wa shichiji ni okinai to ikemasen.	I have to get up at seven tomorrow.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_926
+今日中に宿題をしなくてはいけません。	きょうじゅうにしゅくだいをしなくてはいけません。	Kyoujuu ni shukudai o shinakute wa ikemasen.	I have to do my homework by the end of today.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_927
+学校では制服を着ないといけません。	がっこうではせいふくをきないといけません。	Gakkou dewa seifuku o kinai to ikemasen.	I have to wear a uniform at school.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_928
+出かける前にドアを閉めなくてはいけません。	でかけるまえにドアをしめなくてはいけません。	Dekakeru mae ni doa o shimenakute wa ikemasen.	I have to close the door before going out.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_929
+テストに名前を書かないといけません。	テストになまえをかかないといけません。	Tesuto ni namae o kakanai to ikemasen.	I have to write my name on the test.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_930
+ここでは靴を脱がなくてはいけません。	ここではくつをぬがなくてはいけません。	Koko dewa kutsu o nuganakute wa ikemasen.	You have to take off your shoes here.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_931
+授業の前にこの本を読まないといけません。	じゅぎょうのまえにこのほんをよまないといけません。	Jugyou no mae ni kono hon o yomanai to ikemasen.	I have to read this book before class.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_932
+図書館の本を明日返さなくてはいけません。	としょかんのほんをあしたかえさなくてはいけません。	Toshokan no hon o ashita kaesanakute wa ikemasen.	I have to return the library book tomorrow.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_933
+駅で切符を買わないといけません。	えきできっぷをかわないといけません。	Eki de kippu o kawanai to ikemasen.	I have to buy a ticket at the station.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_934
+明日は会社へ行かなくてはいけません。	あしたはかいしゃへいかなくてはいけません。	Ashita wa kaisha e ikanakute wa ikemasen.	I have to go to work tomorrow.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_935
+今日は九時に寝ないといけません。	きょうはくじにねないといけません。	Kyou wa kuji ni nenai to ikemasen.	I have to go to bed at nine today.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_936
+お風呂の前にタオルを用意しなくてはいけません。	おふろのまえにタオルをよういしなくてはいけません。	Ofuro no mae ni taoru o youi shinakute wa ikemasen.	I have to prepare a towel before my bath.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_937
+食べる前に手を洗わないといけません。	たべるまえにてをあらわないといけません。	Taberu mae ni te o arawanai to ikemasen.	You have to wash your hands before eating.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_938
+旅行にはパスポートを持っていかなくてはいけません。	りょこうにはパスポートをもっていかなくてはいけません。	Ryokou ni wa pasupooto o motte ikanakute wa ikemasen.	I have to take my passport on the trip.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_939
+今日、この仕事をしないといけません。	きょう、このしごとをしないといけません。	Kyou, kono shigoto o shinai to ikemasen.	I have to do this work today.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_940
+四時までに家に帰らなくてはいけません。	よじまでにいえにかえらなくてはいけません。	Yoji made ni ie ni kaeranakute wa ikemasen.	I have to be home by four.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_941
+先生に電話しないといけません。	せんせいにでんわしないといけません。	Sensei ni denwa shinai to ikemasen.	I have to call my teacher.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_942
+明日の朝、母を病院へ連れていかなくてはいけません。	あしたのあさ、ははをびょういんへつれていかなくてはいけません。	Ashita no asa, haha o byouin e tsurete ikanakute wa ikemasen.	I have to take my mother to the hospital tomorrow morning.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_943
+週末は部屋を掃除しないといけません。	しゅうまつはへやをそうじしないといけません。	Shuumatsu wa heya o souji shinai to ikemasen.	I have to clean my room this weekend.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_944
+次の停留所でバスを降りなくてはいけません。	つぎのていりゅうじょでバスをおりなくてはいけません。	Tsugi no teiryuujo de basu o orinakute wa ikemasen.	I have to get off the bus at the next stop.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_945
+友だちに借りたお金を返さないといけません。	ともだちにかりたおかねをかえさないといけません。	Tomodachi ni karita okane o kaesanai to ikemasen.	I have to repay the money I borrowed from my friend.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_946
+寝る前に台所の電気を消さなくてはいけません。	ねるまえにだいどころのでんきをけさなくてはいけません。	Neru mae ni daidokoro no denki o kesanakute wa ikemasen.	I have to turn off the kitchen light before bed.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_947
+帰りに牛乳を買わないといけません。	かえりにぎゅうにゅうをかわないといけません。	Kaeri ni gyuunyuu o kawanai to ikemasen.	I have to buy milk on my way home.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_948
+雨が降る前に窓を全部閉めなくてはいけません。	あめがふるまえにまどをぜんぶしめなくてはいけません。	Ame ga furu mae ni mado o zenbu shimenakute wa ikemasen.	I have to close all the windows before it rains.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_949
+この漢字を十回書かないといけません。	このかんじをじゅっかいかかないといけません。	Kono kanji o jukkai kakanai to ikemasen.	I have to write this kanji ten times.		Obligation: ないといけません / なくてはいけません	Stretch beginner: verb nai-form + to ikemasen means 'have to'. Replacing nai with nakute makes nakute wa ikemasen.	michi unit_38 sentence_950
+明日は学校へ行かなくてもいいです。	あしたはがっこうへいかなくてもいいです。	Ashita wa gakkou e ikanakute mo ii desu.	I do not have to go to school tomorrow.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_951
+この紙に名前を書かなくてもいいです。	このかみになまえをかかなくてもいいです。	Kono kami ni namae o kakanakute mo ii desu.	You do not have to write your name on this paper.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_952
+全部食べなくてもいいです。	ぜんぶたべなくてもいいです。	Zenbu tabenakute mo ii desu.	You do not have to eat all of it.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_953
+今日は料理をしなくてもいいです。	きょうはりょうりをしなくてもいいです。	Kyou wa ryouri o shinakute mo ii desu.	You do not have to cook today.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_954
+今すぐ返事をしなくてもいいです。	いますぐへんじをしなくてもいいです。	Ima sugu henji o shinakute mo ii desu.	You do not have to reply right away.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_955
+ここでは切符を見せなくてもいいです。	ここではきっぷをみせなくてもいいです。	Koko dewa kippu o misenakute mo ii desu.	You do not have to show your ticket here.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_956
+今日は傘を持っていかなくてもいいです。	きょうはかさをもっていかなくてもいいです。	Kyou wa kasa o motte ikanakute mo ii desu.	You do not need to take an umbrella today.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_957
+明日は早く起きなくてもいいです。	あしたははやくおきなくてもいいです。	Ashita wa hayaku okinakute mo ii desu.	I do not have to get up early tomorrow.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_958
+上着を脱がなくてもいいです。	うわぎをぬがなくてもいいです。	Uwagi o nuganakute mo ii desu.	You do not have to take off your jacket.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_959
+宿題を今日全部しなくてもいいです。	しゅくだいをきょうぜんぶしなくてもいいです。	Shukudai o kyou zenbu shinakute mo ii desu.	You do not have to do all the homework today.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_960
+この言葉を覚えなくてもいいです。	このことばをおぼえなくてもいいです。	Kono kotoba o oboenakute mo ii desu.	You do not have to memorize this word.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_961
+土曜日は会社へ行かなくてもいいです。	どようびはかいしゃへいかなくてもいいです。	Doyoubi wa kaisha e ikanakute mo ii desu.	I do not have to go to work on Saturdays.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_962
+お金は今払わなくてもいいです。	おかねはいまはらわなくてもいいです。	Okane wa ima harawanakute mo ii desu.	You do not have to pay now.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_963
+冷たい水を入れないでください。	つめたいみずをいれないでください。	Tsumetai mizu o irenai de kudasai.	Please do not add cold water.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_964
+ここで写真を撮らないでください。	ここでしゃしんをとらないでください。	Koko de shashin o toranai de kudasai.	Please do not take photos here.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_965
+このボタンを押さないでください。	このボタンをおさないでください。	Kono botan o osanai de kudasai.	Please do not press this button.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_966
+その窓を開けないでください。	そのまどをあけないでください。	Sono mado o akenai de kudasai.	Please do not open that window.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_967
+教室で食べないでください。	きょうしつでたべないでください。	Kyoushitsu de tabenai de kudasai.	Please do not eat in the classroom.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_968
+家の中でボールを投げないでください。	いえのなかでボールをなげないでください。	Ie no naka de booru o nagenai de kudasai.	Please do not throw a ball inside the house.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_969
+今は話さないでください。	いまははなさないでください。	Ima wa hanasanai de kudasai.	Please do not talk right now.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_970
+その箱に触らないでください。	そのはこにさわらないでください。	Sono hako ni sawaranai de kudasai.	Please do not touch that box.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_971
+私を待たないでください。	わたしをまたないでください。	Watashi o matanai de kudasai.	Please do not wait for me.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_972
+ここに自転車を止めないでください。	ここにじてんしゃをとめないでください。	Koko ni jitensha o tomenai de kudasai.	Please do not park your bicycle here.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_973
+この水を飲まないでください。	このみずをのまないでください。	Kono mizu o nomanai de kudasai.	Please do not drink this water.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_974
+私の名前を忘れないでください。	わたしのなまえをわすれないでください。	Watashi no namae o wasurenai de kudasai.	Please do not forget my name.		No obligation and negative requests	なくてもいい means 'do not have to'; ないでください means 'please do not'.	michi unit_39 sentence_975
+明日の朝、駅で九時に会いましょう。	あしたのあさ、えきでくじにあいましょう。	Ashita no asa, eki de kuji ni aimashou.	Let's meet at the station at nine tomorrow morning.		Everyday and travel review		michi unit_40 sentence_976
+空港までバスでどのくらいかかりますか。	くうこうまでバスでどのくらいかかりますか。	Kuukou made basu de dono kurai kakarimasu ka.	How long does it take to get to the airport by bus?		Everyday and travel review		michi unit_40 sentence_977
+この電車は東京へ行きますか。	このでんしゃはとうきょうへいきますか。	Kono densha wa Toukyou e ikimasu ka.	Does this train go to Tokyo?		Everyday and travel review		michi unit_40 sentence_978
+二人で二泊したいです。	ふたりでにはくしたいです。	Futari de nihaku shitai desu.	We would like to stay for two nights as a party of two.		Everyday and travel review		michi unit_40 sentence_979
+部屋にお風呂はありますか。	へやにおふろはありますか。	Heya ni ofuro wa arimasu ka.	Does the room have a bath?		Everyday and travel review		michi unit_40 sentence_980
+窓から海が見えます。	まどからうみがみえます。	Mado kara umi ga miemasu.	You can see the sea from the window.		Everyday and travel review		michi unit_40 sentence_981
+朝ご飯は何時から何時までですか。	あさごはんはなんじからなんじまでですか。	Asagohan wa nanji kara nanji made desu ka.	From what time until what time is breakfast?		Everyday and travel review		michi unit_40 sentence_982
+近くに安いレストランがありますか。	ちかくにやすいレストランがありますか。	Chikaku ni yasui resutoran ga arimasu ka.	Is there an inexpensive restaurant nearby?		Everyday and travel review		michi unit_40 sentence_983
+この料理には卵が入っていますか。	このりょうりにはたまごがはいっていますか。	Kono ryouri ni wa tamago ga haitte imasu ka.	Does this dish contain eggs?		Everyday and travel review		michi unit_40 sentence_984
+水をもう一杯お願いします。	みずをもういっぱいおねがいします。	Mizu o mou ippai onegai shimasu.	One more glass of water, please.		Everyday and travel review		michi unit_40 sentence_985
+この地図で駅はどこですか。	このちずでえきはどこですか。	Kono chizu de eki wa doko desu ka.	Where is the station on this map?		Everyday and travel review		michi unit_40 sentence_986
+橋を渡って、左へ曲がってください。	はしをわたって、ひだりへまがってください。	Hashi o watatte, hidari e magatte kudasai.	Please cross the bridge and turn left.		Everyday and travel review		michi unit_40 sentence_987
+今日は雨ですが、明日は晴れです。	きょうはあめですが、あしたははれです。	Kyou wa ame desu ga, ashita wa hare desu.	It is rainy today, but it will be sunny tomorrow.		Everyday and travel review		michi unit_40 sentence_988
+夜は寒いですから、上着を持っていきましょう。	よるはさむいですから、うわぎをもっていきましょう。	Yoru wa samui desu kara, uwagi o motte ikimashou.	It is cold at night, so let's take jackets.		Everyday and travel review		michi unit_40 sentence_989
+雪が降っていますから、ゆっくり歩いてください。	ゆきがふっていますから、ゆっくりあるいてください。	Yuki ga futte imasu kara, yukkuri aruite kudasai.	It is snowing, so please walk slowly.		Everyday and travel review		michi unit_40 sentence_990
+この町でいちばん古い建物はどれですか。	このまちでいちばんふるいたてものはどれですか。	Kono machi de ichiban furui tatemono wa dore desu ka.	Which is the oldest building in this town?		Everyday and travel review		michi unit_40 sentence_991
+この服を着てもいいですか。	このふくをきてもいいですか。	Kono fuku o kite mo ii desu ka.	May I wear these clothes?		Everyday and travel review		michi unit_40 sentence_992
+もっと小さい靴はありますか。	もっとちいさいくつはありますか。	Motto chiisai kutsu wa arimasu ka.	Do you have smaller shoes?		Everyday and travel review		michi unit_40 sentence_993
+現金で払ってもいいですか。	げんきんではらってもいいですか。	Genkin de haratte mo ii desu ka.	May I pay in cash?		Everyday and travel review		michi unit_40 sentence_994
+昨日ここで買ったかばんを忘れました。	きのうここでかったかばんをわすれました。	Kinou koko de katta kaban o wasuremashita.	I forgot the bag I bought here yesterday.		Everyday and travel review		michi unit_40 sentence_995
+駅に電話をかけたいです。	えきにでんわをかけたいです。	Eki ni denwa o kaketai desu.	I want to call the station.		Everyday and travel review		michi unit_40 sentence_996
+日本語でゆっくり話してください。	にほんごでゆっくりはなしてください。	Nihongo de yukkuri hanashite kudasai.	Please speak slowly in Japanese.		Everyday and travel review		michi unit_40 sentence_997
+その言葉の意味を教えてください。	そのことばのいみをおしえてください。	Sono kotoba no imi o oshiete kudasai.	Please tell me the meaning of that word.		Everyday and travel review		michi unit_40 sentence_998
+旅行の前にこの本を読んでください。	りょこうのまえにこのほんをよんでください。	Ryokou no mae ni kono hon o yonde kudasai.	Please read this book before your trip.		Everyday and travel review		michi unit_40 sentence_999
+帰る前に友だちと写真を撮りたいです。	かえるまえにともだちとしゃしんをとりたいです。	Kaeru mae ni tomodachi to shashin o toritai desu.	I want to take a photo with my friends before going home.		Everyday and travel review		michi unit_40 sentence_1000
